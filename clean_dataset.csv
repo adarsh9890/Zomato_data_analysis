@@ -1,0 +1,1001 @@
+order_id,customer_id,restaurant_name,cuisine,order_datetime,delivery_time_min,order_value,discount_percent,payment_method,rating,delivery_city,delivery_partner,food_items,cancellation_reason,refund_amount,order_date,order_hour,order_day,is_rated
+15907,4106,Spice Villa,Japanese,2025-03-17 00:07:04,60.0,958.0,32.08,Card,5.0,Pune,Deepak,South Thali,No cancellation,0.0,2025-03-17,0,Monday,True
+51750,4817,Burger Hub,North Indian,2025-08-25 06:06:04,48.0,958.0,25.79,Cash,5.0,Bangalore,Fatima,Noodles,Rider unavailable,0.0,2025-08-25,6,Monday,True
+52556,9739,Spice Villa,Mexican,2025-03-15 11:54:04,60.0,958.0,0.0,Card,5.0,Pune,Rohan,"Pizza, Coke",No cancellation,0.0,2025-03-15,11,Saturday,True
+52879,2384,Noodle House,North Indian,2025-10-22 05:12:04,60.0,958.0,38.62,Wallet,0.0,Bangalore,Kiran,"Pizza, Coke",No cancellation,0.0,2025-10-22,5,Wednesday,False
+98872,2864,Tandoori Nights,Chinese,2025-02-17 12:31:04,60.0,723.03,28.72,Wallet,2.1,Hyderabad,Sana,Sushi Set,Restaurant busy,237.5,2025-02-17,12,Monday,True
+24960,6741,Biryani Express,Fast Food,2025-08-29 10:51:04,60.0,958.0,0.0,Card,4.6,Pune,Kiran,South Thali,No cancellation,0.0,2025-08-29,10,Friday,True
+55125,5526,Veggie Point,North Indian,2025-09-25 07:54:04,60.0,958.0,0.0,Wallet,4.4,Mumbai,Kiran,"Pizza, Coke",Customer Cancelled,0.0,2025-09-25,7,Thursday,True
+37029,4018,Veggie Point,Fast Food,2025-01-06 08:33:04,40.0,958.0,0.0,Cash,0.0,Hyderabad,Kiran,"Burger, Fries",Restaurant busy,0.0,2025-01-06,8,Monday,False
+55223,3598,Biryani Express,South Indian,2025-05-25 23:47:04,60.0,958.0,0.0,Cash,5.0,Bangalore,Kiran,Sushi Set,Restaurant busy,0.0,2025-05-25,23,Sunday,True
+84691,7734,Sushi World,North Indian,2025-01-29 05:14:04,60.0,958.0,0.0,Upi,0.0,Kolkata,Amit,South Thali,No cancellation,0.0,2025-01-29,5,Wednesday,False
+70829,6522,Spice Villa,Mexican,2025-09-05 09:22:04,60.0,958.0,17.1,Upi,3.0,Mumbai,Harsh,Sushi Set,Rider unavailable,0.0,2025-09-05,9,Friday,True
+13698,2226,Pizza Craft,North Indian,2025-08-23 16:56:04,60.0,958.0,0.0,Net Banking,5.0,Hyderabad,Sana,Biryani,Customer Cancelled,419.02,2025-08-23,16,Saturday,True
+40057,2052,Pizza Craft,South Indian,2025-07-17 18:07:04,60.0,685.48,0.0,Net Banking,0.0,Pune,Sana,Biryani,Customer Cancelled,0.0,2025-07-17,18,Thursday,False
+29824,2942,Burger Hub,Italian,2025-06-12 01:37:04,60.0,958.0,13.7,Cash,4.0,Mumbai,Deepak,South Thali,Rider unavailable,223.43,2025-06-12,1,Thursday,True
+76598,8049,Burger Hub,North Indian,2025-04-01 21:14:04,60.0,958.0,3.96,Net Banking,0.0,Mumbai,Fatima,Noodles,Customer Cancelled,0.0,2025-04-01,21,Tuesday,False
+72663,1671,Sushi World,Chinese,2025-10-09 20:36:04,60.0,958.0,9.71,Net Banking,4.9,Pune,Sana,"Pizza, Coke",No cancellation,0.0,2025-10-09,20,Thursday,True
+41967,4271,Café Bliss,North Indian,2025-09-08 10:41:04,60.0,958.0,19.51,Upi,0.0,Delhi,Deepak,South Thali,No cancellation,0.0,2025-09-08,10,Monday,False
+11599,5275,Burger Hub,Fast Food,2025-08-01 14:23:04,34.0,1642.9,0.0,Cash,5.0,Bangalore,Harsh,Sushi Set,No cancellation,0.0,2025-08-01,14,Friday,True
+13860,5635,Noodle House,Chinese,2025-03-11 03:26:04,60.0,1542.68,0.0,Upi,3.6,Bangalore,Amit,Noodles,Restaurant busy,0.0,2025-03-11,3,Tuesday,True
+84050,5795,Burger Hub,Italian,2025-02-12 22:42:04,60.0,958.0,0.0,Net Banking,0.0,Bangalore,Kiran,South Thali,No cancellation,0.0,2025-02-12,22,Wednesday,False
+24482,6510,Noodle House,Italian,2025-10-12 21:10:04,60.0,958.0,0.0,Net Banking,0.0,Delhi,Amit,"Burger, Fries",Rider unavailable,0.0,2025-10-12,21,Sunday,False
+27860,9266,Veggie Point,Chinese,2025-06-17 12:37:04,60.0,958.0,6.01,Card,4.3,Pune,Fatima,"Burger, Fries",Rider unavailable,0.0,2025-06-17,12,Tuesday,True
+91768,4122,Café Bliss,Italian,2024-12-23 15:01:04,60.0,587.04,17.69,Upi,2.4,Mumbai,Rohan,"Pizza, Coke",Customer Cancelled,0.0,2024-12-23,15,Monday,True
+74285,8669,Kebab Street,North Indian,2025-01-16 22:41:04,60.0,958.0,0.0,Upi,5.0,Pune,Sana,Sushi Set,Rider unavailable,0.0,2025-01-16,22,Thursday,True
+67224,8972,Biryani Express,Japanese,2025-07-01 06:25:04,41.0,958.0,36.87,Wallet,2.2,Kolkata,Fatima,Noodles,Restaurant busy,0.0,2025-07-01,6,Tuesday,True
+24771,6204,Kebab Street,Italian,2025-04-16 10:31:04,60.0,958.0,0.0,Cash,4.6,Delhi,Kiran,Noodles,Rider unavailable,0.0,2025-04-16,10,Wednesday,True
+21913,7126,Café Bliss,South Indian,2025-04-30 18:39:04,60.0,958.0,0.0,Upi,0.0,Delhi,Rohan,South Thali,No cancellation,0.0,2025-04-30,18,Wednesday,False
+88017,4629,Spice Villa,Fast Food,2024-12-11 14:03:04,60.0,958.0,0.0,Wallet,5.0,Delhi,Kiran,"Burger, Fries",Rider unavailable,0.0,2024-12-11,14,Wednesday,True
+20409,5453,Spice Villa,North Indian,2025-06-15 16:14:04,60.0,958.0,0.0,Card,5.0,Kolkata,Harsh,Sushi Set,Rider unavailable,0.0,2025-06-15,16,Sunday,True
+82226,4378,Burger Hub,North Indian,2025-05-07 07:18:04,60.0,958.0,17.85,Cash,3.8,Hyderabad,Fatima,South Thali,Restaurant busy,0.0,2025-05-07,7,Wednesday,True
+81941,6514,Burger Hub,Fast Food,2025-01-04 00:36:04,60.0,655.64,0.0,Cash,0.0,Kolkata,Rohan,"Burger, Fries",No cancellation,0.0,2025-01-04,0,Saturday,False
+17699,4904,Veggie Point,Chinese,2025-11-05 08:38:04,60.0,958.0,0.0,Cash,0.0,Hyderabad,Amit,"Burger, Fries",Restaurant busy,674.8,2025-11-05,8,Wednesday,False
+59605,3197,Spice Villa,Chinese,2025-09-07 04:55:04,60.0,958.0,0.0,Cash,5.0,Mumbai,Fatima,Sushi Set,Restaurant busy,165.98,2025-09-07,4,Sunday,True
+59107,7659,Tandoori Nights,South Indian,2025-05-18 20:03:04,60.0,1343.61,0.38,Cash,0.0,Kolkata,Sana,Sushi Set,Customer Cancelled,0.0,2025-05-18,20,Sunday,False
+33884,2559,Burger Hub,North Indian,2025-01-25 15:04:04,60.0,958.0,0.0,Net Banking,5.0,Pune,Amit,Noodles,No cancellation,0.0,2025-01-25,15,Saturday,True
+16143,7000,Veggie Point,South Indian,2025-04-28 21:46:04,108.0,958.0,0.0,Cash,1.7,Bangalore,Amit,"Burger, Fries",Customer Cancelled,0.0,2025-04-28,21,Monday,True
+83158,3683,Spice Villa,Chinese,2025-06-26 23:27:04,60.0,1179.93,0.0,Upi,0.0,Delhi,Sana,Sushi Set,Customer Cancelled,318.14,2025-06-26,23,Thursday,False
+56954,7894,Tandoori Nights,Chinese,2025-07-14 11:49:04,29.0,1040.75,0.0,Net Banking,5.0,Kolkata,Kiran,Noodles,No cancellation,0.0,2025-07-14,11,Monday,True
+14223,4102,Noodle House,North Indian,2025-07-11 22:48:04,59.0,958.0,0.0,Net Banking,5.0,Delhi,Kiran,Sushi Set,Customer Cancelled,0.0,2025-07-11,22,Friday,True
+34819,5031,Kebab Street,Japanese,2025-04-16 13:30:04,60.0,958.0,33.55,Cash,0.0,Pune,Rohan,"Pizza, Coke",Rider unavailable,0.0,2025-04-16,13,Wednesday,False
+43349,8136,Kebab Street,South Indian,2025-06-29 15:36:04,60.0,958.0,0.0,Cash,0.0,Mumbai,Fatima,Noodles,Rider unavailable,0.0,2025-06-29,15,Sunday,False
+17644,8685,Café Bliss,Chinese,2025-05-12 10:09:04,60.0,958.0,0.0,Upi,0.0,Hyderabad,Sana,South Thali,Restaurant busy,0.0,2025-05-12,10,Monday,False
+52910,3725,Spice Villa,Italian,2025-07-10 00:30:04,60.0,958.0,0.0,Card,5.0,Bangalore,Kiran,Biryani,Customer Cancelled,169.88,2025-07-10,0,Thursday,True
+55670,1144,Burger Hub,South Indian,2025-03-07 21:08:04,80.0,958.0,0.0,Card,2.6,Kolkata,Amit,Noodles,No cancellation,0.0,2025-03-07,21,Friday,True
+19304,4669,Burger Hub,Chinese,2025-11-02 14:02:04,60.0,958.0,0.0,Upi,5.0,Bangalore,Rohan,South Thali,Customer Cancelled,0.0,2025-11-02,14,Sunday,True
+25321,4695,Café Bliss,Italian,2025-05-27 14:59:04,60.0,958.0,11.26,Cash,0.0,Delhi,Fatima,Sushi Set,No cancellation,0.0,2025-05-27,14,Tuesday,False
+85665,4506,Pizza Craft,North Indian,2025-03-29 05:42:04,46.0,958.0,4.89,Net Banking,0.0,Mumbai,Fatima,"Pizza, Coke",Rider unavailable,457.82,2025-03-29,5,Saturday,False
+19089,9671,Spice Villa,Italian,2025-09-25 01:59:04,60.0,958.0,0.0,Cash,4.2,Pune,Rohan,Noodles,Rider unavailable,0.0,2025-09-25,1,Thursday,True
+68363,6108,Burger Hub,Japanese,2025-04-11 13:43:04,70.0,958.0,25.62,Cash,5.0,Mumbai,Rohan,"Burger, Fries",Restaurant busy,0.0,2025-04-11,13,Friday,True
+56247,3320,Pizza Craft,Fast Food,2025-07-30 04:00:04,93.0,958.0,0.0,Cash,5.0,Mumbai,Sana,Sushi Set,Restaurant busy,0.0,2025-07-30,4,Wednesday,True
+15639,2177,Noodle House,North Indian,2025-09-16 20:02:04,101.0,958.0,23.21,Upi,0.0,Delhi,Fatima,Noodles,Customer Cancelled,0.0,2025-09-16,20,Tuesday,False
+89953,2258,Veggie Point,Japanese,2025-07-13 03:01:04,30.0,1251.64,13.9,Wallet,5.0,Mumbai,Rohan,Noodles,Rider unavailable,0.0,2025-07-13,3,Sunday,True
+14892,5438,Noodle House,Japanese,2024-12-13 07:05:04,86.0,958.0,0.0,Cash,2.7,Kolkata,Amit,South Thali,Rider unavailable,0.0,2024-12-13,7,Friday,True
+71635,4011,Burger Hub,Fast Food,2024-12-10 05:11:04,73.0,958.0,0.0,Card,0.0,Kolkata,Harsh,Biryani,Customer Cancelled,300.52,2024-12-10,5,Tuesday,False
+74524,8364,Tandoori Nights,North Indian,2025-04-07 08:40:04,38.0,958.0,0.0,Upi,3.5,Hyderabad,Fatima,Biryani,Rider unavailable,0.0,2025-04-07,8,Monday,True
+71258,8805,Noodle House,Japanese,2024-12-16 01:33:04,60.0,722.9,33.72,Card,5.0,Delhi,Sana,"Pizza, Coke",Rider unavailable,0.0,2024-12-16,1,Monday,True
+66255,1396,Tandoori Nights,North Indian,2025-09-16 20:39:04,60.0,1173.2,26.86,Cash,0.0,Delhi,Kiran,"Burger, Fries",Restaurant busy,597.11,2025-09-16,20,Tuesday,False
+33737,4538,Veggie Point,Italian,2025-03-12 10:45:04,101.0,958.0,18.19,Upi,2.7,Bangalore,Rohan,South Thali,Customer Cancelled,0.0,2025-03-12,10,Wednesday,True
+49528,6150,Café Bliss,Italian,2025-11-19 21:08:04,60.0,958.0,0.0,Cash,3.0,Bangalore,Harsh,Sushi Set,No cancellation,0.0,2025-11-19,21,Wednesday,True
+14480,2780,Spice Villa,Italian,2025-04-12 21:11:04,60.0,958.0,0.0,Net Banking,0.0,Delhi,Amit,Sushi Set,Restaurant busy,0.0,2025-04-12,21,Saturday,False
+26610,9873,Burger Hub,Italian,2025-08-26 06:07:04,60.0,958.0,0.0,Net Banking,5.0,Delhi,Deepak,South Thali,Rider unavailable,0.0,2025-08-26,6,Tuesday,True
+72226,1125,Veggie Point,South Indian,2025-08-17 20:27:04,60.0,958.0,26.5,Cash,1.9,Delhi,Deepak,Sushi Set,No cancellation,0.0,2025-08-17,20,Sunday,True
+19419,4524,Spice Villa,Chinese,2025-04-27 20:09:04,60.0,958.0,8.86,Card,0.0,Kolkata,Deepak,Sushi Set,Customer Cancelled,0.0,2025-04-27,20,Sunday,False
+60914,3417,Tandoori Nights,South Indian,2025-09-19 11:49:04,24.0,1497.45,0.0,Wallet,5.0,Delhi,Kiran,"Pizza, Coke",Customer Cancelled,519.11,2025-09-19,11,Friday,True
+99537,1268,Kebab Street,Fast Food,2025-03-15 11:55:04,60.0,958.0,0.0,Cash,5.0,Pune,Harsh,Biryani,Rider unavailable,0.0,2025-03-15,11,Saturday,True
+74696,8631,Biryani Express,Italian,2025-03-20 12:15:04,60.0,958.0,26.19,Net Banking,5.0,Kolkata,Deepak,"Burger, Fries",Rider unavailable,202.08,2025-03-20,12,Thursday,True
+69219,8119,Tandoori Nights,Mexican,2024-11-27 02:39:04,60.0,1433.44,0.0,Upi,0.0,Pune,Amit,"Pizza, Coke",No cancellation,0.0,2024-11-27,2,Wednesday,False
+19709,1381,Burger Hub,North Indian,2025-09-07 15:53:04,60.0,958.0,14.76,Upi,1.0,Delhi,Rohan,Sushi Set,Rider unavailable,427.9,2025-09-07,15,Sunday,True
+50952,6234,Veggie Point,Mexican,2025-04-09 17:53:04,60.0,1109.1,0.0,Cash,5.0,Hyderabad,Amit,Sushi Set,Rider unavailable,0.0,2025-04-09,17,Wednesday,True
+40782,6165,Kebab Street,Chinese,2025-04-27 08:20:04,80.0,939.63,0.0,Cash,5.0,Bangalore,Kiran,South Thali,Customer Cancelled,318.42,2025-04-27,8,Sunday,True
+95735,7130,Café Bliss,Mexican,2025-09-21 13:32:04,60.0,348.88,0.0,Cash,0.0,Hyderabad,Rohan,Biryani,Customer Cancelled,0.0,2025-09-21,13,Sunday,False
+53340,4396,Burger Hub,North Indian,2025-11-17 17:40:04,85.0,958.0,0.0,Upi,3.2,Hyderabad,Sana,Noodles,No cancellation,0.0,2025-11-17,17,Monday,True
+19043,2086,Pizza Craft,Japanese,2024-12-05 23:11:04,106.0,1712.57,0.0,Upi,5.0,Pune,Harsh,Noodles,Rider unavailable,565.73,2024-12-05,23,Thursday,True
+48807,7857,Spice Villa,North Indian,2025-01-15 22:06:04,60.0,1217.35,0.0,Cash,4.3,Hyderabad,Sana,Biryani,Restaurant busy,0.0,2025-01-15,22,Wednesday,True
+71334,7638,Veggie Point,North Indian,2025-04-27 21:52:04,60.0,958.0,0.0,Net Banking,5.0,Mumbai,Harsh,Noodles,Customer Cancelled,572.48,2025-04-27,21,Sunday,True
+41736,6099,Noodle House,Italian,2025-06-10 12:00:04,19.0,958.0,0.0,Card,2.8,Pune,Sana,South Thali,Restaurant busy,606.73,2025-06-10,12,Tuesday,True
+52837,1464,Burger Hub,Japanese,2025-01-03 05:27:04,16.0,958.0,0.0,Cash,4.2,Bangalore,Fatima,Biryani,Restaurant busy,0.0,2025-01-03,5,Friday,True
+95820,5999,Tandoori Nights,North Indian,2025-06-27 01:27:04,32.0,958.0,29.88,Cash,2.0,Bangalore,Sana,Noodles,Customer Cancelled,0.0,2025-06-27,1,Friday,True
+55740,5906,Tandoori Nights,Italian,2025-07-29 10:29:04,75.0,158.08,0.0,Card,5.0,Delhi,Deepak,Noodles,Customer Cancelled,0.0,2025-07-29,10,Tuesday,True
+63276,9404,Pizza Craft,Japanese,2025-03-20 08:12:04,60.0,870.5,0.0,Cash,1.7,Mumbai,Fatima,"Pizza, Coke",Restaurant busy,0.0,2025-03-20,8,Thursday,True
+35620,5152,Noodle House,Italian,2025-01-06 08:58:04,60.0,958.0,0.0,Card,4.9,Hyderabad,Amit,Biryani,Restaurant busy,0.0,2025-01-06,8,Monday,True
+69873,4037,Burger Hub,North Indian,2025-01-24 21:26:04,60.0,1768.26,24.55,Net Banking,0.0,Hyderabad,Kiran,Noodles,No cancellation,0.0,2025-01-24,21,Friday,False
+49142,7155,Noodle House,North Indian,2025-04-22 05:24:04,60.0,958.0,0.0,Card,2.0,Hyderabad,Harsh,South Thali,No cancellation,0.0,2025-04-22,5,Tuesday,True
+47722,5910,Veggie Point,Fast Food,2025-10-18 20:44:04,60.0,958.0,10.57,Net Banking,4.0,Hyderabad,Sana,"Pizza, Coke",No cancellation,0.0,2025-10-18,20,Saturday,True
+54083,8493,Spice Villa,North Indian,2025-11-13 02:53:04,60.0,1044.77,0.0,Wallet,2.3,Mumbai,Kiran,Noodles,Restaurant busy,267.74,2025-11-13,2,Thursday,True
+94382,7882,Sushi World,Japanese,2025-08-24 19:46:04,60.0,1348.14,3.61,Upi,0.0,Hyderabad,Harsh,"Burger, Fries",Restaurant busy,534.58,2025-08-24,19,Sunday,False
+93165,1114,Pizza Craft,South Indian,2025-11-09 16:55:04,60.0,958.0,0.0,Upi,5.0,Pune,Harsh,"Pizza, Coke",Rider unavailable,223.9,2025-11-09,16,Sunday,True
+51082,5966,Burger Hub,South Indian,2025-03-28 13:31:04,39.0,958.0,0.0,Card,0.0,Hyderabad,Harsh,Noodles,Customer Cancelled,315.21,2025-03-28,13,Friday,False
+17912,2202,Sushi World,Fast Food,2025-11-24 14:46:04,60.0,1175.3,29.12,Card,5.0,Bangalore,Harsh,"Burger, Fries",Rider unavailable,585.29,2025-11-24,14,Monday,True
+42206,8231,Spice Villa,Italian,2024-12-27 00:37:04,60.0,958.0,0.0,Card,3.9,Delhi,Deepak,Biryani,No cancellation,0.0,2024-12-27,0,Friday,True
+56749,2930,Biryani Express,Mexican,2025-02-22 17:07:04,60.0,514.77,0.0,Cash,0.0,Kolkata,Fatima,Noodles,Restaurant busy,442.06,2025-02-22,17,Saturday,False
+31453,6448,Tandoori Nights,Italian,2025-06-24 09:20:04,60.0,1196.62,0.0,Cash,0.0,Kolkata,Amit,South Thali,Restaurant busy,571.06,2025-06-24,9,Tuesday,False
+31362,1840,Burger Hub,Fast Food,2025-06-01 04:43:04,62.0,958.0,0.0,Upi,0.0,Hyderabad,Fatima,Sushi Set,No cancellation,0.0,2025-06-01,4,Sunday,False
+14792,3789,Spice Villa,Mexican,2025-08-28 11:46:04,60.0,958.0,0.0,Net Banking,0.0,Hyderabad,Fatima,"Burger, Fries",No cancellation,0.0,2025-08-28,11,Thursday,False
+73677,4925,Burger Hub,Italian,2025-01-30 02:51:04,47.0,958.0,0.0,Cash,5.0,Mumbai,Amit,Sushi Set,No cancellation,0.0,2025-01-30,2,Thursday,True
+34449,1857,Burger Hub,Japanese,2025-08-28 06:14:04,85.0,958.0,13.16,Net Banking,5.0,Pune,Sana,Biryani,Customer Cancelled,0.0,2025-08-28,6,Thursday,True
+46970,9537,Veggie Point,North Indian,2025-06-02 07:25:04,60.0,958.0,0.0,Wallet,3.0,Delhi,Sana,"Burger, Fries",No cancellation,0.0,2025-06-02,7,Monday,True
+41878,3686,Kebab Street,Mexican,2025-03-04 06:33:04,60.0,715.23,0.0,Net Banking,4.5,Bangalore,Harsh,"Burger, Fries",Customer Cancelled,0.0,2025-03-04,6,Tuesday,True
+97861,4446,Veggie Point,Mexican,2025-05-05 01:25:04,18.0,958.0,0.0,Net Banking,2.5,Bangalore,Rohan,Noodles,Customer Cancelled,0.0,2025-05-05,1,Monday,True
+28417,4046,Burger Hub,Italian,2025-01-19 09:00:04,60.0,958.0,0.0,Cash,5.0,Pune,Rohan,Noodles,Restaurant busy,0.0,2025-01-19,9,Sunday,True
+81857,9952,Kebab Street,North Indian,2025-03-26 02:18:04,95.0,958.0,0.0,Upi,5.0,Kolkata,Fatima,Sushi Set,Restaurant busy,0.0,2025-03-26,2,Wednesday,True
+75787,7321,Kebab Street,Fast Food,2025-09-28 04:42:04,60.0,958.0,36.5,Cash,5.0,Hyderabad,Kiran,South Thali,Restaurant busy,0.0,2025-09-28,4,Sunday,True
+99634,5076,Café Bliss,Italian,2024-12-14 14:22:04,31.0,958.0,20.01,Upi,5.0,Mumbai,Harsh,Sushi Set,Restaurant busy,209.66,2024-12-14,14,Saturday,True
+74495,4690,Burger Hub,Italian,2025-03-01 20:30:04,69.0,958.0,7.72,Wallet,4.2,Delhi,Fatima,"Burger, Fries",No cancellation,0.0,2025-03-01,20,Saturday,True
+30725,7414,Spice Villa,South Indian,2025-09-28 02:53:04,60.0,958.0,35.0,Upi,5.0,Bangalore,Fatima,"Burger, Fries",Rider unavailable,0.0,2025-09-28,2,Sunday,True
+68146,5625,Café Bliss,North Indian,2025-01-01 17:15:04,60.0,958.0,15.35,Cash,5.0,Mumbai,Sana,"Burger, Fries",Customer Cancelled,0.0,2025-01-01,17,Wednesday,True
+41363,9535,Noodle House,Italian,2025-02-14 06:11:04,60.0,1702.24,0.0,Cash,3.1,Kolkata,Kiran,Sushi Set,Restaurant busy,0.0,2025-02-14,6,Friday,True
+45808,3869,Burger Hub,South Indian,2025-02-16 19:20:04,117.0,958.0,0.0,Wallet,5.0,Pune,Kiran,South Thali,No cancellation,0.0,2025-02-16,19,Sunday,True
+93267,3600,Veggie Point,Chinese,2025-04-18 10:20:04,60.0,1661.81,0.0,Upi,0.0,Hyderabad,Rohan,Biryani,No cancellation,0.0,2025-04-18,10,Friday,False
+95671,9096,Café Bliss,Italian,2024-12-17 22:24:04,60.0,141.24,29.96,Card,5.0,Delhi,Kiran,"Pizza, Coke",No cancellation,0.0,2024-12-17,22,Tuesday,True
+65291,2176,Biryani Express,Italian,2024-12-01 21:16:04,60.0,958.0,0.0,Net Banking,1.3,Bangalore,Fatima,South Thali,Customer Cancelled,0.0,2024-12-01,21,Sunday,True
+34233,7990,Biryani Express,South Indian,2025-11-03 22:43:04,60.0,1093.55,0.0,Card,5.0,Hyderabad,Fatima,South Thali,No cancellation,0.0,2025-11-03,22,Monday,True
+59080,7616,Burger Hub,North Indian,2025-06-16 20:35:04,69.0,137.96,0.0,Wallet,3.8,Mumbai,Sana,"Burger, Fries",Customer Cancelled,389.14,2025-06-16,20,Monday,True
+28567,8603,Kebab Street,North Indian,2025-02-04 17:16:04,101.0,958.0,0.0,Upi,5.0,Mumbai,Harsh,Sushi Set,No cancellation,0.0,2025-02-04,17,Tuesday,True
+19850,5730,Noodle House,Italian,2025-07-10 21:34:04,60.0,1124.28,0.0,Net Banking,1.3,Hyderabad,Deepak,"Pizza, Coke",Customer Cancelled,0.0,2025-07-10,21,Thursday,True
+11781,4696,Spice Villa,North Indian,2025-02-06 22:51:04,60.0,958.0,26.48,Upi,5.0,Bangalore,Deepak,"Pizza, Coke",Rider unavailable,0.0,2025-02-06,22,Thursday,True
+53810,2898,Tandoori Nights,Italian,2025-11-06 19:14:04,86.0,1526.92,0.0,Upi,0.0,Kolkata,Rohan,Sushi Set,Rider unavailable,0.0,2025-11-06,19,Thursday,False
+14707,3176,Spice Villa,North Indian,2024-12-01 12:35:04,72.0,958.0,0.0,Upi,5.0,Mumbai,Deepak,Biryani,Rider unavailable,228.72,2024-12-01,12,Sunday,True
+11229,4660,Sushi World,South Indian,2025-07-31 11:18:04,60.0,958.0,31.31,Cash,5.0,Mumbai,Kiran,Biryani,Customer Cancelled,249.28,2025-07-31,11,Thursday,True
+78653,1787,Veggie Point,Fast Food,2024-12-16 10:50:04,60.0,958.0,14.94,Wallet,2.5,Kolkata,Fatima,"Pizza, Coke",Rider unavailable,0.0,2024-12-16,10,Monday,True
+29509,3717,Burger Hub,South Indian,2025-01-11 04:23:04,60.0,1582.19,0.0,Upi,5.0,Delhi,Kiran,"Burger, Fries",Customer Cancelled,0.0,2025-01-11,4,Saturday,True
+88218,8634,Burger Hub,Mexican,2024-12-12 09:22:04,78.0,1662.96,37.9,Wallet,5.0,Kolkata,Harsh,South Thali,No cancellation,0.0,2024-12-12,9,Thursday,True
+66830,1583,Kebab Street,Chinese,2025-11-12 02:00:04,60.0,958.0,0.0,Wallet,5.0,Pune,Harsh,Biryani,No cancellation,0.0,2025-11-12,2,Wednesday,True
+21578,5655,Kebab Street,Chinese,2025-06-21 05:56:04,60.0,958.0,34.68,Net Banking,3.3,Pune,Harsh,"Pizza, Coke",Customer Cancelled,133.33,2025-06-21,5,Saturday,True
+68100,2500,Veggie Point,Chinese,2025-10-03 15:47:04,60.0,958.0,0.0,Net Banking,4.7,Mumbai,Fatima,Noodles,Restaurant busy,698.69,2025-10-03,15,Friday,True
+20931,9250,Biryani Express,North Indian,2025-11-21 21:23:04,60.0,958.0,34.79,Cash,2.3,Delhi,Kiran,Noodles,Restaurant busy,0.0,2025-11-21,21,Friday,True
+26843,7415,Spice Villa,North Indian,2025-05-08 23:59:04,60.0,1526.68,14.17,Cash,3.3,Mumbai,Fatima,Biryani,No cancellation,0.0,2025-05-08,23,Thursday,True
+53536,2404,Café Bliss,Chinese,2025-10-31 08:00:04,60.0,958.0,5.2,Cash,1.9,Mumbai,Kiran,Sushi Set,No cancellation,0.0,2025-10-31,8,Friday,True
+86242,8173,Kebab Street,Japanese,2025-08-13 19:32:04,60.0,793.03,0.0,Cash,0.0,Mumbai,Sana,Sushi Set,Customer Cancelled,0.0,2025-08-13,19,Wednesday,False
+14095,4663,Tandoori Nights,Fast Food,2025-03-11 21:31:04,71.0,958.0,0.0,Cash,5.0,Hyderabad,Sana,Sushi Set,Restaurant busy,607.08,2025-03-11,21,Tuesday,True
+70688,9009,Pizza Craft,Chinese,2025-04-05 05:20:04,97.0,958.0,0.0,Cash,2.8,Pune,Fatima,Sushi Set,Restaurant busy,0.0,2025-04-05,5,Saturday,True
+30816,8978,Noodle House,Mexican,2025-04-02 07:48:04,98.0,443.74,0.0,Cash,0.0,Mumbai,Rohan,South Thali,Restaurant busy,54.16,2025-04-02,7,Wednesday,False
+79872,1295,Burger Hub,North Indian,2025-09-27 13:06:04,100.0,958.0,25.08,Wallet,5.0,Kolkata,Kiran,"Pizza, Coke",Customer Cancelled,0.0,2025-09-27,13,Saturday,True
+31349,4502,Burger Hub,Chinese,2025-08-28 09:12:04,60.0,958.0,0.0,Net Banking,5.0,Kolkata,Amit,Noodles,Customer Cancelled,84.18,2025-08-28,9,Thursday,True
+61058,2584,Burger Hub,North Indian,2025-10-14 11:15:04,54.0,958.0,0.0,Wallet,3.1,Delhi,Harsh,South Thali,Restaurant busy,0.0,2025-10-14,11,Tuesday,True
+74708,4410,Spice Villa,Japanese,2025-07-26 04:26:04,68.0,958.0,17.91,Cash,0.0,Hyderabad,Kiran,"Burger, Fries",No cancellation,0.0,2025-07-26,4,Saturday,False
+64921,5928,Biryani Express,North Indian,2024-12-13 08:51:04,60.0,958.0,27.13,Card,5.0,Pune,Rohan,Biryani,Customer Cancelled,0.0,2024-12-13,8,Friday,True
+21012,4554,Noodle House,North Indian,2025-11-20 01:22:04,60.0,726.45,0.0,Upi,5.0,Kolkata,Kiran,South Thali,No cancellation,0.0,2025-11-20,1,Thursday,True
+16599,1868,Noodle House,Japanese,2025-03-19 04:26:04,118.0,958.0,0.0,Cash,4.2,Delhi,Deepak,Biryani,Rider unavailable,363.65,2025-03-19,4,Wednesday,True
+37984,5738,Tandoori Nights,North Indian,2025-06-07 11:18:04,60.0,958.0,0.0,Net Banking,5.0,Delhi,Rohan,"Pizza, Coke",Customer Cancelled,0.0,2025-06-07,11,Saturday,True
+59049,5106,Biryani Express,Fast Food,2025-07-15 03:56:04,53.0,761.86,0.0,Wallet,5.0,Pune,Kiran,"Pizza, Coke",Restaurant busy,0.0,2025-07-15,3,Tuesday,True
+52648,6082,Café Bliss,North Indian,2025-08-25 22:03:04,60.0,958.0,0.0,Wallet,4.7,Hyderabad,Fatima,"Burger, Fries",Rider unavailable,0.0,2025-08-25,22,Monday,True
+89595,8671,Burger Hub,South Indian,2025-01-25 10:38:04,29.0,958.0,0.0,Card,5.0,Mumbai,Fatima,"Burger, Fries",Restaurant busy,0.0,2025-01-25,10,Saturday,True
+80880,4442,Tandoori Nights,North Indian,2025-11-12 18:53:04,75.0,242.37,0.0,Card,5.0,Kolkata,Harsh,"Burger, Fries",No cancellation,0.0,2025-11-12,18,Wednesday,True
+59320,1840,Noodle House,Japanese,2025-07-15 15:56:04,60.0,958.0,17.27,Cash,5.0,Hyderabad,Rohan,Biryani,Restaurant busy,388.34,2025-07-15,15,Tuesday,True
+67333,8867,Biryani Express,Italian,2025-09-22 20:27:04,21.0,958.0,29.98,Net Banking,0.0,Mumbai,Harsh,Noodles,No cancellation,0.0,2025-09-22,20,Monday,False
+90096,5408,Spice Villa,North Indian,2025-02-12 05:14:04,86.0,958.0,0.0,Cash,5.0,Kolkata,Kiran,"Pizza, Coke",No cancellation,0.0,2025-02-12,5,Wednesday,True
+30159,7317,Café Bliss,South Indian,2025-11-11 04:23:04,98.0,1272.97,0.0,Upi,0.0,Kolkata,Fatima,Noodles,Restaurant busy,0.0,2025-11-11,4,Tuesday,False
+87089,1745,Veggie Point,North Indian,2025-04-10 14:36:04,31.0,958.0,0.0,Net Banking,0.0,Bangalore,Amit,Sushi Set,Rider unavailable,0.0,2025-04-10,14,Thursday,False
+46980,3530,Tandoori Nights,Italian,2025-05-06 23:25:04,60.0,958.0,13.2,Wallet,5.0,Kolkata,Deepak,"Burger, Fries",Rider unavailable,0.0,2025-05-06,23,Tuesday,True
+71023,9048,Burger Hub,North Indian,2025-03-30 15:57:04,68.0,958.0,17.96,Net Banking,0.0,Mumbai,Harsh,Noodles,No cancellation,0.0,2025-03-30,15,Sunday,False
+97544,2458,Spice Villa,Italian,2025-10-21 01:46:04,60.0,958.0,27.56,Cash,0.0,Kolkata,Rohan,Sushi Set,Rider unavailable,602.54,2025-10-21,1,Tuesday,False
+14632,2033,Burger Hub,Japanese,2025-02-13 16:36:04,60.0,574.1,0.0,Cash,5.0,Pune,Amit,"Pizza, Coke",No cancellation,0.0,2025-02-13,16,Thursday,True
+60293,6889,Veggie Point,Japanese,2025-10-27 20:25:04,60.0,958.0,0.0,Upi,0.0,Kolkata,Sana,"Pizza, Coke",Rider unavailable,0.0,2025-10-27,20,Monday,False
+59952,4256,Café Bliss,Chinese,2025-08-21 03:41:04,47.0,958.0,16.78,Cash,0.0,Kolkata,Harsh,Sushi Set,Rider unavailable,0.0,2025-08-21,3,Thursday,False
+67267,4322,Spice Villa,Japanese,2025-04-16 19:23:04,60.0,1232.94,0.0,Upi,5.0,Hyderabad,Fatima,Biryani,No cancellation,0.0,2025-04-16,19,Wednesday,True
+73159,3178,Biryani Express,Italian,2025-11-10 16:07:04,60.0,604.58,0.0,Upi,5.0,Bangalore,Sana,Sushi Set,Restaurant busy,0.0,2025-11-10,16,Monday,True
+54276,4368,Tandoori Nights,Italian,2025-04-09 08:41:04,60.0,154.58,0.0,Cash,2.6,Kolkata,Rohan,South Thali,Rider unavailable,270.43,2025-04-09,8,Wednesday,True
+36143,5261,Noodle House,North Indian,2025-11-03 21:28:04,91.0,958.0,0.0,Net Banking,2.1,Pune,Amit,"Burger, Fries",No cancellation,0.0,2025-11-03,21,Monday,True
+52638,3653,Noodle House,South Indian,2025-03-16 06:26:04,60.0,958.0,0.0,Wallet,5.0,Hyderabad,Amit,Sushi Set,Rider unavailable,139.0,2025-03-16,6,Sunday,True
+16767,2178,Burger Hub,Italian,2025-07-07 22:19:04,60.0,958.0,11.88,Upi,0.0,Pune,Amit,Noodles,No cancellation,0.0,2025-07-07,22,Monday,False
+61189,2287,Noodle House,Mexican,2025-05-30 14:12:04,60.0,958.0,0.0,Wallet,2.3,Hyderabad,Sana,Noodles,No cancellation,0.0,2025-05-30,14,Friday,True
+28088,8995,Pizza Craft,Italian,2025-06-07 16:41:04,60.0,958.0,0.0,Net Banking,5.0,Hyderabad,Deepak,Noodles,Restaurant busy,0.0,2025-06-07,16,Saturday,True
+39129,7240,Spice Villa,Mexican,2025-05-29 02:27:04,77.0,300.88,0.0,Net Banking,5.0,Mumbai,Rohan,"Burger, Fries",Rider unavailable,0.0,2025-05-29,2,Thursday,True
+95425,2482,Spice Villa,Fast Food,2025-06-09 05:07:04,66.0,958.0,0.0,Net Banking,0.0,Pune,Fatima,Sushi Set,Restaurant busy,0.0,2025-06-09,5,Monday,False
+26639,3200,Burger Hub,South Indian,2025-03-08 01:29:04,16.0,958.0,0.0,Upi,5.0,Mumbai,Rohan,"Burger, Fries",Rider unavailable,453.83,2025-03-08,1,Saturday,True
+58829,5317,Café Bliss,North Indian,2025-04-16 07:34:04,60.0,693.99,23.06,Card,0.0,Hyderabad,Amit,"Burger, Fries",Restaurant busy,271.06,2025-04-16,7,Wednesday,False
+83086,9807,Burger Hub,North Indian,2025-08-21 01:51:04,90.0,958.0,17.21,Card,0.0,Delhi,Deepak,Noodles,Rider unavailable,0.0,2025-08-21,1,Thursday,False
+69953,2773,Burger Hub,North Indian,2025-10-12 03:08:04,60.0,958.0,0.0,Upi,5.0,Pune,Sana,Noodles,Restaurant busy,312.45,2025-10-12,3,Sunday,True
+28093,7133,Burger Hub,Fast Food,2025-03-29 23:14:04,60.0,958.0,0.0,Upi,5.0,Mumbai,Harsh,"Pizza, Coke",Rider unavailable,0.0,2025-03-29,23,Saturday,True
+87989,8402,Spice Villa,Chinese,2025-05-10 10:57:04,60.0,377.2,0.0,Wallet,5.0,Delhi,Deepak,Biryani,Customer Cancelled,157.21,2025-05-10,10,Saturday,True
+31144,2512,Burger Hub,Chinese,2025-06-24 22:15:04,46.0,958.0,0.0,Upi,1.8,Delhi,Deepak,Noodles,Rider unavailable,0.0,2025-06-24,22,Tuesday,True
+30225,6586,Burger Hub,Mexican,2025-10-12 00:08:04,101.0,914.25,0.0,Upi,3.8,Hyderabad,Sana,Sushi Set,No cancellation,0.0,2025-10-12,0,Sunday,True
+93607,7963,Burger Hub,North Indian,2025-10-16 13:08:04,96.0,958.0,0.0,Wallet,0.0,Bangalore,Deepak,South Thali,Restaurant busy,0.0,2025-10-16,13,Thursday,False
+14595,9089,Tandoori Nights,Italian,2024-12-25 04:25:04,40.0,958.0,0.0,Cash,5.0,Pune,Rohan,Biryani,Rider unavailable,0.0,2024-12-25,4,Wednesday,True
+47318,7867,Veggie Point,South Indian,2024-12-13 08:54:04,97.0,518.39,0.0,Card,2.6,Mumbai,Sana,"Pizza, Coke",Restaurant busy,0.0,2024-12-13,8,Friday,True
+34652,2815,Kebab Street,Italian,2025-09-07 09:02:04,60.0,1349.72,0.0,Cash,5.0,Mumbai,Kiran,Sushi Set,Rider unavailable,0.0,2025-09-07,9,Sunday,True
+84131,1542,Spice Villa,Italian,2024-12-17 01:14:04,80.0,1157.87,6.78,Cash,0.0,Pune,Kiran,South Thali,Rider unavailable,0.0,2024-12-17,1,Tuesday,False
+47339,3054,Biryani Express,Chinese,2025-02-12 10:21:04,60.0,958.0,27.56,Upi,0.0,Pune,Harsh,Noodles,Customer Cancelled,0.0,2025-02-12,10,Wednesday,False
+45402,3158,Spice Villa,Chinese,2025-06-21 05:22:04,60.0,1420.83,0.0,Cash,4.0,Hyderabad,Fatima,"Pizza, Coke",Customer Cancelled,0.0,2025-06-21,5,Saturday,True
+18443,2018,Pizza Craft,North Indian,2025-02-13 00:06:04,60.0,1146.66,25.93,Upi,0.0,Mumbai,Fatima,Biryani,Customer Cancelled,0.0,2025-02-13,0,Thursday,False
+50143,5814,Spice Villa,Italian,2025-08-17 06:07:04,110.0,958.0,27.77,Cash,0.0,Bangalore,Amit,"Burger, Fries",Customer Cancelled,503.89,2025-08-17,6,Sunday,False
+95653,4336,Pizza Craft,South Indian,2025-11-08 18:22:04,68.0,958.0,0.0,Card,5.0,Pune,Kiran,South Thali,Customer Cancelled,0.0,2025-11-08,18,Saturday,True
+60100,5818,Biryani Express,Fast Food,2025-08-16 02:35:04,60.0,1693.31,0.0,Card,5.0,Bangalore,Fatima,"Burger, Fries",Rider unavailable,277.21,2025-08-16,2,Saturday,True
+74550,4551,Kebab Street,North Indian,2025-02-02 16:34:04,60.0,958.0,0.0,Cash,0.0,Mumbai,Fatima,Sushi Set,Customer Cancelled,0.0,2025-02-02,16,Sunday,False
+51865,4274,Burger Hub,Japanese,2025-01-20 07:07:04,37.0,958.0,23.5,Card,4.2,Kolkata,Amit,"Pizza, Coke",No cancellation,0.0,2025-01-20,7,Monday,True
+36453,8235,Café Bliss,South Indian,2025-02-14 04:40:04,104.0,958.0,1.62,Wallet,5.0,Pune,Sana,"Burger, Fries",Customer Cancelled,0.0,2025-02-14,4,Friday,True
+79180,8477,Biryani Express,South Indian,2025-06-19 16:21:04,60.0,958.0,0.0,Cash,5.0,Kolkata,Deepak,Sushi Set,Customer Cancelled,0.0,2025-06-19,16,Thursday,True
+55272,9373,Café Bliss,Mexican,2025-07-10 13:53:04,60.0,958.0,0.0,Cash,3.0,Kolkata,Rohan,Sushi Set,Customer Cancelled,0.0,2025-07-10,13,Thursday,True
+64554,3907,Noodle House,Mexican,2025-01-02 22:44:04,51.0,571.57,23.7,Cash,0.0,Mumbai,Amit,Biryani,Customer Cancelled,0.0,2025-01-02,22,Thursday,False
+66676,4687,Biryani Express,Fast Food,2025-01-23 13:15:04,33.0,958.0,1.4,Upi,4.4,Pune,Deepak,"Pizza, Coke",Restaurant busy,0.0,2025-01-23,13,Thursday,True
+73299,3612,Kebab Street,Japanese,2025-07-11 07:29:04,83.0,1559.95,0.0,Net Banking,2.1,Kolkata,Sana,Biryani,No cancellation,0.0,2025-07-11,7,Friday,True
+65666,1965,Café Bliss,North Indian,2024-12-13 02:29:04,60.0,234.83,0.0,Upi,0.0,Bangalore,Harsh,Noodles,Customer Cancelled,0.0,2024-12-13,2,Friday,False
+11528,2381,Burger Hub,North Indian,2025-06-25 13:56:04,60.0,958.0,8.57,Upi,5.0,Hyderabad,Amit,"Burger, Fries",Rider unavailable,619.19,2025-06-25,13,Wednesday,True
+97868,7163,Tandoori Nights,Italian,2025-08-23 18:01:04,60.0,958.0,0.0,Wallet,4.0,Kolkata,Rohan,Sushi Set,Customer Cancelled,0.0,2025-08-23,18,Saturday,True
+42985,6731,Pizza Craft,Italian,2025-06-22 20:27:04,60.0,958.0,0.0,Cash,4.2,Bangalore,Deepak,Biryani,No cancellation,0.0,2025-06-22,20,Sunday,True
+75455,6093,Noodle House,Mexican,2025-01-30 05:16:04,60.0,151.08,0.0,Upi,0.0,Delhi,Deepak,Noodles,Customer Cancelled,581.47,2025-01-30,5,Thursday,False
+78499,1321,Spice Villa,North Indian,2025-02-17 19:46:04,60.0,958.0,21.08,Upi,0.0,Mumbai,Deepak,Sushi Set,Customer Cancelled,0.0,2025-02-17,19,Monday,False
+18384,6274,Burger Hub,North Indian,2024-12-14 21:03:04,60.0,1756.13,0.0,Upi,5.0,Pune,Fatima,Biryani,Customer Cancelled,505.27,2024-12-14,21,Saturday,True
+60487,2949,Burger Hub,Japanese,2025-07-20 21:38:04,60.0,958.0,0.0,Cash,1.9,Pune,Rohan,"Pizza, Coke",Restaurant busy,0.0,2025-07-20,21,Sunday,True
+31010,7867,Biryani Express,Chinese,2025-09-05 05:09:04,60.0,958.0,0.0,Cash,5.0,Pune,Harsh,Sushi Set,Restaurant busy,0.0,2025-09-05,5,Friday,True
+87724,7278,Sushi World,Italian,2024-12-22 06:44:04,60.0,958.0,17.27,Cash,2.0,Delhi,Rohan,South Thali,Customer Cancelled,598.62,2024-12-22,6,Sunday,True
+74307,9755,Spice Villa,Mexican,2024-12-02 22:49:04,60.0,1780.23,39.14,Upi,3.7,Hyderabad,Harsh,Noodles,No cancellation,0.0,2024-12-02,22,Monday,True
+35464,9049,Tandoori Nights,North Indian,2025-08-18 12:52:04,60.0,597.76,0.0,Wallet,3.9,Bangalore,Deepak,"Burger, Fries",Rider unavailable,0.0,2025-08-18,12,Monday,True
+41509,9790,Noodle House,Mexican,2025-08-13 05:35:04,60.0,958.0,0.0,Wallet,4.5,Hyderabad,Sana,Biryani,No cancellation,0.0,2025-08-13,5,Wednesday,True
+19885,7694,Sushi World,Italian,2025-07-07 12:05:04,92.0,958.0,0.0,Net Banking,2.7,Delhi,Amit,Noodles,Customer Cancelled,0.0,2025-07-07,12,Monday,True
+19080,8235,Biryani Express,Italian,2025-02-13 19:05:04,60.0,958.0,0.0,Wallet,2.2,Bangalore,Sana,Sushi Set,Restaurant busy,0.0,2025-02-13,19,Thursday,True
+67001,2621,Spice Villa,South Indian,2025-01-19 02:00:04,60.0,1115.2,0.0,Wallet,0.0,Mumbai,Kiran,Noodles,Rider unavailable,352.83,2025-01-19,2,Sunday,False
+43773,6373,Spice Villa,South Indian,2025-09-05 22:26:04,60.0,958.0,0.6,Upi,1.5,Hyderabad,Harsh,Sushi Set,No cancellation,0.0,2025-09-05,22,Friday,True
+37624,9666,Burger Hub,Japanese,2025-03-09 05:15:04,60.0,958.0,0.0,Cash,3.8,Mumbai,Rohan,"Burger, Fries",Customer Cancelled,0.0,2025-03-09,5,Sunday,True
+89599,8185,Spice Villa,North Indian,2025-03-18 06:44:04,60.0,571.57,0.0,Upi,0.0,Hyderabad,Deepak,Biryani,Customer Cancelled,540.13,2025-03-18,6,Tuesday,False
+36055,9584,Kebab Street,North Indian,2025-11-11 15:17:04,60.0,958.0,0.0,Cash,2.7,Hyderabad,Amit,Biryani,No cancellation,0.0,2025-11-11,15,Tuesday,True
+22853,3796,Spice Villa,Japanese,2024-12-08 20:44:04,60.0,958.0,0.22,Card,5.0,Kolkata,Amit,Biryani,Customer Cancelled,0.0,2024-12-08,20,Sunday,True
+80306,1274,Veggie Point,Italian,2025-02-01 06:21:04,120.0,1151.28,0.0,Cash,0.0,Kolkata,Kiran,Biryani,No cancellation,0.0,2025-02-01,6,Saturday,False
+80125,7925,Biryani Express,Italian,2025-02-10 02:06:04,90.0,288.52,12.57,Upi,4.8,Kolkata,Kiran,Sushi Set,Restaurant busy,0.0,2025-02-10,2,Monday,True
+86915,7664,Café Bliss,Chinese,2025-02-11 09:37:04,15.0,1684.97,0.0,Upi,5.0,Kolkata,Kiran,"Burger, Fries",Restaurant busy,0.0,2025-02-11,9,Tuesday,True
+35085,9716,Pizza Craft,North Indian,2025-02-24 20:01:04,60.0,958.0,0.0,Card,5.0,Hyderabad,Amit,Noodles,No cancellation,0.0,2025-02-24,20,Monday,True
+87533,3626,Tandoori Nights,North Indian,2025-01-27 13:59:04,60.0,958.0,0.0,Cash,5.0,Hyderabad,Harsh,Biryani,Rider unavailable,237.31,2025-01-27,13,Monday,True
+36292,1978,Spice Villa,North Indian,2025-06-30 21:24:04,60.0,1080.08,0.0,Upi,1.5,Hyderabad,Sana,Noodles,No cancellation,0.0,2025-06-30,21,Monday,True
+41874,5544,Noodle House,Fast Food,2025-10-22 16:13:04,60.0,958.0,33.78,Net Banking,2.0,Mumbai,Rohan,"Pizza, Coke",Rider unavailable,0.0,2025-10-22,16,Wednesday,True
+64326,9754,Spice Villa,North Indian,2025-03-09 12:20:04,60.0,1642.82,0.0,Wallet,5.0,Kolkata,Amit,Sushi Set,No cancellation,0.0,2025-03-09,12,Sunday,True
+70272,4747,Spice Villa,Italian,2025-10-30 10:01:04,60.0,958.0,0.0,Upi,3.1,Pune,Harsh,Biryani,No cancellation,0.0,2025-10-30,10,Thursday,True
+85606,6921,Veggie Point,Italian,2025-09-23 22:15:04,60.0,360.9,0.0,Net Banking,5.0,Kolkata,Deepak,Biryani,Customer Cancelled,641.19,2025-09-23,22,Tuesday,True
+67661,5708,Café Bliss,Italian,2025-02-22 23:59:04,60.0,1732.7,32.97,Cash,0.0,Bangalore,Fatima,Noodles,No cancellation,0.0,2025-02-22,23,Saturday,False
+21746,7766,Noodle House,South Indian,2025-01-03 19:51:04,60.0,282.43,0.0,Upi,5.0,Bangalore,Kiran,South Thali,Customer Cancelled,0.0,2025-01-03,19,Friday,True
+66783,8785,Biryani Express,Italian,2025-03-13 02:05:04,60.0,958.0,0.0,Upi,5.0,Delhi,Rohan,"Burger, Fries",No cancellation,0.0,2025-03-13,2,Thursday,True
+57981,7426,Veggie Point,South Indian,2025-10-17 23:49:04,60.0,958.0,17.25,Card,5.0,Bangalore,Sana,"Pizza, Coke",Customer Cancelled,0.0,2025-10-17,23,Friday,True
+67515,8558,Biryani Express,Italian,2025-08-15 01:35:04,63.0,958.0,0.0,Wallet,5.0,Hyderabad,Harsh,Noodles,Rider unavailable,607.58,2025-08-15,1,Friday,True
+78856,4092,Burger Hub,Japanese,2025-04-19 16:40:04,60.0,958.0,0.0,Cash,2.9,Pune,Kiran,South Thali,Customer Cancelled,0.0,2025-04-19,16,Saturday,True
+11120,1074,Veggie Point,Japanese,2025-11-13 12:05:04,37.0,958.0,0.0,Upi,5.0,Bangalore,Amit,"Pizza, Coke",No cancellation,0.0,2025-11-13,12,Thursday,True
+83263,9283,Sushi World,Japanese,2025-09-08 10:39:04,60.0,958.0,0.0,Wallet,5.0,Hyderabad,Fatima,Noodles,Restaurant busy,0.0,2025-09-08,10,Monday,True
+56116,1120,Spice Villa,Japanese,2025-04-14 00:10:04,103.0,958.0,0.0,Cash,2.5,Hyderabad,Fatima,Sushi Set,Rider unavailable,168.83,2025-04-14,0,Monday,True
+61062,7963,Burger Hub,North Indian,2024-12-23 20:21:04,60.0,881.96,0.0,Net Banking,4.7,Mumbai,Deepak,"Burger, Fries",Restaurant busy,0.0,2024-12-23,20,Monday,True
+24634,5302,Burger Hub,Chinese,2025-06-30 10:05:04,70.0,958.0,0.0,Net Banking,0.0,Mumbai,Fatima,Sushi Set,Rider unavailable,695.13,2025-06-30,10,Monday,False
+35833,3556,Pizza Craft,Fast Food,2024-12-18 17:28:04,60.0,958.0,17.24,Upi,0.0,Mumbai,Kiran,Noodles,No cancellation,0.0,2024-12-18,17,Wednesday,False
+50256,1557,Biryani Express,North Indian,2025-09-16 18:35:04,60.0,958.0,0.0,Upi,0.0,Pune,Rohan,"Pizza, Coke",Restaurant busy,0.0,2025-09-16,18,Tuesday,False
+72068,4279,Sushi World,Italian,2024-11-28 06:57:04,108.0,1462.77,0.0,Wallet,0.0,Hyderabad,Kiran,Biryani,No cancellation,0.0,2024-11-28,6,Thursday,False
+68616,6734,Pizza Craft,Japanese,2025-09-17 06:19:04,60.0,442.82,37.1,Cash,4.3,Hyderabad,Rohan,"Burger, Fries",No cancellation,0.0,2025-09-17,6,Wednesday,True
+32983,4029,Veggie Point,Chinese,2024-12-12 19:07:04,82.0,1345.44,0.0,Card,0.0,Hyderabad,Harsh,South Thali,Restaurant busy,0.0,2024-12-12,19,Thursday,False
+16118,5277,Spice Villa,North Indian,2025-03-05 22:04:04,60.0,958.0,0.0,Card,0.0,Delhi,Kiran,Sushi Set,Rider unavailable,122.47,2025-03-05,22,Wednesday,False
+90260,4197,Café Bliss,South Indian,2025-08-30 23:17:04,44.0,958.0,11.01,Net Banking,3.6,Kolkata,Fatima,Noodles,No cancellation,0.0,2025-08-30,23,Saturday,True
+85001,3820,Biryani Express,Mexican,2024-12-04 17:41:04,60.0,958.0,6.96,Cash,0.0,Delhi,Kiran,"Pizza, Coke",Rider unavailable,0.0,2024-12-04,17,Wednesday,False
+75591,2548,Café Bliss,South Indian,2025-05-19 00:44:04,60.0,549.77,32.26,Upi,5.0,Bangalore,Kiran,Biryani,No cancellation,0.0,2025-05-19,0,Monday,True
+70371,9586,Noodle House,Japanese,2024-12-26 22:28:04,79.0,894.61,0.0,Upi,5.0,Mumbai,Sana,South Thali,Restaurant busy,0.0,2024-12-26,22,Thursday,True
+11397,5057,Spice Villa,South Indian,2025-01-27 08:28:04,60.0,266.27,0.0,Cash,5.0,Pune,Deepak,Biryani,Customer Cancelled,0.0,2025-01-27,8,Monday,True
+87919,9586,Noodle House,Mexican,2025-05-22 16:16:04,60.0,958.0,0.0,Upi,4.0,Pune,Deepak,"Pizza, Coke",Rider unavailable,0.0,2025-05-22,16,Thursday,True
+47565,2494,Biryani Express,Chinese,2025-06-22 04:46:04,60.0,958.0,23.17,Upi,5.0,Delhi,Sana,South Thali,Restaurant busy,373.0,2025-06-22,4,Sunday,True
+35119,4224,Pizza Craft,South Indian,2024-11-30 17:43:04,38.0,970.97,0.0,Card,0.0,Kolkata,Sana,Sushi Set,Restaurant busy,0.0,2024-11-30,17,Saturday,False
+20252,5356,Kebab Street,South Indian,2025-02-16 12:14:04,60.0,531.13,0.0,Cash,4.6,Delhi,Kiran,South Thali,Customer Cancelled,0.0,2025-02-16,12,Sunday,True
+20156,3607,Spice Villa,Japanese,2025-09-05 05:45:04,60.0,958.0,0.0,Cash,0.0,Mumbai,Fatima,South Thali,Rider unavailable,0.0,2025-09-05,5,Friday,False
+40260,6556,Spice Villa,Fast Food,2025-01-31 09:41:04,60.0,1109.06,0.0,Wallet,1.1,Kolkata,Sana,Sushi Set,Restaurant busy,0.0,2025-01-31,9,Friday,True
+43331,2079,Veggie Point,North Indian,2025-06-25 23:43:04,120.0,958.0,4.73,Upi,0.0,Delhi,Rohan,"Pizza, Coke",Restaurant busy,0.0,2025-06-25,23,Wednesday,False
+51845,8970,Biryani Express,Fast Food,2025-01-10 12:43:04,60.0,958.0,13.12,Wallet,0.0,Hyderabad,Kiran,Sushi Set,Rider unavailable,0.0,2025-01-10,12,Friday,False
+14847,3503,Spice Villa,Italian,2025-10-27 03:20:04,57.0,395.85,8.27,Upi,3.2,Kolkata,Harsh,Biryani,Rider unavailable,0.0,2025-10-27,3,Monday,True
+35053,2364,Burger Hub,Mexican,2025-10-24 06:24:04,60.0,958.0,0.0,Wallet,3.9,Delhi,Deepak,Sushi Set,No cancellation,0.0,2025-10-24,6,Friday,True
+33750,3284,Café Bliss,Fast Food,2025-04-29 03:38:04,89.0,912.52,9.03,Upi,0.0,Pune,Sana,Sushi Set,Restaurant busy,166.38,2025-04-29,3,Tuesday,False
+99155,1200,Noodle House,Italian,2025-07-11 12:04:04,112.0,958.0,16.59,Upi,5.0,Hyderabad,Kiran,"Burger, Fries",Customer Cancelled,460.2,2025-07-11,12,Friday,True
+96616,2453,Biryani Express,Italian,2025-08-22 09:24:04,22.0,958.0,0.0,Wallet,2.6,Delhi,Kiran,South Thali,Restaurant busy,697.16,2025-08-22,9,Friday,True
+43292,8656,Sushi World,Italian,2024-12-23 22:03:04,29.0,1362.38,0.0,Cash,5.0,Kolkata,Rohan,"Pizza, Coke",Customer Cancelled,603.12,2024-12-23,22,Monday,True
+31957,9868,Pizza Craft,Italian,2025-06-08 01:33:04,60.0,958.0,0.0,Card,5.0,Delhi,Harsh,Biryani,Restaurant busy,667.52,2025-06-08,1,Sunday,True
+68448,5841,Burger Hub,North Indian,2025-10-25 22:18:04,60.0,958.0,0.0,Upi,0.0,Pune,Harsh,Noodles,Restaurant busy,0.0,2025-10-25,22,Saturday,False
+65026,1365,Spice Villa,Fast Food,2025-09-04 07:31:04,60.0,292.87,0.0,Wallet,5.0,Hyderabad,Harsh,Biryani,Restaurant busy,158.5,2025-09-04,7,Thursday,True
+14518,1157,Kebab Street,Japanese,2024-12-18 23:16:04,60.0,958.0,0.0,Upi,5.0,Kolkata,Sana,South Thali,No cancellation,0.0,2024-12-18,23,Wednesday,True
+89776,8160,Kebab Street,Italian,2025-02-07 18:48:04,60.0,958.0,0.0,Cash,5.0,Hyderabad,Fatima,South Thali,Customer Cancelled,0.0,2025-02-07,18,Friday,True
+76583,7925,Tandoori Nights,Chinese,2025-04-05 13:32:04,60.0,958.0,25.59,Wallet,5.0,Delhi,Rohan,Sushi Set,No cancellation,0.0,2025-04-05,13,Saturday,True
+82463,1996,Veggie Point,Chinese,2025-05-31 07:31:04,60.0,1627.87,30.8,Upi,3.6,Delhi,Sana,Noodles,Customer Cancelled,0.0,2025-05-31,7,Saturday,True
+54208,2310,Spice Villa,South Indian,2025-04-25 19:31:04,60.0,1797.66,0.0,Cash,5.0,Hyderabad,Rohan,Biryani,Customer Cancelled,0.0,2025-04-25,19,Friday,True
+11738,9777,Veggie Point,Italian,2025-09-28 11:33:04,60.0,958.0,0.0,Upi,3.6,Delhi,Sana,"Pizza, Coke",Customer Cancelled,0.0,2025-09-28,11,Sunday,True
+91755,2875,Noodle House,Mexican,2025-03-12 09:30:04,60.0,958.0,1.34,Card,5.0,Delhi,Fatima,Sushi Set,Customer Cancelled,0.0,2025-03-12,9,Wednesday,True
+15139,9574,Veggie Point,Italian,2024-12-16 03:40:04,60.0,958.0,0.0,Cash,5.0,Pune,Harsh,South Thali,No cancellation,0.0,2024-12-16,3,Monday,True
+40854,6848,Burger Hub,Chinese,2025-01-11 05:28:04,60.0,958.0,0.0,Wallet,0.0,Mumbai,Kiran,South Thali,Customer Cancelled,0.0,2025-01-11,5,Saturday,False
+33109,6401,Noodle House,Fast Food,2025-11-04 18:36:04,48.0,958.0,0.0,Cash,1.8,Mumbai,Amit,"Burger, Fries",No cancellation,0.0,2025-11-04,18,Tuesday,True
+26193,6227,Burger Hub,North Indian,2025-02-21 03:35:04,60.0,958.0,0.0,Upi,3.0,Mumbai,Sana,Biryani,Restaurant busy,0.0,2025-02-21,3,Friday,True
+14427,3940,Tandoori Nights,North Indian,2024-12-24 04:50:04,60.0,958.0,21.94,Card,0.0,Kolkata,Kiran,Sushi Set,Restaurant busy,357.23,2024-12-24,4,Tuesday,False
+78797,4231,Burger Hub,Japanese,2025-02-25 09:44:04,60.0,958.0,27.78,Upi,4.1,Bangalore,Deepak,"Pizza, Coke",No cancellation,0.0,2025-02-25,9,Tuesday,True
+82439,4797,Pizza Craft,North Indian,2025-08-26 16:17:04,21.0,958.0,0.0,Net Banking,5.0,Hyderabad,Sana,"Burger, Fries",Restaurant busy,0.0,2025-08-26,16,Tuesday,True
+20640,2619,Biryani Express,Mexican,2025-11-05 06:12:04,60.0,958.0,0.0,Cash,5.0,Mumbai,Sana,"Burger, Fries",Rider unavailable,146.6,2025-11-05,6,Wednesday,True
+15983,5928,Tandoori Nights,Mexican,2025-09-27 13:53:04,101.0,958.0,0.0,Card,5.0,Kolkata,Deepak,Sushi Set,No cancellation,0.0,2025-09-27,13,Saturday,True
+92907,5872,Café Bliss,Mexican,2025-08-14 13:46:04,60.0,661.21,8.86,Cash,5.0,Mumbai,Amit,Biryani,No cancellation,0.0,2025-08-14,13,Thursday,True
+91422,7503,Noodle House,South Indian,2025-01-04 03:13:04,60.0,958.0,0.0,Cash,0.0,Bangalore,Kiran,Sushi Set,No cancellation,0.0,2025-01-04,3,Saturday,False
+76824,5056,Pizza Craft,North Indian,2025-01-01 16:01:04,60.0,958.0,0.0,Cash,5.0,Kolkata,Harsh,Biryani,Customer Cancelled,0.0,2025-01-01,16,Wednesday,True
+49208,9277,Pizza Craft,Italian,2024-12-22 09:44:04,63.0,958.0,0.0,Cash,5.0,Bangalore,Amit,"Burger, Fries",Customer Cancelled,423.0,2024-12-22,9,Sunday,True
+27478,2344,Burger Hub,North Indian,2025-04-30 14:08:04,60.0,143.0,0.0,Upi,4.0,Delhi,Deepak,Noodles,Rider unavailable,0.0,2025-04-30,14,Wednesday,True
+34525,9768,Kebab Street,Chinese,2025-11-20 14:26:04,60.0,958.0,0.0,Cash,1.8,Mumbai,Kiran,"Pizza, Coke",Restaurant busy,0.0,2025-11-20,14,Thursday,True
+84547,4646,Burger Hub,North Indian,2025-06-06 20:03:04,98.0,958.0,3.42,Net Banking,0.0,Mumbai,Fatima,"Burger, Fries",No cancellation,0.0,2025-06-06,20,Friday,False
+85131,4577,Burger Hub,Mexican,2025-07-13 18:47:04,60.0,1082.34,0.0,Cash,0.0,Pune,Deepak,South Thali,No cancellation,0.0,2025-07-13,18,Sunday,False
+65136,1199,Veggie Point,Japanese,2025-10-31 02:58:04,60.0,958.0,0.0,Wallet,2.5,Bangalore,Kiran,Biryani,No cancellation,0.0,2025-10-31,2,Friday,True
+90014,7743,Kebab Street,Mexican,2025-01-11 19:55:04,60.0,958.0,0.0,Wallet,5.0,Mumbai,Sana,"Pizza, Coke",Customer Cancelled,107.16,2025-01-11,19,Saturday,True
+11431,4076,Spice Villa,Chinese,2025-06-25 15:32:04,60.0,958.0,0.0,Upi,3.6,Hyderabad,Rohan,South Thali,No cancellation,0.0,2025-06-25,15,Wednesday,True
+49002,4539,Veggie Point,Italian,2025-11-20 08:39:04,60.0,958.0,0.0,Cash,5.0,Delhi,Sana,South Thali,Restaurant busy,540.25,2025-11-20,8,Thursday,True
+46374,7309,Burger Hub,Chinese,2025-10-29 14:24:04,60.0,958.0,0.0,Wallet,5.0,Pune,Fatima,South Thali,No cancellation,0.0,2025-10-29,14,Wednesday,True
+53830,5703,Pizza Craft,South Indian,2025-09-14 08:59:04,60.0,958.0,0.0,Cash,0.0,Hyderabad,Amit,"Pizza, Coke",Rider unavailable,0.0,2025-09-14,8,Sunday,False
+81038,8071,Pizza Craft,North Indian,2025-01-28 18:35:04,60.0,958.0,10.86,Upi,4.0,Kolkata,Harsh,Biryani,Customer Cancelled,504.39,2025-01-28,18,Tuesday,True
+34926,5643,Spice Villa,North Indian,2025-06-23 05:58:04,60.0,958.0,0.0,Net Banking,0.0,Delhi,Kiran,South Thali,Rider unavailable,0.0,2025-06-23,5,Monday,False
+55456,5451,Noodle House,North Indian,2025-09-21 08:58:04,60.0,647.02,26.13,Wallet,0.0,Pune,Fatima,Biryani,Rider unavailable,473.18,2025-09-21,8,Sunday,False
+67614,5711,Tandoori Nights,North Indian,2025-04-02 19:30:04,60.0,958.0,0.0,Upi,0.0,Pune,Kiran,Noodles,Rider unavailable,284.72,2025-04-02,19,Wednesday,False
+78671,8789,Veggie Point,Mexican,2025-10-16 08:19:04,112.0,958.0,8.47,Cash,0.0,Delhi,Rohan,Biryani,Restaurant busy,0.0,2025-10-16,8,Thursday,False
+63706,6417,Kebab Street,Chinese,2025-08-12 06:26:04,60.0,1374.17,0.0,Wallet,2.2,Pune,Harsh,Biryani,Rider unavailable,0.0,2025-08-12,6,Tuesday,True
+71642,4455,Pizza Craft,South Indian,2025-11-02 10:04:04,52.0,352.64,28.05,Cash,5.0,Kolkata,Sana,Biryani,Rider unavailable,0.0,2025-11-02,10,Sunday,True
+97688,6239,Spice Villa,South Indian,2025-08-19 20:42:04,60.0,958.0,0.0,Wallet,3.7,Bangalore,Rohan,Biryani,No cancellation,0.0,2025-08-19,20,Tuesday,True
+87208,7122,Pizza Craft,Mexican,2025-08-02 08:14:04,60.0,958.0,0.0,Wallet,0.0,Kolkata,Harsh,Noodles,Rider unavailable,0.0,2025-08-02,8,Saturday,False
+98977,2824,Veggie Point,Mexican,2025-05-08 10:28:04,44.0,1349.62,0.0,Cash,5.0,Delhi,Deepak,"Pizza, Coke",Customer Cancelled,153.52,2025-05-08,10,Thursday,True
+88948,8470,Sushi World,Fast Food,2025-07-01 18:21:04,60.0,958.0,0.0,Upi,2.0,Mumbai,Rohan,"Pizza, Coke",No cancellation,0.0,2025-07-01,18,Tuesday,True
+29354,7553,Tandoori Nights,North Indian,2025-10-26 15:22:04,60.0,958.0,10.64,Upi,0.0,Pune,Amit,Biryani,Restaurant busy,0.0,2025-10-26,15,Sunday,False
+28862,9269,Burger Hub,Fast Food,2025-08-04 15:56:04,116.0,958.0,0.0,Card,0.0,Mumbai,Harsh,Sushi Set,Restaurant busy,355.0,2025-08-04,15,Monday,False
+84481,2149,Spice Villa,Italian,2025-02-07 05:02:04,60.0,958.0,0.0,Net Banking,5.0,Bangalore,Amit,"Burger, Fries",Customer Cancelled,246.97,2025-02-07,5,Friday,True
+83589,2612,Spice Villa,Italian,2025-08-05 21:59:04,50.0,958.0,0.0,Net Banking,5.0,Hyderabad,Deepak,Noodles,Customer Cancelled,0.0,2025-08-05,21,Tuesday,True
+68352,5793,Veggie Point,Italian,2025-08-12 06:23:04,60.0,684.07,0.0,Upi,0.0,Delhi,Fatima,Noodles,Customer Cancelled,0.0,2025-08-12,6,Tuesday,False
+21320,6160,Burger Hub,Chinese,2025-07-07 01:40:04,64.0,1261.1,0.0,Upi,4.1,Hyderabad,Amit,"Pizza, Coke",No cancellation,0.0,2025-07-07,1,Monday,True
+60978,4435,Spice Villa,Japanese,2024-11-30 08:47:04,60.0,1704.46,0.0,Cash,0.0,Mumbai,Amit,Biryani,No cancellation,0.0,2024-11-30,8,Saturday,False
+20899,3794,Noodle House,Fast Food,2024-12-28 12:55:04,74.0,958.0,5.38,Upi,0.0,Pune,Rohan,"Pizza, Coke",Restaurant busy,0.0,2024-12-28,12,Saturday,False
+83578,7852,Pizza Craft,North Indian,2024-11-29 01:28:04,60.0,700.84,9.2,Upi,0.0,Pune,Amit,"Pizza, Coke",Restaurant busy,546.74,2024-11-29,1,Friday,False
+10571,6473,Café Bliss,Fast Food,2025-09-28 13:40:04,28.0,958.0,25.05,Cash,0.0,Mumbai,Sana,"Burger, Fries",No cancellation,0.0,2025-09-28,13,Sunday,False
+91221,9247,Noodle House,Italian,2025-06-18 04:20:04,60.0,125.21,0.0,Cash,1.3,Kolkata,Deepak,"Pizza, Coke",Customer Cancelled,0.0,2025-06-18,4,Wednesday,True
+25146,7676,Biryani Express,Chinese,2025-05-05 16:10:04,107.0,1424.54,0.0,Cash,5.0,Delhi,Fatima,South Thali,Customer Cancelled,0.0,2025-05-05,16,Monday,True
+43235,6133,Tandoori Nights,South Indian,2025-04-08 03:14:04,60.0,958.0,0.0,Upi,5.0,Mumbai,Kiran,"Pizza, Coke",Customer Cancelled,378.35,2025-04-08,3,Tuesday,True
+36272,5535,Spice Villa,Italian,2025-05-05 18:42:04,60.0,915.6,25.88,Upi,1.4,Mumbai,Fatima,Sushi Set,Customer Cancelled,0.0,2025-05-05,18,Monday,True
+27219,4031,Spice Villa,North Indian,2024-12-07 04:42:04,48.0,958.0,0.63,Card,3.8,Bangalore,Sana,South Thali,Rider unavailable,0.0,2024-12-07,4,Saturday,True
+52754,6491,Burger Hub,Italian,2025-06-02 20:33:04,60.0,958.0,38.96,Wallet,3.5,Mumbai,Harsh,South Thali,No cancellation,0.0,2025-06-02,20,Monday,True
+50668,2890,Tandoori Nights,Fast Food,2025-02-27 00:05:04,91.0,958.0,0.0,Net Banking,5.0,Kolkata,Rohan,"Pizza, Coke",Rider unavailable,378.94,2025-02-27,0,Thursday,True
+55509,2182,Kebab Street,Italian,2025-06-28 22:02:04,60.0,853.5,0.0,Cash,2.9,Hyderabad,Harsh,Noodles,Customer Cancelled,231.64,2025-06-28,22,Saturday,True
+49296,4587,Burger Hub,Italian,2025-02-11 02:24:04,60.0,958.0,12.04,Wallet,3.0,Bangalore,Deepak,Noodles,Customer Cancelled,507.43,2025-02-11,2,Tuesday,True
+51313,1671,Burger Hub,Japanese,2024-12-29 15:55:04,84.0,958.0,26.56,Wallet,5.0,Bangalore,Amit,Biryani,Customer Cancelled,0.0,2024-12-29,15,Sunday,True
+46046,6305,Café Bliss,Fast Food,2025-01-01 06:56:04,60.0,1063.88,0.0,Cash,5.0,Pune,Sana,Noodles,Customer Cancelled,0.0,2025-01-01,6,Wednesday,True
+39529,1391,Tandoori Nights,Italian,2025-01-18 17:21:04,60.0,1015.54,0.0,Wallet,0.0,Bangalore,Rohan,Biryani,Customer Cancelled,0.0,2025-01-18,17,Saturday,False
+50102,1392,Noodle House,Italian,2025-10-20 02:07:04,60.0,1347.75,17.86,Card,0.0,Pune,Sana,South Thali,Restaurant busy,345.33,2025-10-20,2,Monday,False
+61046,8569,Burger Hub,Japanese,2025-02-01 14:17:04,66.0,787.4,35.59,Card,5.0,Delhi,Amit,Noodles,Customer Cancelled,0.0,2025-02-01,14,Saturday,True
+72672,6787,Tandoori Nights,North Indian,2025-09-02 15:40:04,60.0,958.0,0.0,Net Banking,1.5,Bangalore,Amit,"Pizza, Coke",No cancellation,0.0,2025-09-02,15,Tuesday,True
+58854,7302,Biryani Express,Italian,2025-03-04 18:38:04,60.0,1790.63,0.0,Upi,0.0,Pune,Harsh,"Burger, Fries",No cancellation,0.0,2025-03-04,18,Tuesday,False
+12987,3032,Spice Villa,Italian,2025-02-04 16:39:04,53.0,1725.12,0.0,Upi,0.0,Mumbai,Amit,South Thali,Customer Cancelled,0.0,2025-02-04,16,Tuesday,False
+47725,9318,Spice Villa,Mexican,2025-05-27 01:24:04,106.0,958.0,23.5,Cash,5.0,Bangalore,Harsh,Sushi Set,Restaurant busy,0.0,2025-05-27,1,Tuesday,True
+35730,1116,Spice Villa,North Indian,2025-07-18 19:27:04,60.0,594.57,0.0,Upi,0.0,Kolkata,Deepak,Noodles,Rider unavailable,666.55,2025-07-18,19,Friday,False
+70411,2195,Noodle House,Japanese,2025-11-18 13:55:04,92.0,1723.61,0.0,Cash,0.0,Hyderabad,Fatima,Sushi Set,Customer Cancelled,81.98,2025-11-18,13,Tuesday,False
+29964,8022,Café Bliss,North Indian,2025-03-18 21:38:04,60.0,1352.31,16.31,Wallet,5.0,Kolkata,Deepak,"Pizza, Coke",Rider unavailable,0.0,2025-03-18,21,Tuesday,True
+39735,5099,Spice Villa,Chinese,2025-05-27 01:46:04,60.0,958.0,1.19,Cash,0.0,Hyderabad,Kiran,"Pizza, Coke",No cancellation,0.0,2025-05-27,1,Tuesday,False
+60189,7623,Spice Villa,South Indian,2025-05-07 17:46:04,60.0,958.0,23.09,Card,0.0,Pune,Amit,Biryani,Rider unavailable,0.0,2025-05-07,17,Wednesday,False
+34128,1852,Tandoori Nights,Fast Food,2025-05-18 10:08:04,47.0,370.46,16.86,Upi,1.6,Bangalore,Deepak,"Pizza, Coke",No cancellation,0.0,2025-05-18,10,Sunday,True
+20954,3403,Café Bliss,Chinese,2025-11-06 09:06:04,69.0,424.71,15.63,Cash,5.0,Delhi,Harsh,Biryani,Restaurant busy,0.0,2025-11-06,9,Thursday,True
+17951,9042,Café Bliss,Italian,2025-01-10 22:10:04,114.0,958.0,0.0,Card,5.0,Kolkata,Harsh,"Pizza, Coke",Customer Cancelled,0.0,2025-01-10,22,Friday,True
+73955,8332,Café Bliss,Italian,2025-07-11 20:11:04,60.0,958.0,0.0,Upi,0.0,Pune,Harsh,Noodles,Customer Cancelled,450.07,2025-07-11,20,Friday,False
+38384,1585,Kebab Street,Fast Food,2025-03-19 07:03:04,60.0,958.0,0.0,Cash,3.7,Pune,Fatima,"Pizza, Coke",Restaurant busy,184.5,2025-03-19,7,Wednesday,True
+15523,6883,Café Bliss,North Indian,2025-09-29 07:30:04,60.0,958.0,1.13,Net Banking,4.0,Hyderabad,Harsh,Noodles,No cancellation,0.0,2025-09-29,7,Monday,True
+62639,5044,Spice Villa,Italian,2025-08-27 01:46:04,57.0,958.0,25.06,Cash,5.0,Bangalore,Sana,"Burger, Fries",Restaurant busy,0.0,2025-08-27,1,Wednesday,True
+36922,6006,Kebab Street,Italian,2025-03-02 19:38:04,101.0,958.0,5.84,Upi,3.6,Hyderabad,Amit,"Pizza, Coke",Customer Cancelled,0.0,2025-03-02,19,Sunday,True
+19048,1626,Sushi World,Fast Food,2024-12-09 00:14:04,60.0,958.0,0.0,Card,2.9,Pune,Rohan,Noodles,Rider unavailable,186.57,2024-12-09,0,Monday,True
+69000,4886,Pizza Craft,South Indian,2025-11-25 01:49:04,60.0,958.0,0.0,Card,5.0,Kolkata,Deepak,"Pizza, Coke",No cancellation,0.0,2025-11-25,1,Tuesday,True
+89828,4145,Café Bliss,Mexican,2025-05-14 09:58:04,60.0,315.79,0.0,Card,0.0,Hyderabad,Amit,"Burger, Fries",Restaurant busy,0.0,2025-05-14,9,Wednesday,False
+90201,3571,Kebab Street,Mexican,2025-04-05 11:07:04,17.0,958.0,0.0,Wallet,5.0,Mumbai,Fatima,"Pizza, Coke",Rider unavailable,0.0,2025-04-05,11,Saturday,True
+72002,5066,Spice Villa,South Indian,2025-02-12 12:28:04,60.0,958.0,8.93,Upi,0.0,Bangalore,Amit,"Burger, Fries",Customer Cancelled,557.81,2025-02-12,12,Wednesday,False
+42008,1474,Sushi World,Italian,2025-06-30 07:34:04,60.0,958.0,36.8,Wallet,5.0,Hyderabad,Deepak,Noodles,No cancellation,0.0,2025-06-30,7,Monday,True
+23770,1869,Noodle House,Chinese,2025-08-28 10:22:04,60.0,958.0,0.0,Upi,0.0,Pune,Amit,"Burger, Fries",Rider unavailable,0.0,2025-08-28,10,Thursday,False
+62558,1122,Biryani Express,North Indian,2025-01-23 19:05:04,60.0,958.0,0.0,Cash,5.0,Pune,Kiran,Noodles,No cancellation,0.0,2025-01-23,19,Thursday,True
+55606,4054,Burger Hub,Italian,2025-04-20 14:01:04,60.0,958.0,0.0,Cash,2.9,Bangalore,Kiran,Biryani,No cancellation,0.0,2025-04-20,14,Sunday,True
+99186,2967,Noodle House,South Indian,2025-07-28 05:58:04,60.0,958.0,0.0,Cash,1.7,Kolkata,Kiran,South Thali,Customer Cancelled,0.0,2025-07-28,5,Monday,True
+49867,1919,Noodle House,Japanese,2025-08-17 19:23:04,60.0,895.1,0.0,Cash,1.2,Pune,Rohan,Biryani,Rider unavailable,141.8,2025-08-17,19,Sunday,True
+92960,9788,Spice Villa,North Indian,2024-12-09 00:59:04,60.0,156.96,31.88,Wallet,5.0,Mumbai,Deepak,Biryani,Restaurant busy,0.0,2024-12-09,0,Monday,True
+71568,6107,Burger Hub,Fast Food,2025-08-29 15:02:04,60.0,958.0,0.0,Cash,3.7,Mumbai,Fatima,Sushi Set,Restaurant busy,423.61,2025-08-29,15,Friday,True
+54525,8900,Noodle House,Chinese,2025-05-12 02:58:04,60.0,958.0,0.0,Cash,2.3,Hyderabad,Sana,Sushi Set,Customer Cancelled,0.0,2025-05-12,2,Monday,True
+35688,9121,Café Bliss,Chinese,2025-01-08 02:44:04,85.0,313.48,0.0,Upi,5.0,Hyderabad,Rohan,South Thali,Restaurant busy,0.0,2025-01-08,2,Wednesday,True
+54700,7405,Spice Villa,North Indian,2025-03-29 15:52:04,60.0,958.0,0.0,Upi,1.9,Kolkata,Harsh,"Burger, Fries",Customer Cancelled,0.0,2025-03-29,15,Saturday,True
+82852,5615,Sushi World,South Indian,2025-02-08 02:54:04,24.0,958.0,0.0,Cash,5.0,Hyderabad,Kiran,"Pizza, Coke",Customer Cancelled,0.0,2025-02-08,2,Saturday,True
+77373,2656,Kebab Street,Mexican,2025-11-13 09:30:04,60.0,958.0,14.47,Card,5.0,Mumbai,Rohan,Sushi Set,Customer Cancelled,0.0,2025-11-13,9,Thursday,True
+44727,9290,Noodle House,Italian,2025-08-12 22:52:04,105.0,958.0,0.0,Upi,0.0,Kolkata,Kiran,"Burger, Fries",Rider unavailable,0.0,2025-08-12,22,Tuesday,False
+90515,4201,Burger Hub,Mexican,2024-12-13 20:01:04,60.0,958.0,0.0,Cash,4.8,Kolkata,Amit,"Burger, Fries",Restaurant busy,0.0,2024-12-13,20,Friday,True
+87436,2196,Sushi World,Chinese,2025-07-18 05:09:04,23.0,958.0,0.0,Upi,0.0,Hyderabad,Amit,Biryani,No cancellation,0.0,2025-07-18,5,Friday,False
+18313,4347,Sushi World,Japanese,2025-11-02 14:13:04,60.0,958.0,23.6,Wallet,3.0,Hyderabad,Deepak,"Burger, Fries",Customer Cancelled,0.0,2025-11-02,14,Sunday,True
+49173,9821,Tandoori Nights,Italian,2024-11-25 23:11:04,96.0,958.0,0.0,Cash,0.0,Mumbai,Kiran,"Burger, Fries",No cancellation,0.0,2024-11-25,23,Monday,False
+80935,9273,Noodle House,Japanese,2025-06-03 04:40:04,60.0,958.0,0.0,Upi,5.0,Kolkata,Fatima,"Burger, Fries",No cancellation,0.0,2025-06-03,4,Tuesday,True
+30510,5712,Sushi World,Japanese,2025-01-18 16:33:04,60.0,958.0,35.26,Net Banking,0.0,Kolkata,Rohan,Noodles,No cancellation,0.0,2025-01-18,16,Saturday,False
+17450,2470,Noodle House,Italian,2025-04-14 00:48:04,72.0,958.0,0.0,Cash,1.8,Hyderabad,Sana,South Thali,Restaurant busy,0.0,2025-04-14,0,Monday,True
+78924,7819,Veggie Point,North Indian,2025-09-19 06:09:04,90.0,904.76,0.0,Wallet,5.0,Mumbai,Kiran,"Burger, Fries",Restaurant busy,0.0,2025-09-19,6,Friday,True
+79602,8805,Biryani Express,Fast Food,2025-04-16 21:53:04,73.0,958.0,36.87,Card,0.0,Pune,Harsh,"Pizza, Coke",Customer Cancelled,0.0,2025-04-16,21,Wednesday,False
+64188,6521,Sushi World,Mexican,2025-08-19 03:23:04,64.0,958.0,25.33,Card,5.0,Pune,Sana,"Burger, Fries",Rider unavailable,0.0,2025-08-19,3,Tuesday,True
+24181,1783,Biryani Express,South Indian,2025-02-13 01:22:04,71.0,958.0,0.0,Wallet,5.0,Hyderabad,Rohan,"Pizza, Coke",Customer Cancelled,0.0,2025-02-13,1,Thursday,True
+77505,6948,Kebab Street,Japanese,2025-06-14 09:24:04,120.0,1560.05,24.49,Upi,0.0,Pune,Deepak,"Burger, Fries",Customer Cancelled,0.0,2025-06-14,9,Saturday,False
+60608,5632,Spice Villa,Fast Food,2025-04-21 13:11:04,60.0,822.78,10.58,Upi,5.0,Delhi,Sana,"Pizza, Coke",Rider unavailable,638.37,2025-04-21,13,Monday,True
+19499,9166,Spice Villa,South Indian,2025-08-17 16:11:04,24.0,958.0,36.71,Card,0.0,Delhi,Amit,Sushi Set,No cancellation,0.0,2025-08-17,16,Sunday,False
+90533,1258,Tandoori Nights,North Indian,2025-11-02 21:26:04,60.0,958.0,26.88,Cash,5.0,Delhi,Fatima,Biryani,Customer Cancelled,0.0,2025-11-02,21,Sunday,True
+27454,3979,Kebab Street,North Indian,2025-05-20 19:18:04,60.0,1202.38,33.39,Cash,5.0,Mumbai,Kiran,"Pizza, Coke",Rider unavailable,0.0,2025-05-20,19,Tuesday,True
+61534,2883,Burger Hub,North Indian,2025-01-31 16:37:04,28.0,958.0,28.49,Card,3.3,Hyderabad,Rohan,Biryani,Rider unavailable,236.67,2025-01-31,16,Friday,True
+10019,4065,Kebab Street,Japanese,2025-07-09 10:58:04,102.0,958.0,0.0,Upi,5.0,Bangalore,Deepak,"Pizza, Coke",Rider unavailable,0.0,2025-07-09,10,Wednesday,True
+69607,8540,Burger Hub,South Indian,2025-07-14 05:29:04,57.0,958.0,13.02,Net Banking,5.0,Pune,Kiran,Noodles,Restaurant busy,176.98,2025-07-14,5,Monday,True
+62459,3972,Café Bliss,Italian,2025-02-03 22:11:04,47.0,1542.17,0.0,Upi,0.0,Pune,Harsh,South Thali,Customer Cancelled,0.0,2025-02-03,22,Monday,False
+87835,2472,Burger Hub,Italian,2024-12-23 17:44:04,60.0,1187.24,0.0,Cash,2.2,Mumbai,Sana,"Pizza, Coke",Customer Cancelled,0.0,2024-12-23,17,Monday,True
+47220,7003,Pizza Craft,Japanese,2025-09-17 13:42:04,17.0,958.0,38.25,Cash,0.0,Hyderabad,Kiran,"Burger, Fries",Rider unavailable,118.57,2025-09-17,13,Wednesday,False
+76645,7309,Noodle House,Japanese,2025-11-21 06:53:04,92.0,958.0,2.67,Upi,5.0,Pune,Rohan,"Burger, Fries",Restaurant busy,0.0,2025-11-21,6,Friday,True
+44461,7387,Spice Villa,South Indian,2025-05-01 01:59:04,78.0,958.0,0.0,Wallet,5.0,Pune,Rohan,"Pizza, Coke",Restaurant busy,0.0,2025-05-01,1,Thursday,True
+73053,4233,Café Bliss,Italian,2025-11-11 22:34:04,60.0,415.89,5.74,Card,5.0,Pune,Amit,South Thali,Rider unavailable,0.0,2025-11-11,22,Tuesday,True
+44117,5662,Pizza Craft,Japanese,2025-10-20 21:41:04,60.0,958.0,0.0,Card,5.0,Bangalore,Sana,"Burger, Fries",Restaurant busy,0.0,2025-10-20,21,Monday,True
+24461,2715,Pizza Craft,North Indian,2025-01-10 19:17:04,60.0,1530.04,10.84,Upi,1.8,Mumbai,Kiran,"Pizza, Coke",Customer Cancelled,166.89,2025-01-10,19,Friday,True
+97983,9256,Sushi World,Fast Food,2025-03-29 23:08:04,60.0,958.0,0.0,Card,0.0,Delhi,Deepak,Biryani,Restaurant busy,0.0,2025-03-29,23,Saturday,False
+25483,5629,Café Bliss,North Indian,2025-11-19 03:43:04,60.0,958.0,0.0,Upi,2.5,Pune,Amit,"Pizza, Coke",No cancellation,0.0,2025-11-19,3,Wednesday,True
+71128,3981,Kebab Street,Fast Food,2025-03-28 13:34:04,60.0,958.0,0.0,Card,0.0,Hyderabad,Kiran,Sushi Set,Restaurant busy,0.0,2025-03-28,13,Friday,False
+48309,4794,Burger Hub,Italian,2025-10-09 16:21:04,60.0,958.0,0.0,Cash,0.0,Hyderabad,Kiran,South Thali,No cancellation,0.0,2025-10-09,16,Thursday,False
+86271,9850,Burger Hub,Fast Food,2025-06-25 18:52:04,60.0,1088.88,0.0,Upi,4.2,Kolkata,Deepak,"Pizza, Coke",Rider unavailable,0.0,2025-06-25,18,Wednesday,True
+34984,2305,Burger Hub,North Indian,2025-11-01 14:01:04,86.0,1039.14,0.0,Wallet,2.9,Delhi,Sana,South Thali,Rider unavailable,466.82,2025-11-01,14,Saturday,True
+18164,1025,Biryani Express,Fast Food,2025-08-06 11:32:04,60.0,958.0,0.0,Net Banking,5.0,Bangalore,Harsh,Sushi Set,No cancellation,0.0,2025-08-06,11,Wednesday,True
+28878,5546,Burger Hub,Chinese,2025-06-04 16:44:04,60.0,958.0,0.0,Cash,0.0,Hyderabad,Harsh,"Pizza, Coke",No cancellation,0.0,2025-06-04,16,Wednesday,False
+65170,4791,Burger Hub,Mexican,2025-04-20 11:42:04,50.0,1606.24,12.51,Net Banking,5.0,Kolkata,Harsh,South Thali,Restaurant busy,293.92,2025-04-20,11,Sunday,True
+52903,1606,Sushi World,South Indian,2025-06-11 00:24:04,60.0,958.0,0.0,Net Banking,0.0,Delhi,Sana,Sushi Set,Restaurant busy,544.56,2025-06-11,0,Wednesday,False
+42436,1597,Spice Villa,South Indian,2025-05-02 18:46:04,60.0,958.0,0.0,Cash,5.0,Mumbai,Amit,South Thali,Customer Cancelled,279.3,2025-05-02,18,Friday,True
+55364,6963,Noodle House,Mexican,2025-03-21 05:54:04,60.0,958.0,0.0,Cash,4.8,Mumbai,Rohan,Sushi Set,No cancellation,0.0,2025-03-21,5,Friday,True
+23193,5440,Burger Hub,Japanese,2025-03-17 09:16:04,60.0,958.0,2.09,Upi,1.6,Pune,Amit,"Burger, Fries",Restaurant busy,0.0,2025-03-17,9,Monday,True
+29826,4599,Biryani Express,Italian,2024-12-15 21:01:04,105.0,958.0,12.96,Upi,0.0,Pune,Rohan,Biryani,Restaurant busy,0.0,2024-12-15,21,Sunday,False
+83481,7199,Burger Hub,Japanese,2025-02-24 05:08:04,49.0,1685.96,0.0,Cash,2.5,Mumbai,Rohan,Noodles,Customer Cancelled,0.0,2025-02-24,5,Monday,True
+56413,7121,Sushi World,Japanese,2025-06-25 19:06:04,44.0,958.0,0.0,Card,0.0,Pune,Sana,"Burger, Fries",Restaurant busy,0.0,2025-06-25,19,Wednesday,False
+92181,6443,Spice Villa,Mexican,2025-09-13 16:15:04,60.0,958.0,0.0,Card,0.0,Pune,Kiran,South Thali,Rider unavailable,0.0,2025-09-13,16,Saturday,False
+88062,5691,Café Bliss,Italian,2025-09-22 14:35:04,60.0,958.0,35.99,Card,0.0,Hyderabad,Sana,"Burger, Fries",Customer Cancelled,0.0,2025-09-22,14,Monday,False
+82528,3437,Noodle House,Mexican,2025-01-03 14:21:04,60.0,1728.49,0.0,Card,0.0,Hyderabad,Deepak,South Thali,Restaurant busy,496.45,2025-01-03,14,Friday,False
+11795,9710,Kebab Street,South Indian,2025-09-10 00:31:04,60.0,958.0,0.0,Cash,0.0,Pune,Sana,Noodles,No cancellation,0.0,2025-09-10,0,Wednesday,False
+45176,1572,Noodle House,Italian,2024-11-27 00:42:04,60.0,958.0,0.0,Cash,0.0,Mumbai,Harsh,South Thali,Customer Cancelled,424.35,2024-11-27,0,Wednesday,False
+47396,6861,Tandoori Nights,South Indian,2025-01-02 01:12:04,74.0,1103.2,20.82,Cash,0.0,Kolkata,Kiran,Noodles,Customer Cancelled,0.0,2025-01-02,1,Thursday,False
+17641,1839,Spice Villa,South Indian,2025-02-16 17:10:04,18.0,893.26,0.0,Cash,0.0,Pune,Sana,Noodles,Restaurant busy,0.0,2025-02-16,17,Sunday,False
+33788,9878,Pizza Craft,Japanese,2025-06-16 20:43:04,84.0,958.0,0.0,Upi,2.9,Pune,Harsh,Sushi Set,Restaurant busy,0.0,2025-06-16,20,Monday,True
+17421,3575,Veggie Point,Japanese,2024-12-19 08:00:04,79.0,1582.95,31.24,Wallet,4.7,Hyderabad,Sana,Biryani,Restaurant busy,0.0,2024-12-19,8,Thursday,True
+88096,2206,Kebab Street,Italian,2025-03-31 21:29:04,60.0,1393.1,0.0,Upi,0.0,Bangalore,Kiran,South Thali,Customer Cancelled,627.8,2025-03-31,21,Monday,False
+38111,6236,Sushi World,Mexican,2025-04-22 18:37:04,61.0,958.0,0.0,Upi,0.0,Hyderabad,Deepak,Biryani,Rider unavailable,0.0,2025-04-22,18,Tuesday,False
+72876,8899,Spice Villa,Mexican,2025-01-19 23:21:04,60.0,958.0,4.04,Net Banking,0.0,Mumbai,Harsh,Sushi Set,Rider unavailable,0.0,2025-01-19,23,Sunday,False
+42020,8590,Café Bliss,Mexican,2025-03-03 19:15:04,60.0,958.0,0.0,Cash,2.2,Pune,Kiran,Biryani,No cancellation,0.0,2025-03-03,19,Monday,True
+90643,7080,Veggie Point,Japanese,2025-03-08 16:03:04,60.0,958.0,27.37,Upi,5.0,Delhi,Sana,"Pizza, Coke",No cancellation,0.0,2025-03-08,16,Saturday,True
+77053,1332,Café Bliss,South Indian,2025-01-15 10:52:04,60.0,958.0,28.9,Wallet,5.0,Hyderabad,Fatima,"Pizza, Coke",Restaurant busy,0.0,2025-01-15,10,Wednesday,True
+50605,3715,Burger Hub,Italian,2025-07-12 02:35:04,60.0,1525.82,0.0,Wallet,5.0,Hyderabad,Harsh,Biryani,No cancellation,0.0,2025-07-12,2,Saturday,True
+81945,2108,Biryani Express,Italian,2025-07-21 19:26:04,90.0,958.0,0.0,Cash,0.0,Mumbai,Fatima,"Burger, Fries",No cancellation,0.0,2025-07-21,19,Monday,False
+25107,5537,Biryani Express,Fast Food,2025-05-06 20:25:04,60.0,958.0,0.0,Card,3.8,Bangalore,Harsh,Noodles,Customer Cancelled,0.0,2025-05-06,20,Tuesday,True
+51708,2309,Burger Hub,Fast Food,2025-09-27 03:12:04,60.0,801.64,1.44,Cash,2.3,Kolkata,Fatima,Noodles,Customer Cancelled,621.14,2025-09-27,3,Saturday,True
+31911,1039,Spice Villa,North Indian,2024-12-08 10:54:04,60.0,1178.87,0.0,Upi,3.9,Bangalore,Deepak,"Pizza, Coke",Rider unavailable,0.0,2024-12-08,10,Sunday,True
+56879,8493,Burger Hub,Italian,2024-12-06 18:00:04,47.0,958.0,0.0,Upi,0.0,Bangalore,Harsh,"Pizza, Coke",No cancellation,0.0,2024-12-06,18,Friday,False
+12098,8056,Tandoori Nights,Chinese,2025-01-31 22:10:04,60.0,958.0,0.0,Cash,5.0,Hyderabad,Rohan,Noodles,Rider unavailable,439.42,2025-01-31,22,Friday,True
+19748,8198,Spice Villa,Italian,2025-10-18 04:09:04,33.0,958.0,36.16,Cash,5.0,Delhi,Deepak,Noodles,No cancellation,0.0,2025-10-18,4,Saturday,True
+41916,6299,Burger Hub,Japanese,2025-07-05 22:43:04,31.0,749.44,0.0,Upi,3.2,Kolkata,Kiran,"Pizza, Coke",Customer Cancelled,0.0,2025-07-05,22,Saturday,True
+64352,7891,Spice Villa,South Indian,2025-08-06 01:14:04,89.0,958.0,2.78,Upi,5.0,Delhi,Deepak,South Thali,Rider unavailable,443.13,2025-08-06,1,Wednesday,True
+22897,9058,Veggie Point,Mexican,2025-01-04 00:26:04,47.0,692.96,0.0,Upi,0.0,Hyderabad,Sana,"Pizza, Coke",Rider unavailable,0.0,2025-01-04,0,Saturday,False
+81576,9863,Sushi World,Italian,2025-01-31 00:21:04,60.0,958.0,2.73,Cash,2.9,Hyderabad,Harsh,Biryani,Rider unavailable,0.0,2025-01-31,0,Friday,True
+62417,9369,Spice Villa,Japanese,2025-05-05 01:47:04,47.0,958.0,29.55,Net Banking,3.1,Bangalore,Sana,"Burger, Fries",Customer Cancelled,0.0,2025-05-05,1,Monday,True
+40568,5676,Veggie Point,Fast Food,2025-09-13 03:27:04,60.0,958.0,0.0,Wallet,0.0,Kolkata,Harsh,Noodles,Rider unavailable,0.0,2025-09-13,3,Saturday,False
+39134,6334,Spice Villa,Mexican,2025-07-04 05:19:04,60.0,705.81,23.61,Net Banking,0.0,Mumbai,Deepak,Noodles,Rider unavailable,0.0,2025-07-04,5,Friday,False
+79242,6371,Noodle House,Chinese,2025-08-29 12:21:04,60.0,746.49,0.0,Net Banking,5.0,Kolkata,Harsh,South Thali,Customer Cancelled,0.0,2025-08-29,12,Friday,True
+74515,1073,Spice Villa,Fast Food,2025-01-10 11:57:04,65.0,958.0,0.0,Upi,0.0,Delhi,Harsh,Noodles,Rider unavailable,513.88,2025-01-10,11,Friday,False
+13382,5763,Sushi World,Fast Food,2025-02-07 03:03:04,25.0,958.0,0.0,Upi,0.0,Mumbai,Fatima,Sushi Set,No cancellation,0.0,2025-02-07,3,Friday,False
+74168,4963,Veggie Point,South Indian,2025-07-14 10:11:04,60.0,588.0,9.53,Upi,5.0,Bangalore,Amit,Noodles,Rider unavailable,341.07,2025-07-14,10,Monday,True
+97294,4756,Café Bliss,North Indian,2025-07-31 14:36:04,60.0,958.0,0.0,Net Banking,5.0,Hyderabad,Kiran,Biryani,Customer Cancelled,0.0,2025-07-31,14,Thursday,True
+53346,5773,Biryani Express,Fast Food,2025-09-30 22:06:04,110.0,958.0,0.0,Upi,5.0,Hyderabad,Fatima,Biryani,Rider unavailable,0.0,2025-09-30,22,Tuesday,True
+99190,9250,Café Bliss,Chinese,2025-03-17 18:23:04,18.0,275.48,0.0,Cash,4.5,Bangalore,Harsh,"Burger, Fries",Customer Cancelled,0.0,2025-03-17,18,Monday,True
+42203,8220,Burger Hub,Japanese,2025-04-14 08:54:04,60.0,812.35,0.0,Cash,5.0,Kolkata,Deepak,Biryani,Rider unavailable,252.24,2025-04-14,8,Monday,True
+31449,8957,Spice Villa,South Indian,2025-10-12 17:50:04,60.0,1602.91,0.0,Cash,0.0,Hyderabad,Harsh,South Thali,Customer Cancelled,371.95,2025-10-12,17,Sunday,False
+58168,1570,Spice Villa,Mexican,2025-02-05 04:07:04,60.0,1431.99,0.0,Net Banking,0.0,Delhi,Sana,Noodles,Rider unavailable,0.0,2025-02-05,4,Wednesday,False
+96557,3928,Sushi World,Mexican,2025-01-08 09:34:04,60.0,958.0,37.19,Cash,0.0,Hyderabad,Fatima,"Pizza, Coke",Customer Cancelled,0.0,2025-01-08,9,Wednesday,False
+87001,9757,Tandoori Nights,Japanese,2025-11-13 20:53:04,60.0,356.43,33.98,Upi,0.0,Hyderabad,Kiran,South Thali,Customer Cancelled,0.0,2025-11-13,20,Thursday,False
+91597,6352,Café Bliss,South Indian,2025-04-03 02:06:04,60.0,1500.03,16.85,Upi,5.0,Delhi,Deepak,"Burger, Fries",Customer Cancelled,0.0,2025-04-03,2,Thursday,True
+93232,3359,Burger Hub,South Indian,2025-05-27 12:55:04,30.0,568.84,0.0,Net Banking,5.0,Delhi,Fatima,Biryani,Rider unavailable,651.7,2025-05-27,12,Tuesday,True
+31606,6483,Kebab Street,Japanese,2025-05-15 15:37:04,60.0,958.0,0.33,Wallet,5.0,Mumbai,Fatima,"Pizza, Coke",Restaurant busy,0.0,2025-05-15,15,Thursday,True
+18145,2583,Tandoori Nights,North Indian,2025-06-05 01:05:04,60.0,958.0,0.0,Cash,4.5,Kolkata,Harsh,South Thali,Customer Cancelled,0.0,2025-06-05,1,Thursday,True
+46204,2887,Café Bliss,Italian,2025-05-11 17:02:04,60.0,492.09,0.0,Cash,1.1,Mumbai,Rohan,South Thali,Customer Cancelled,635.8,2025-05-11,17,Sunday,True
+35678,6469,Biryani Express,North Indian,2024-12-10 04:43:04,113.0,881.61,5.75,Net Banking,1.5,Bangalore,Sana,Noodles,Restaurant busy,0.0,2024-12-10,4,Tuesday,True
+77642,8961,Spice Villa,Japanese,2025-09-11 23:36:04,60.0,958.0,21.75,Upi,4.2,Pune,Sana,"Burger, Fries",No cancellation,0.0,2025-09-11,23,Thursday,True
+56898,8896,Pizza Craft,Chinese,2025-10-02 17:43:04,60.0,958.0,16.03,Upi,5.0,Pune,Amit,"Pizza, Coke",Rider unavailable,0.0,2025-10-02,17,Thursday,True
+15007,6740,Kebab Street,South Indian,2025-01-16 07:23:04,15.0,958.0,0.0,Net Banking,5.0,Hyderabad,Kiran,"Burger, Fries",Customer Cancelled,404.75,2025-01-16,7,Thursday,True
+12348,8196,Sushi World,South Indian,2025-09-19 23:00:04,97.0,958.0,32.3,Upi,0.0,Pune,Deepak,Noodles,Customer Cancelled,549.27,2025-09-19,23,Friday,False
+67876,5002,Pizza Craft,Italian,2025-05-14 19:16:04,60.0,958.0,0.0,Upi,1.5,Kolkata,Fatima,South Thali,No cancellation,0.0,2025-05-14,19,Wednesday,True
+22979,4086,Burger Hub,North Indian,2025-09-11 22:48:04,60.0,358.44,0.0,Upi,3.0,Kolkata,Kiran,"Burger, Fries",Restaurant busy,375.09,2025-09-11,22,Thursday,True
+29565,6224,Sushi World,Italian,2025-02-13 07:29:04,60.0,958.0,0.76,Cash,2.0,Pune,Sana,Sushi Set,Customer Cancelled,596.49,2025-02-13,7,Thursday,True
+89567,2145,Spice Villa,Fast Food,2025-11-25 18:17:04,34.0,1308.16,20.01,Wallet,1.1,Mumbai,Kiran,Noodles,Restaurant busy,0.0,2025-11-25,18,Tuesday,True
+14406,2962,Noodle House,Italian,2025-08-08 02:49:04,60.0,958.0,17.47,Upi,5.0,Bangalore,Harsh,"Burger, Fries",Restaurant busy,0.0,2025-08-08,2,Friday,True
+31896,4920,Noodle House,North Indian,2025-01-18 03:58:04,96.0,958.0,0.0,Wallet,5.0,Kolkata,Amit,"Burger, Fries",Restaurant busy,622.07,2025-01-18,3,Saturday,True
+37079,4985,Spice Villa,North Indian,2025-10-16 13:47:04,64.0,958.0,0.0,Cash,5.0,Mumbai,Deepak,"Pizza, Coke",Customer Cancelled,0.0,2025-10-16,13,Thursday,True
+26117,2721,Tandoori Nights,Italian,2025-02-21 01:10:04,118.0,531.2,0.0,Upi,5.0,Kolkata,Rohan,South Thali,No cancellation,0.0,2025-02-21,1,Friday,True
+36692,8091,Burger Hub,North Indian,2025-01-06 23:07:04,69.0,958.0,0.0,Upi,5.0,Hyderabad,Rohan,South Thali,Customer Cancelled,73.89,2025-01-06,23,Monday,True
+80581,1955,Café Bliss,Italian,2025-02-03 15:29:04,60.0,958.0,20.67,Net Banking,2.7,Mumbai,Kiran,Biryani,Rider unavailable,0.0,2025-02-03,15,Monday,True
+34464,7095,Kebab Street,Japanese,2025-07-18 03:59:04,108.0,798.7,0.0,Cash,5.0,Bangalore,Sana,South Thali,Customer Cancelled,0.0,2025-07-18,3,Friday,True
+87814,2975,Biryani Express,Chinese,2025-02-04 19:28:04,31.0,253.59,0.0,Wallet,1.0,Kolkata,Deepak,"Burger, Fries",Rider unavailable,0.0,2025-02-04,19,Tuesday,True
+71579,7816,Café Bliss,Japanese,2025-05-22 16:24:04,60.0,958.0,17.74,Card,0.0,Kolkata,Deepak,Sushi Set,No cancellation,0.0,2025-05-22,16,Thursday,False
+78007,3494,Tandoori Nights,South Indian,2025-08-14 23:05:04,60.0,958.0,0.0,Card,3.2,Pune,Kiran,Noodles,Customer Cancelled,377.52,2025-08-14,23,Thursday,True
+46449,6773,Sushi World,Italian,2025-10-27 21:49:04,60.0,958.0,12.92,Cash,1.8,Bangalore,Harsh,Sushi Set,Rider unavailable,0.0,2025-10-27,21,Monday,True
+91310,3101,Café Bliss,Italian,2025-05-06 07:32:04,40.0,630.67,2.14,Net Banking,0.0,Bangalore,Rohan,Biryani,Customer Cancelled,0.0,2025-05-06,7,Tuesday,False
+39064,9725,Spice Villa,South Indian,2025-04-02 23:16:04,60.0,958.0,0.0,Card,2.2,Delhi,Rohan,South Thali,No cancellation,0.0,2025-04-02,23,Wednesday,True
+19280,4266,Tandoori Nights,Italian,2025-06-16 13:05:04,60.0,750.5,0.0,Upi,5.0,Delhi,Fatima,South Thali,Rider unavailable,0.0,2025-06-16,13,Monday,True
+36595,4511,Veggie Point,Fast Food,2025-06-09 03:03:04,25.0,958.0,34.79,Wallet,0.0,Pune,Sana,Sushi Set,Customer Cancelled,0.0,2025-06-09,3,Monday,False
+63774,7013,Kebab Street,Japanese,2025-01-06 08:01:04,60.0,479.64,0.0,Card,0.0,Bangalore,Sana,South Thali,Restaurant busy,0.0,2025-01-06,8,Monday,False
+96493,3327,Burger Hub,Chinese,2024-11-25 16:43:04,21.0,958.0,0.0,Cash,5.0,Kolkata,Amit,South Thali,Restaurant busy,0.0,2024-11-25,16,Monday,True
+55072,8941,Burger Hub,Italian,2025-07-24 23:43:04,27.0,958.0,0.0,Card,5.0,Bangalore,Deepak,Biryani,Restaurant busy,0.0,2025-07-24,23,Thursday,True
+33265,3316,Spice Villa,Chinese,2025-01-17 15:35:04,60.0,914.97,0.0,Upi,2.6,Delhi,Kiran,"Burger, Fries",Rider unavailable,70.61,2025-01-17,15,Friday,True
+87793,6668,Veggie Point,North Indian,2025-04-26 03:52:04,40.0,958.0,4.54,Cash,0.0,Mumbai,Kiran,South Thali,No cancellation,0.0,2025-04-26,3,Saturday,False
+87794,1097,Sushi World,Fast Food,2025-01-08 06:09:04,60.0,958.0,3.1,Cash,0.0,Bangalore,Sana,Biryani,Restaurant busy,0.0,2025-01-08,6,Wednesday,False
+81336,6366,Burger Hub,South Indian,2025-06-04 02:51:04,60.0,958.0,0.0,Upi,1.5,Delhi,Harsh,South Thali,Customer Cancelled,554.33,2025-06-04,2,Wednesday,True
+84478,1837,Sushi World,North Indian,2025-10-29 20:32:04,96.0,958.0,6.82,Cash,0.0,Mumbai,Harsh,Biryani,Rider unavailable,0.0,2025-10-29,20,Wednesday,False
+69436,9402,Biryani Express,North Indian,2025-01-12 13:39:04,60.0,958.0,36.87,Wallet,5.0,Mumbai,Harsh,Biryani,Restaurant busy,0.0,2025-01-12,13,Sunday,True
+71290,5113,Spice Villa,South Indian,2024-12-09 05:02:04,60.0,958.0,1.0,Net Banking,0.0,Bangalore,Fatima,South Thali,No cancellation,0.0,2024-12-09,5,Monday,False
+14078,5026,Burger Hub,Mexican,2025-01-28 06:39:04,60.0,958.0,36.38,Net Banking,0.0,Mumbai,Deepak,South Thali,Customer Cancelled,0.0,2025-01-28,6,Tuesday,False
+59160,1320,Spice Villa,North Indian,2025-07-14 12:26:04,77.0,958.0,9.64,Wallet,5.0,Kolkata,Rohan,Noodles,Restaurant busy,228.49,2025-07-14,12,Monday,True
+58294,7579,Spice Villa,Fast Food,2025-08-10 13:05:04,60.0,958.0,0.0,Net Banking,5.0,Bangalore,Sana,"Pizza, Coke",Rider unavailable,0.0,2025-08-10,13,Sunday,True
+11463,3754,Café Bliss,North Indian,2025-10-08 01:21:04,60.0,1602.77,14.09,Net Banking,1.7,Bangalore,Kiran,Sushi Set,No cancellation,0.0,2025-10-08,1,Wednesday,True
+65569,5797,Noodle House,North Indian,2025-11-11 05:10:04,60.0,938.97,9.19,Cash,0.0,Kolkata,Harsh,"Pizza, Coke",No cancellation,0.0,2025-11-11,5,Tuesday,False
+10531,4234,Pizza Craft,Japanese,2024-12-30 13:31:04,60.0,958.0,0.0,Cash,3.7,Kolkata,Kiran,Noodles,Customer Cancelled,0.0,2024-12-30,13,Monday,True
+56816,8489,Kebab Street,Mexican,2025-05-08 03:51:04,30.0,871.55,0.0,Card,5.0,Bangalore,Rohan,Noodles,Customer Cancelled,0.0,2025-05-08,3,Thursday,True
+64053,4760,Café Bliss,Japanese,2025-06-20 08:00:04,60.0,1323.57,32.27,Cash,0.0,Kolkata,Rohan,Noodles,Restaurant busy,512.05,2025-06-20,8,Friday,False
+78624,9483,Tandoori Nights,Fast Food,2025-05-25 17:38:04,60.0,958.0,0.0,Card,4.9,Delhi,Sana,"Pizza, Coke",Customer Cancelled,0.0,2025-05-25,17,Sunday,True
+93189,6286,Café Bliss,South Indian,2024-12-22 20:14:04,24.0,958.0,20.96,Card,0.0,Mumbai,Kiran,Noodles,Rider unavailable,696.16,2024-12-22,20,Sunday,False
+72566,7835,Biryani Express,Japanese,2025-03-10 12:17:04,104.0,958.0,5.78,Cash,0.0,Mumbai,Sana,Noodles,No cancellation,0.0,2025-03-10,12,Monday,False
+96134,7656,Biryani Express,Chinese,2025-10-11 02:13:04,113.0,958.0,18.53,Upi,5.0,Hyderabad,Harsh,Biryani,Rider unavailable,0.0,2025-10-11,2,Saturday,True
+49712,1527,Pizza Craft,Italian,2025-02-02 14:00:04,60.0,954.06,22.36,Upi,5.0,Delhi,Sana,Biryani,Rider unavailable,0.0,2025-02-02,14,Sunday,True
+22262,5233,Veggie Point,North Indian,2025-04-30 18:12:04,60.0,958.0,0.0,Cash,0.0,Kolkata,Kiran,"Pizza, Coke",Rider unavailable,599.05,2025-04-30,18,Wednesday,False
+96073,9252,Café Bliss,Japanese,2025-01-04 11:05:04,56.0,958.0,0.0,Cash,0.0,Pune,Sana,"Pizza, Coke",Restaurant busy,492.74,2025-01-04,11,Saturday,False
+82522,4135,Tandoori Nights,Japanese,2025-11-06 07:47:04,82.0,958.0,7.52,Upi,5.0,Pune,Deepak,Sushi Set,Restaurant busy,0.0,2025-11-06,7,Thursday,True
+68287,8472,Pizza Craft,Fast Food,2025-03-23 17:29:04,60.0,958.0,0.0,Upi,5.0,Hyderabad,Deepak,Noodles,Customer Cancelled,0.0,2025-03-23,17,Sunday,True
+75915,5182,Sushi World,South Indian,2025-04-26 05:55:04,60.0,958.0,2.19,Cash,0.0,Mumbai,Deepak,"Pizza, Coke",No cancellation,0.0,2025-04-26,5,Saturday,False
+83064,8119,Tandoori Nights,Chinese,2024-11-25 16:48:04,60.0,1323.52,0.0,Cash,0.0,Kolkata,Sana,Biryani,Rider unavailable,0.0,2024-11-25,16,Monday,False
+56114,3471,Café Bliss,Chinese,2025-03-05 01:47:04,60.0,958.0,0.0,Card,1.4,Pune,Kiran,South Thali,Restaurant busy,0.0,2025-03-05,1,Wednesday,True
+13345,3753,Veggie Point,Mexican,2025-10-01 11:28:04,60.0,958.0,39.93,Upi,0.0,Kolkata,Sana,"Burger, Fries",No cancellation,0.0,2025-10-01,11,Wednesday,False
+53952,1248,Burger Hub,Italian,2025-11-26 08:30:04,60.0,958.0,2.03,Cash,0.0,Delhi,Fatima,"Burger, Fries",Customer Cancelled,0.0,2025-11-26,8,Wednesday,False
+19221,7702,Kebab Street,South Indian,2025-08-17 23:56:04,24.0,958.0,0.0,Net Banking,1.6,Mumbai,Kiran,"Pizza, Coke",Rider unavailable,0.0,2025-08-17,23,Sunday,True
+36906,6126,Biryani Express,North Indian,2025-11-13 16:53:04,60.0,894.21,24.91,Cash,0.0,Bangalore,Deepak,Noodles,Rider unavailable,391.13,2025-11-13,16,Thursday,False
+66798,8654,Tandoori Nights,North Indian,2025-06-26 21:42:04,60.0,1334.51,0.0,Cash,1.9,Delhi,Kiran,"Pizza, Coke",Customer Cancelled,458.44,2025-06-26,21,Thursday,True
+46345,4712,Kebab Street,South Indian,2025-03-08 01:24:04,56.0,958.0,0.0,Card,5.0,Bangalore,Rohan,Biryani,Rider unavailable,205.39,2025-03-08,1,Saturday,True
+94399,7565,Noodle House,Italian,2025-09-27 05:54:04,60.0,1168.28,0.0,Cash,0.0,Delhi,Kiran,Biryani,Customer Cancelled,294.53,2025-09-27,5,Saturday,False
+88762,6713,Pizza Craft,Italian,2025-09-11 04:47:04,60.0,678.29,0.0,Cash,3.7,Hyderabad,Deepak,South Thali,Restaurant busy,396.12,2025-09-11,4,Thursday,True
+94953,4033,Pizza Craft,Fast Food,2025-04-24 16:45:04,60.0,958.0,26.17,Cash,5.0,Mumbai,Harsh,Biryani,Restaurant busy,499.3,2025-04-24,16,Thursday,True
+96294,4459,Café Bliss,North Indian,2024-12-16 20:45:04,111.0,958.0,5.36,Wallet,0.0,Delhi,Deepak,Noodles,No cancellation,0.0,2024-12-16,20,Monday,False
+33867,8438,Veggie Point,Japanese,2025-07-17 16:00:04,60.0,958.0,7.19,Net Banking,0.0,Mumbai,Kiran,Sushi Set,Customer Cancelled,112.1,2025-07-17,16,Thursday,False
+64226,6526,Café Bliss,Fast Food,2025-08-19 14:02:04,31.0,1062.24,0.0,Cash,5.0,Kolkata,Deepak,Biryani,Rider unavailable,0.0,2025-08-19,14,Tuesday,True
+45429,6891,Burger Hub,North Indian,2025-08-21 07:41:04,80.0,1691.67,0.0,Wallet,3.5,Bangalore,Kiran,South Thali,No cancellation,0.0,2025-08-21,7,Thursday,True
+98608,6632,Spice Villa,Italian,2025-04-12 20:16:04,72.0,958.0,0.0,Card,1.9,Kolkata,Harsh,Biryani,Customer Cancelled,241.93,2025-04-12,20,Saturday,True
+22687,1199,Sushi World,Mexican,2025-06-03 18:26:04,60.0,344.47,29.68,Net Banking,0.0,Kolkata,Deepak,Biryani,Customer Cancelled,0.0,2025-06-03,18,Tuesday,False
+52337,3602,Pizza Craft,Mexican,2025-06-09 08:29:04,79.0,361.68,11.73,Card,3.3,Mumbai,Deepak,Sushi Set,Rider unavailable,0.0,2025-06-09,8,Monday,True
+15484,5371,Sushi World,Fast Food,2025-02-24 18:03:04,110.0,958.0,0.0,Card,0.0,Bangalore,Deepak,"Pizza, Coke",No cancellation,0.0,2025-02-24,18,Monday,False
+38560,8736,Burger Hub,South Indian,2025-08-30 21:59:04,60.0,958.0,11.7,Upi,5.0,Mumbai,Amit,Noodles,Customer Cancelled,0.0,2025-08-30,21,Saturday,True
+39826,6294,Veggie Point,North Indian,2025-05-05 09:25:04,60.0,958.0,35.67,Card,5.0,Pune,Harsh,"Burger, Fries",Rider unavailable,0.0,2025-05-05,9,Monday,True
+91127,7464,Tandoori Nights,Japanese,2025-11-10 06:14:04,60.0,481.24,0.0,Net Banking,0.0,Mumbai,Fatima,"Burger, Fries",Customer Cancelled,0.0,2025-11-10,6,Monday,False
+13244,3379,Sushi World,Japanese,2024-12-23 01:19:04,72.0,958.0,0.0,Net Banking,5.0,Delhi,Fatima,Noodles,No cancellation,0.0,2024-12-23,1,Monday,True
+42330,2531,Pizza Craft,Mexican,2025-07-16 20:23:04,60.0,1366.64,28.17,Cash,0.0,Bangalore,Rohan,South Thali,Customer Cancelled,461.97,2025-07-16,20,Wednesday,False
+72063,2867,Burger Hub,North Indian,2025-11-12 07:23:04,54.0,427.72,0.0,Wallet,0.0,Kolkata,Fatima,"Burger, Fries",Customer Cancelled,0.0,2025-11-12,7,Wednesday,False
+90001,3123,Café Bliss,Japanese,2025-10-29 00:34:04,58.0,958.0,9.53,Upi,5.0,Kolkata,Sana,Noodles,No cancellation,0.0,2025-10-29,0,Wednesday,True
+68051,8865,Spice Villa,North Indian,2025-07-19 14:27:04,60.0,1736.6,0.0,Wallet,5.0,Pune,Harsh,South Thali,No cancellation,0.0,2025-07-19,14,Saturday,True
+33504,1352,Kebab Street,Mexican,2025-05-18 11:01:04,60.0,958.0,18.18,Wallet,3.9,Delhi,Fatima,"Pizza, Coke",Rider unavailable,0.0,2025-05-18,11,Sunday,True
+99620,6585,Café Bliss,Japanese,2025-02-19 00:45:04,42.0,958.0,0.0,Net Banking,4.7,Delhi,Fatima,Noodles,Customer Cancelled,196.68,2025-02-19,0,Wednesday,True
+37672,9464,Burger Hub,Italian,2025-06-30 12:24:04,60.0,958.0,0.0,Card,3.8,Mumbai,Kiran,"Pizza, Coke",Rider unavailable,625.59,2025-06-30,12,Monday,True
+34031,6159,Sushi World,Italian,2025-05-06 23:34:04,60.0,958.0,0.0,Upi,4.2,Hyderabad,Fatima,Sushi Set,Rider unavailable,0.0,2025-05-06,23,Tuesday,True
+27321,4212,Noodle House,Japanese,2025-11-25 05:30:04,60.0,831.4,38.86,Upi,0.0,Delhi,Amit,"Burger, Fries",Rider unavailable,0.0,2025-11-25,5,Tuesday,False
+67907,3520,Burger Hub,Italian,2025-06-06 17:49:04,60.0,529.36,24.14,Net Banking,0.0,Bangalore,Sana,"Burger, Fries",No cancellation,0.0,2025-06-06,17,Friday,False
+21803,5248,Tandoori Nights,Fast Food,2024-12-30 21:53:04,60.0,958.0,0.0,Cash,3.8,Kolkata,Kiran,South Thali,Restaurant busy,0.0,2024-12-30,21,Monday,True
+36809,7634,Spice Villa,Italian,2025-06-09 06:16:04,60.0,1653.23,8.2,Upi,5.0,Bangalore,Fatima,Noodles,No cancellation,0.0,2025-06-09,6,Monday,True
+35552,1149,Spice Villa,Italian,2025-06-21 21:50:04,60.0,958.0,0.0,Upi,5.0,Pune,Fatima,"Pizza, Coke",No cancellation,0.0,2025-06-21,21,Saturday,True
+27166,9522,Burger Hub,Italian,2025-03-10 20:40:04,40.0,958.0,0.0,Cash,5.0,Pune,Fatima,South Thali,Restaurant busy,0.0,2025-03-10,20,Monday,True
+14780,6490,Veggie Point,North Indian,2025-09-21 02:20:04,60.0,958.0,24.04,Card,1.1,Kolkata,Rohan,Biryani,Restaurant busy,418.09,2025-09-21,2,Sunday,True
+22348,1675,Noodle House,South Indian,2025-11-11 14:15:04,60.0,958.0,0.0,Wallet,5.0,Delhi,Fatima,Noodles,Restaurant busy,0.0,2025-11-11,14,Tuesday,True
+25585,8963,Spice Villa,Japanese,2025-09-23 23:20:04,51.0,958.0,13.0,Card,0.0,Hyderabad,Harsh,"Burger, Fries",Customer Cancelled,96.96,2025-09-23,23,Tuesday,False
+44851,8755,Burger Hub,Italian,2025-06-26 07:59:04,60.0,958.0,0.0,Card,0.0,Delhi,Kiran,"Burger, Fries",No cancellation,0.0,2025-06-26,7,Thursday,False
+12957,9492,Biryani Express,Italian,2025-04-15 21:04:04,60.0,445.01,0.0,Cash,3.7,Pune,Harsh,Noodles,No cancellation,0.0,2025-04-15,21,Tuesday,True
+86461,6097,Biryani Express,Italian,2025-08-26 22:26:04,70.0,958.0,0.0,Wallet,5.0,Hyderabad,Rohan,Noodles,Customer Cancelled,0.0,2025-08-26,22,Tuesday,True
+96704,2521,Spice Villa,Mexican,2024-12-02 12:37:04,104.0,958.0,0.0,Cash,2.0,Bangalore,Kiran,Biryani,Customer Cancelled,0.0,2024-12-02,12,Monday,True
+39547,7750,Noodle House,Japanese,2025-01-20 17:50:04,60.0,958.0,28.53,Wallet,5.0,Bangalore,Kiran,Sushi Set,No cancellation,0.0,2025-01-20,17,Monday,True
+64789,6565,Kebab Street,Chinese,2025-07-14 06:29:04,60.0,958.0,0.0,Upi,4.4,Bangalore,Rohan,Sushi Set,Customer Cancelled,93.54,2025-07-14,6,Monday,True
+97128,2317,Sushi World,South Indian,2024-12-30 11:01:04,60.0,958.0,0.0,Card,0.0,Delhi,Kiran,Sushi Set,No cancellation,0.0,2024-12-30,11,Monday,False
+78917,2723,Spice Villa,Italian,2025-03-10 22:34:04,37.0,958.0,0.0,Upi,4.5,Kolkata,Fatima,"Burger, Fries",Restaurant busy,0.0,2025-03-10,22,Monday,True
+37630,4967,Tandoori Nights,Japanese,2024-12-06 18:14:04,60.0,1452.83,38.13,Upi,5.0,Delhi,Rohan,South Thali,Rider unavailable,469.05,2024-12-06,18,Friday,True
+29647,9765,Tandoori Nights,Chinese,2025-07-22 13:57:04,60.0,371.64,0.0,Wallet,5.0,Pune,Rohan,Sushi Set,No cancellation,0.0,2025-07-22,13,Tuesday,True
+87958,9563,Kebab Street,North Indian,2025-07-11 15:24:04,60.0,584.91,0.0,Upi,5.0,Mumbai,Harsh,Noodles,Restaurant busy,0.0,2025-07-11,15,Friday,True
+55279,3676,Spice Villa,Italian,2025-10-23 01:16:04,60.0,958.0,0.0,Card,4.3,Kolkata,Kiran,Biryani,No cancellation,0.0,2025-10-23,1,Thursday,True
+11192,9062,Noodle House,Fast Food,2025-01-16 03:17:04,60.0,958.0,0.0,Upi,2.1,Pune,Fatima,Biryani,No cancellation,0.0,2025-01-16,3,Thursday,True
+77979,9450,Sushi World,Mexican,2025-07-01 07:13:04,60.0,207.91,22.23,Upi,3.9,Pune,Kiran,Noodles,Restaurant busy,0.0,2025-07-01,7,Tuesday,True
+13928,8408,Café Bliss,Fast Food,2025-08-30 10:12:04,34.0,958.0,0.0,Upi,5.0,Delhi,Harsh,"Pizza, Coke",No cancellation,0.0,2025-08-30,10,Saturday,True
+22039,8102,Pizza Craft,Italian,2025-01-18 13:14:04,60.0,1434.0,0.0,Upi,5.0,Bangalore,Deepak,Biryani,Rider unavailable,686.06,2025-01-18,13,Saturday,True
+17834,1796,Café Bliss,Chinese,2025-03-11 09:00:04,65.0,958.0,21.13,Cash,5.0,Mumbai,Sana,"Burger, Fries",Restaurant busy,461.22,2025-03-11,9,Tuesday,True
+52188,8737,Spice Villa,Fast Food,2025-04-07 05:51:04,60.0,958.0,0.0,Upi,0.0,Pune,Sana,South Thali,Customer Cancelled,328.72,2025-04-07,5,Monday,False
+59227,1084,Biryani Express,Japanese,2025-04-17 17:30:04,60.0,958.0,0.0,Cash,0.0,Bangalore,Kiran,"Burger, Fries",No cancellation,0.0,2025-04-17,17,Thursday,False
+33347,1107,Sushi World,Italian,2025-02-08 02:36:04,92.0,958.0,0.0,Net Banking,0.0,Delhi,Rohan,Biryani,Customer Cancelled,0.0,2025-02-08,2,Saturday,False
+21744,5110,Spice Villa,North Indian,2024-12-27 21:11:04,60.0,958.0,0.0,Upi,4.1,Pune,Fatima,"Pizza, Coke",Customer Cancelled,484.34,2024-12-27,21,Friday,True
+46112,1608,Kebab Street,Fast Food,2025-03-30 19:37:04,60.0,958.0,0.0,Cash,0.0,Kolkata,Amit,"Burger, Fries",Rider unavailable,0.0,2025-03-30,19,Sunday,False
+60175,9027,Kebab Street,Italian,2025-11-04 12:34:04,60.0,958.0,24.23,Cash,4.4,Hyderabad,Deepak,Biryani,Restaurant busy,0.0,2025-11-04,12,Tuesday,True
+89815,3184,Noodle House,Italian,2024-12-23 16:47:04,60.0,958.0,32.77,Cash,5.0,Kolkata,Rohan,Noodles,Rider unavailable,236.17,2024-12-23,16,Monday,True
+61681,7816,Spice Villa,South Indian,2025-07-16 17:19:04,60.0,983.53,3.88,Net Banking,0.0,Pune,Kiran,"Burger, Fries",Rider unavailable,0.0,2025-07-16,17,Wednesday,False
+23975,7929,Spice Villa,Chinese,2025-09-21 15:30:04,75.0,958.0,0.0,Wallet,2.6,Bangalore,Harsh,Noodles,No cancellation,0.0,2025-09-21,15,Sunday,True
+28204,2943,Spice Villa,North Indian,2025-08-30 03:22:04,60.0,1142.85,6.6,Cash,5.0,Pune,Rohan,"Pizza, Coke",Customer Cancelled,656.36,2025-08-30,3,Saturday,True
+73901,1313,Spice Villa,Japanese,2025-02-27 00:08:04,60.0,365.98,0.0,Net Banking,0.0,Hyderabad,Harsh,Biryani,No cancellation,0.0,2025-02-27,0,Thursday,False
+27820,2222,Noodle House,Mexican,2024-12-28 10:31:04,60.0,958.0,17.62,Upi,5.0,Mumbai,Sana,Biryani,No cancellation,0.0,2024-12-28,10,Saturday,True
+79663,8480,Sushi World,North Indian,2025-01-29 08:23:04,99.0,958.0,0.0,Cash,5.0,Delhi,Deepak,Biryani,Customer Cancelled,273.34,2025-01-29,8,Wednesday,True
+12555,7492,Spice Villa,North Indian,2025-06-13 07:22:04,43.0,574.45,0.0,Cash,5.0,Bangalore,Harsh,Biryani,Rider unavailable,0.0,2025-06-13,7,Friday,True
+54762,6169,Tandoori Nights,Japanese,2025-09-02 20:52:04,60.0,958.0,13.85,Net Banking,4.0,Kolkata,Sana,Biryani,Customer Cancelled,495.49,2025-09-02,20,Tuesday,True
+28804,7273,Noodle House,North Indian,2025-03-23 01:13:04,40.0,946.71,0.0,Upi,1.8,Delhi,Sana,Biryani,Restaurant busy,168.46,2025-03-23,1,Sunday,True
+51400,6881,Burger Hub,North Indian,2025-03-03 17:11:04,60.0,958.0,0.0,Upi,3.2,Pune,Deepak,Biryani,Customer Cancelled,0.0,2025-03-03,17,Monday,True
+73492,6016,Burger Hub,South Indian,2025-06-22 14:49:04,60.0,958.0,0.0,Net Banking,5.0,Mumbai,Rohan,"Pizza, Coke",Customer Cancelled,481.87,2025-06-22,14,Sunday,True
+71961,3679,Pizza Craft,Italian,2025-01-12 09:46:04,34.0,883.26,13.35,Upi,0.0,Kolkata,Deepak,Noodles,Restaurant busy,396.26,2025-01-12,9,Sunday,False
+77879,8311,Sushi World,Mexican,2025-11-25 13:52:04,60.0,958.0,0.0,Card,5.0,Pune,Harsh,Biryani,Restaurant busy,0.0,2025-11-25,13,Tuesday,True
+45065,3249,Burger Hub,Mexican,2025-05-04 01:35:04,47.0,958.0,0.0,Upi,5.0,Delhi,Amit,Sushi Set,Restaurant busy,246.82,2025-05-04,1,Sunday,True
+88097,5457,Spice Villa,Japanese,2025-10-12 21:43:04,67.0,1565.76,0.0,Net Banking,2.3,Bangalore,Fatima,"Pizza, Coke",Rider unavailable,0.0,2025-10-12,21,Sunday,True
+85883,7590,Biryani Express,Italian,2025-07-26 03:33:04,60.0,958.0,0.0,Cash,0.0,Bangalore,Fatima,"Pizza, Coke",Rider unavailable,0.0,2025-07-26,3,Saturday,False
+80657,2842,Veggie Point,Japanese,2025-06-11 18:37:04,38.0,656.91,0.0,Card,5.0,Hyderabad,Sana,South Thali,Customer Cancelled,119.73,2025-06-11,18,Wednesday,True
+26867,4639,Café Bliss,Fast Food,2025-09-07 17:33:04,36.0,410.53,27.61,Cash,5.0,Delhi,Amit,"Pizza, Coke",Customer Cancelled,0.0,2025-09-07,17,Sunday,True
+69721,1527,Biryani Express,Japanese,2025-09-20 04:29:04,112.0,958.0,0.0,Card,0.0,Pune,Fatima,South Thali,Customer Cancelled,0.0,2025-09-20,4,Saturday,False
+25701,8694,Kebab Street,Chinese,2025-04-02 02:03:04,60.0,958.0,0.0,Wallet,5.0,Delhi,Harsh,"Pizza, Coke",Restaurant busy,0.0,2025-04-02,2,Wednesday,True
+89187,3914,Burger Hub,Japanese,2024-12-30 10:54:04,60.0,958.0,15.85,Upi,5.0,Hyderabad,Kiran,Sushi Set,Restaurant busy,0.0,2024-12-30,10,Monday,True
+10675,9865,Spice Villa,Fast Food,2025-03-13 17:14:04,60.0,1239.51,0.0,Wallet,5.0,Pune,Fatima,"Pizza, Coke",Restaurant busy,0.0,2025-03-13,17,Thursday,True
+82660,7574,Kebab Street,North Indian,2024-12-05 18:26:04,60.0,962.08,0.0,Net Banking,5.0,Hyderabad,Deepak,"Pizza, Coke",Rider unavailable,0.0,2024-12-05,18,Thursday,True
+78531,7798,Burger Hub,Chinese,2025-10-03 08:47:04,60.0,1655.32,0.0,Upi,5.0,Kolkata,Sana,"Pizza, Coke",Rider unavailable,0.0,2025-10-03,8,Friday,True
+38106,4296,Burger Hub,Fast Food,2024-11-25 14:49:04,111.0,958.0,0.0,Upi,2.9,Pune,Kiran,Sushi Set,Customer Cancelled,0.0,2024-11-25,14,Monday,True
+34467,7017,Café Bliss,North Indian,2025-09-27 09:03:04,60.0,958.0,18.1,Upi,5.0,Hyderabad,Kiran,Biryani,Customer Cancelled,0.0,2025-09-27,9,Saturday,True
+99498,8147,Biryani Express,Italian,2024-11-27 09:06:04,60.0,958.0,0.0,Net Banking,0.0,Bangalore,Deepak,Biryani,Restaurant busy,0.0,2024-11-27,9,Wednesday,False
+33148,7094,Biryani Express,Chinese,2025-03-28 04:11:04,60.0,958.0,0.0,Net Banking,0.0,Bangalore,Harsh,"Pizza, Coke",No cancellation,0.0,2025-03-28,4,Friday,False
+95906,9088,Sushi World,North Indian,2025-10-04 01:43:04,112.0,958.0,0.0,Cash,5.0,Delhi,Rohan,Biryani,Rider unavailable,0.0,2025-10-04,1,Saturday,True
+30249,6911,Noodle House,North Indian,2025-01-14 04:05:04,60.0,958.0,25.89,Upi,5.0,Mumbai,Harsh,Noodles,Customer Cancelled,0.0,2025-01-14,4,Tuesday,True
+53808,5017,Spice Villa,North Indian,2024-12-28 14:30:04,60.0,958.0,21.52,Cash,2.7,Delhi,Fatima,"Burger, Fries",Rider unavailable,0.0,2024-12-28,14,Saturday,True
+31306,6125,Noodle House,Japanese,2025-04-29 05:31:04,60.0,989.33,30.47,Upi,5.0,Delhi,Rohan,Biryani,Rider unavailable,0.0,2025-04-29,5,Tuesday,True
+50270,3412,Biryani Express,Fast Food,2025-11-23 20:17:04,60.0,958.0,0.0,Card,0.0,Bangalore,Fatima,Noodles,Customer Cancelled,0.0,2025-11-23,20,Sunday,False
+79230,9359,Spice Villa,South Indian,2024-12-30 08:23:04,37.0,958.0,0.0,Net Banking,5.0,Bangalore,Kiran,South Thali,Rider unavailable,178.7,2024-12-30,8,Monday,True
+52570,5331,Sushi World,South Indian,2025-01-02 12:39:04,112.0,958.0,24.78,Upi,5.0,Kolkata,Sana,"Pizza, Coke",Rider unavailable,0.0,2025-01-02,12,Thursday,True
+22234,1565,Kebab Street,South Indian,2024-12-26 13:13:04,63.0,958.0,0.0,Wallet,0.0,Pune,Sana,"Pizza, Coke",Rider unavailable,469.17,2024-12-26,13,Thursday,False
+58172,5092,Veggie Point,Fast Food,2025-01-04 09:17:04,60.0,1219.49,38.46,Card,5.0,Mumbai,Rohan,Biryani,Restaurant busy,0.0,2025-01-04,9,Saturday,True
+28489,7718,Noodle House,North Indian,2025-08-27 21:18:04,83.0,707.87,0.0,Net Banking,5.0,Kolkata,Harsh,"Pizza, Coke",Rider unavailable,0.0,2025-08-27,21,Wednesday,True
+47072,9242,Sushi World,Italian,2025-09-11 23:59:04,60.0,958.0,0.0,Cash,0.0,Mumbai,Sana,"Pizza, Coke",Customer Cancelled,0.0,2025-09-11,23,Thursday,False
+93855,8023,Biryani Express,Japanese,2025-11-19 16:07:04,60.0,958.0,0.0,Cash,0.0,Kolkata,Sana,South Thali,Customer Cancelled,417.73,2025-11-19,16,Wednesday,False
+61985,5303,Spice Villa,North Indian,2025-09-25 07:24:04,60.0,958.0,13.4,Card,2.5,Bangalore,Harsh,Sushi Set,Customer Cancelled,571.49,2025-09-25,7,Thursday,True
+25008,2209,Burger Hub,North Indian,2025-11-03 10:55:04,105.0,958.0,7.37,Cash,3.6,Pune,Sana,Sushi Set,Rider unavailable,0.0,2025-11-03,10,Monday,True
+53591,9951,Spice Villa,Italian,2024-12-24 10:47:04,60.0,958.0,0.0,Cash,4.9,Delhi,Amit,"Burger, Fries",No cancellation,0.0,2024-12-24,10,Tuesday,True
+79753,9113,Tandoori Nights,South Indian,2025-07-04 18:41:04,60.0,958.0,0.0,Upi,5.0,Mumbai,Sana,"Pizza, Coke",Customer Cancelled,0.0,2025-07-04,18,Friday,True
+84360,8927,Pizza Craft,North Indian,2025-08-12 13:07:04,74.0,958.0,0.0,Upi,5.0,Hyderabad,Amit,South Thali,Rider unavailable,0.0,2025-08-12,13,Tuesday,True
+54680,5093,Sushi World,South Indian,2024-12-05 22:25:04,60.0,1571.28,25.42,Net Banking,0.0,Mumbai,Deepak,South Thali,No cancellation,0.0,2024-12-05,22,Thursday,False
+77017,2452,Pizza Craft,Fast Food,2025-02-23 07:46:04,60.0,958.0,22.38,Net Banking,0.0,Delhi,Sana,Noodles,No cancellation,0.0,2025-02-23,7,Sunday,False
+51509,5783,Burger Hub,Mexican,2025-02-22 14:37:04,52.0,958.0,0.0,Card,0.0,Hyderabad,Sana,Noodles,Rider unavailable,0.0,2025-02-22,14,Saturday,False
+98420,3190,Café Bliss,Mexican,2025-07-01 18:35:04,60.0,958.0,0.0,Card,0.0,Mumbai,Fatima,Sushi Set,No cancellation,0.0,2025-07-01,18,Tuesday,False
+27344,4895,Sushi World,Mexican,2025-10-20 13:19:04,34.0,958.0,29.34,Cash,5.0,Bangalore,Fatima,South Thali,Customer Cancelled,0.0,2025-10-20,13,Monday,True
+86251,9668,Kebab Street,Fast Food,2025-05-17 12:08:04,60.0,1150.73,0.0,Upi,2.7,Mumbai,Rohan,Noodles,No cancellation,0.0,2025-05-17,12,Saturday,True
+25494,8736,Biryani Express,North Indian,2024-12-02 06:58:04,60.0,1779.3,0.0,Wallet,5.0,Bangalore,Fatima,"Pizza, Coke",Restaurant busy,0.0,2024-12-02,6,Monday,True
+39257,2487,Biryani Express,Italian,2025-11-10 20:35:04,60.0,958.0,0.0,Net Banking,0.0,Mumbai,Fatima,Sushi Set,Restaurant busy,0.0,2025-11-10,20,Monday,False
+88231,4741,Tandoori Nights,Japanese,2025-06-18 19:34:04,116.0,958.0,29.36,Net Banking,0.0,Hyderabad,Deepak,"Burger, Fries",Restaurant busy,0.0,2025-06-18,19,Wednesday,False
+69650,4166,Spice Villa,South Indian,2024-12-22 23:33:04,60.0,958.0,0.0,Net Banking,5.0,Kolkata,Kiran,Noodles,Restaurant busy,0.0,2024-12-22,23,Sunday,True
+12645,2175,Spice Villa,Mexican,2025-10-07 01:14:04,39.0,958.0,0.0,Upi,4.3,Hyderabad,Amit,Biryani,No cancellation,0.0,2025-10-07,1,Tuesday,True
+99463,1191,Sushi World,North Indian,2025-06-10 04:47:04,60.0,958.0,0.0,Net Banking,0.0,Kolkata,Rohan,South Thali,No cancellation,0.0,2025-06-10,4,Tuesday,False
+73292,9777,Burger Hub,Japanese,2025-10-24 23:29:04,70.0,958.0,0.0,Upi,0.0,Hyderabad,Kiran,Sushi Set,Rider unavailable,0.0,2025-10-24,23,Friday,False
+84808,2655,Burger Hub,North Indian,2025-05-29 19:50:04,60.0,958.0,0.0,Cash,5.0,Mumbai,Deepak,South Thali,Rider unavailable,0.0,2025-05-29,19,Thursday,True
+39170,2560,Café Bliss,South Indian,2024-12-12 08:21:04,60.0,958.0,23.51,Net Banking,0.0,Delhi,Sana,Biryani,No cancellation,0.0,2024-12-12,8,Thursday,False
+61868,9007,Sushi World,Japanese,2025-05-08 00:54:04,60.0,958.0,0.0,Cash,0.0,Delhi,Fatima,Noodles,Rider unavailable,478.82,2025-05-08,0,Thursday,False
+36050,7627,Spice Villa,Mexican,2025-06-21 11:56:04,82.0,958.0,28.16,Cash,3.8,Bangalore,Kiran,Biryani,Customer Cancelled,0.0,2025-06-21,11,Saturday,True
+94526,3851,Tandoori Nights,North Indian,2025-09-02 08:22:04,23.0,1021.62,39.86,Cash,5.0,Bangalore,Rohan,"Burger, Fries",Rider unavailable,0.0,2025-09-02,8,Tuesday,True
+38165,5845,Spice Villa,Italian,2025-09-23 23:07:04,51.0,958.0,0.0,Wallet,2.1,Kolkata,Deepak,"Burger, Fries",No cancellation,0.0,2025-09-23,23,Tuesday,True
+76614,9696,Café Bliss,Fast Food,2025-05-17 07:59:04,15.0,958.0,0.0,Card,0.0,Hyderabad,Sana,Noodles,Restaurant busy,0.0,2025-05-17,7,Saturday,False
+54542,4970,Pizza Craft,North Indian,2025-01-06 20:18:04,96.0,958.0,26.07,Cash,1.9,Pune,Kiran,"Pizza, Coke",Rider unavailable,0.0,2025-01-06,20,Monday,True
+11295,5712,Spice Villa,South Indian,2025-06-23 19:30:04,60.0,203.53,0.0,Cash,5.0,Pune,Deepak,Noodles,Rider unavailable,0.0,2025-06-23,19,Monday,True
+62849,2528,Spice Villa,Fast Food,2025-11-09 07:21:04,89.0,958.0,0.0,Cash,5.0,Delhi,Fatima,Biryani,Restaurant busy,455.5,2025-11-09,7,Sunday,True
+83103,5787,Noodle House,Japanese,2025-02-02 03:31:04,73.0,381.68,36.78,Upi,5.0,Hyderabad,Rohan,"Burger, Fries",Customer Cancelled,455.6,2025-02-02,3,Sunday,True
+70079,8257,Kebab Street,South Indian,2025-03-18 09:42:04,103.0,631.02,0.0,Upi,5.0,Pune,Harsh,"Burger, Fries",Restaurant busy,508.5,2025-03-18,9,Tuesday,True
+44531,7354,Biryani Express,Italian,2025-06-23 16:00:04,60.0,958.0,0.0,Cash,4.7,Pune,Amit,"Burger, Fries",Customer Cancelled,0.0,2025-06-23,16,Monday,True
+70146,6786,Spice Villa,Chinese,2025-08-30 04:52:04,60.0,837.13,19.51,Card,5.0,Mumbai,Harsh,Biryani,Rider unavailable,0.0,2025-08-30,4,Saturday,True
+55537,2241,Pizza Craft,South Indian,2025-08-14 15:13:04,60.0,958.0,0.0,Upi,5.0,Bangalore,Deepak,"Pizza, Coke",Rider unavailable,0.0,2025-08-14,15,Thursday,True
+80054,5824,Kebab Street,South Indian,2024-12-06 22:06:04,77.0,958.0,9.65,Upi,4.5,Pune,Kiran,Biryani,Rider unavailable,0.0,2024-12-06,22,Friday,True
+98410,9677,Pizza Craft,Mexican,2025-11-18 05:31:04,60.0,958.0,0.0,Cash,5.0,Hyderabad,Fatima,Biryani,No cancellation,0.0,2025-11-18,5,Tuesday,True
+20154,7610,Veggie Point,North Indian,2025-01-11 18:49:04,60.0,958.0,0.0,Upi,2.4,Bangalore,Harsh,Sushi Set,Restaurant busy,0.0,2025-01-11,18,Saturday,True
+23121,1370,Spice Villa,Italian,2025-01-10 19:35:04,60.0,906.15,0.0,Card,3.1,Bangalore,Amit,South Thali,No cancellation,0.0,2025-01-10,19,Friday,True
+58223,3656,Spice Villa,Fast Food,2025-02-06 04:01:04,60.0,958.0,0.0,Net Banking,2.8,Mumbai,Sana,Sushi Set,Restaurant busy,236.11,2025-02-06,4,Thursday,True
+43191,3410,Burger Hub,North Indian,2025-07-07 01:54:04,60.0,970.09,0.0,Cash,4.8,Bangalore,Amit,Biryani,No cancellation,0.0,2025-07-07,1,Monday,True
+39124,1410,Spice Villa,South Indian,2025-04-01 02:02:04,60.0,958.0,0.0,Card,0.0,Delhi,Fatima,Biryani,Customer Cancelled,0.0,2025-04-01,2,Tuesday,False
+10008,8784,Burger Hub,North Indian,2025-07-28 15:54:04,60.0,958.0,38.56,Upi,0.0,Bangalore,Kiran,South Thali,Customer Cancelled,0.0,2025-07-28,15,Monday,False
+72348,4297,Pizza Craft,North Indian,2025-09-08 20:34:04,60.0,958.0,0.0,Net Banking,5.0,Mumbai,Rohan,South Thali,Rider unavailable,0.0,2025-09-08,20,Monday,True
+35606,7069,Pizza Craft,North Indian,2025-02-16 04:56:04,109.0,958.0,3.4,Cash,3.1,Kolkata,Sana,"Burger, Fries",Restaurant busy,0.0,2025-02-16,4,Sunday,True
+56867,6849,Pizza Craft,Fast Food,2025-05-02 22:36:04,60.0,958.0,0.0,Wallet,1.3,Delhi,Harsh,Sushi Set,Restaurant busy,93.72,2025-05-02,22,Friday,True
+83152,5753,Noodle House,Italian,2025-04-25 14:30:04,60.0,958.0,0.0,Cash,2.4,Kolkata,Rohan,Biryani,Customer Cancelled,138.16,2025-04-25,14,Friday,True
+76876,3544,Tandoori Nights,Fast Food,2025-03-27 12:25:04,60.0,958.0,0.0,Net Banking,5.0,Kolkata,Amit,South Thali,No cancellation,0.0,2025-03-27,12,Thursday,True
+56559,3656,Sushi World,North Indian,2025-08-28 07:45:04,60.0,958.0,36.46,Cash,0.0,Mumbai,Fatima,Sushi Set,Customer Cancelled,0.0,2025-08-28,7,Thursday,False
+90154,5528,Noodle House,South Indian,2025-07-02 23:44:04,23.0,958.0,39.26,Cash,0.0,Delhi,Fatima,Noodles,Restaurant busy,0.0,2025-07-02,23,Wednesday,False
+50931,3841,Tandoori Nights,South Indian,2025-11-07 02:58:04,60.0,958.0,0.0,Upi,5.0,Bangalore,Deepak,"Pizza, Coke",Customer Cancelled,0.0,2025-11-07,2,Friday,True
+68950,8980,Veggie Point,Japanese,2025-10-04 12:57:04,94.0,958.0,0.0,Net Banking,5.0,Mumbai,Fatima,Noodles,Customer Cancelled,0.0,2025-10-04,12,Saturday,True
+47179,3911,Pizza Craft,South Indian,2025-01-06 03:12:04,62.0,958.0,0.0,Cash,5.0,Mumbai,Rohan,"Burger, Fries",Customer Cancelled,0.0,2025-01-06,3,Monday,True
+61766,6391,Noodle House,Italian,2024-12-21 10:25:04,60.0,958.0,0.0,Cash,5.0,Delhi,Deepak,South Thali,No cancellation,0.0,2024-12-21,10,Saturday,True
+16702,1467,Sushi World,North Indian,2025-07-12 04:06:04,60.0,1712.87,0.0,Upi,0.0,Mumbai,Fatima,Noodles,Rider unavailable,255.1,2025-07-12,4,Saturday,False
+32747,6541,Noodle House,North Indian,2025-10-19 17:37:04,60.0,958.0,0.0,Wallet,0.0,Kolkata,Rohan,Noodles,No cancellation,0.0,2025-10-19,17,Sunday,False
+30902,2706,Sushi World,North Indian,2025-01-20 10:48:04,99.0,958.0,0.0,Upi,2.7,Kolkata,Deepak,Noodles,No cancellation,0.0,2025-01-20,10,Monday,True
+93434,1266,Tandoori Nights,Italian,2025-06-03 19:52:04,60.0,958.0,8.11,Wallet,5.0,Kolkata,Deepak,"Burger, Fries",Rider unavailable,170.15,2025-06-03,19,Tuesday,True
+80155,9180,Tandoori Nights,South Indian,2025-01-26 19:53:04,60.0,1536.32,0.0,Upi,2.9,Bangalore,Sana,"Burger, Fries",Customer Cancelled,439.1,2025-01-26,19,Sunday,True
+42973,3004,Noodle House,Mexican,2025-08-31 16:49:04,60.0,958.0,0.0,Cash,0.0,Delhi,Rohan,Sushi Set,Restaurant busy,0.0,2025-08-31,16,Sunday,False
+82061,5352,Kebab Street,Italian,2025-04-11 02:54:04,60.0,958.0,0.0,Cash,0.0,Bangalore,Fatima,Biryani,No cancellation,0.0,2025-04-11,2,Friday,False
+47643,5386,Biryani Express,Chinese,2025-08-30 17:50:04,60.0,958.0,0.0,Cash,0.0,Mumbai,Sana,South Thali,Customer Cancelled,0.0,2025-08-30,17,Saturday,False
+22731,1441,Sushi World,Italian,2025-05-05 00:20:04,60.0,958.0,0.41,Card,1.9,Pune,Kiran,Biryani,Restaurant busy,559.57,2025-05-05,0,Monday,True
+41013,5903,Café Bliss,Mexican,2025-09-07 08:25:04,118.0,958.0,0.0,Card,0.0,Pune,Rohan,"Pizza, Coke",No cancellation,0.0,2025-09-07,8,Sunday,False
+18901,4556,Biryani Express,North Indian,2025-02-17 11:41:04,60.0,1520.22,23.33,Upi,5.0,Mumbai,Fatima,Sushi Set,Restaurant busy,0.0,2025-02-17,11,Monday,True
+37499,7953,Veggie Point,Chinese,2025-07-27 02:30:04,60.0,1549.84,0.0,Upi,5.0,Delhi,Kiran,Biryani,No cancellation,0.0,2025-07-27,2,Sunday,True
+80484,2146,Pizza Craft,Italian,2024-12-23 03:34:04,60.0,958.0,8.29,Wallet,2.1,Bangalore,Fatima,Sushi Set,Customer Cancelled,0.0,2024-12-23,3,Monday,True
+65035,2082,Spice Villa,North Indian,2025-06-23 06:28:04,60.0,1228.32,10.81,Cash,3.2,Pune,Fatima,Sushi Set,Rider unavailable,0.0,2025-06-23,6,Monday,True
+93516,7797,Spice Villa,Italian,2025-01-23 00:56:04,119.0,958.0,0.0,Cash,0.0,Hyderabad,Deepak,Biryani,Rider unavailable,582.36,2025-01-23,0,Thursday,False
+68420,1111,Spice Villa,North Indian,2025-11-18 15:38:04,60.0,1330.2,0.0,Wallet,5.0,Mumbai,Fatima,Biryani,Customer Cancelled,495.19,2025-11-18,15,Tuesday,True
+43914,2867,Spice Villa,Italian,2025-08-30 06:47:04,60.0,958.0,0.0,Cash,5.0,Delhi,Harsh,South Thali,Customer Cancelled,102.23,2025-08-30,6,Saturday,True
+20711,6747,Café Bliss,Chinese,2025-08-20 03:26:04,60.0,958.0,0.0,Net Banking,5.0,Pune,Amit,"Burger, Fries",No cancellation,0.0,2025-08-20,3,Wednesday,True
+53770,4664,Pizza Craft,Italian,2024-12-21 17:02:04,60.0,958.0,0.0,Card,0.0,Pune,Harsh,"Pizza, Coke",Customer Cancelled,432.96,2024-12-21,17,Saturday,False
+91488,9425,Tandoori Nights,Italian,2025-05-30 23:33:04,60.0,1546.39,28.37,Upi,4.9,Hyderabad,Sana,"Pizza, Coke",Rider unavailable,0.0,2025-05-30,23,Friday,True
+73539,7457,Burger Hub,Fast Food,2025-07-16 14:15:04,60.0,958.0,0.0,Wallet,0.0,Pune,Harsh,Sushi Set,No cancellation,0.0,2025-07-16,14,Wednesday,False
+88781,9284,Burger Hub,Chinese,2025-01-23 15:32:04,51.0,958.0,0.0,Upi,5.0,Pune,Amit,"Pizza, Coke",Rider unavailable,0.0,2025-01-23,15,Thursday,True
+52606,9237,Burger Hub,Italian,2024-12-04 03:10:04,60.0,958.0,0.0,Wallet,5.0,Pune,Harsh,Noodles,Customer Cancelled,0.0,2024-12-04,3,Wednesday,True
+88708,7637,Burger Hub,Italian,2025-02-10 06:28:04,99.0,958.0,38.83,Upi,0.0,Kolkata,Rohan,Sushi Set,No cancellation,0.0,2025-02-10,6,Monday,False
+51350,2657,Biryani Express,South Indian,2025-11-21 14:58:04,60.0,344.57,0.0,Card,4.9,Bangalore,Harsh,Sushi Set,Restaurant busy,524.36,2025-11-21,14,Friday,True
+79359,6630,Sushi World,South Indian,2025-09-03 15:31:04,72.0,958.0,9.32,Cash,1.7,Pune,Kiran,"Pizza, Coke",Restaurant busy,0.0,2025-09-03,15,Wednesday,True
+25582,4043,Burger Hub,Japanese,2025-03-01 14:52:04,50.0,958.0,12.2,Upi,4.7,Bangalore,Rohan,"Burger, Fries",Restaurant busy,0.0,2025-03-01,14,Saturday,True
+97420,9435,Burger Hub,Italian,2025-01-27 01:40:04,60.0,1184.63,0.0,Net Banking,0.0,Bangalore,Deepak,Biryani,No cancellation,0.0,2025-01-27,1,Monday,False
+69903,6939,Noodle House,Chinese,2025-09-24 06:22:04,101.0,958.0,0.0,Upi,2.1,Mumbai,Rohan,"Burger, Fries",Rider unavailable,0.0,2025-09-24,6,Wednesday,True
+67746,2217,Spice Villa,Mexican,2025-06-28 03:26:04,102.0,1437.01,0.0,Cash,0.0,Bangalore,Sana,"Pizza, Coke",Customer Cancelled,79.04,2025-06-28,3,Saturday,False
+12515,5332,Spice Villa,Italian,2025-07-15 02:49:04,75.0,236.2,0.0,Upi,5.0,Hyderabad,Kiran,South Thali,Customer Cancelled,0.0,2025-07-15,2,Tuesday,True
+68139,6901,Spice Villa,South Indian,2025-07-23 02:00:04,43.0,958.0,18.91,Cash,5.0,Pune,Kiran,"Burger, Fries",No cancellation,0.0,2025-07-23,2,Wednesday,True
+32428,5480,Spice Villa,Japanese,2025-04-21 17:56:04,60.0,1630.94,0.0,Net Banking,5.0,Mumbai,Kiran,Noodles,Customer Cancelled,0.0,2025-04-21,17,Monday,True
+71160,6466,Burger Hub,Italian,2025-07-12 23:09:04,30.0,787.67,25.95,Upi,4.0,Mumbai,Harsh,"Burger, Fries",No cancellation,0.0,2025-07-12,23,Saturday,True
+52390,7636,Burger Hub,Mexican,2025-10-10 04:52:04,60.0,687.74,0.0,Wallet,5.0,Bangalore,Kiran,Sushi Set,Restaurant busy,0.0,2025-10-10,4,Friday,True
+29476,6158,Burger Hub,Italian,2025-05-22 16:28:04,60.0,958.0,0.0,Upi,0.0,Mumbai,Fatima,Noodles,No cancellation,0.0,2025-05-22,16,Thursday,False
+74790,3638,Kebab Street,Italian,2025-08-18 23:12:04,60.0,958.0,0.0,Upi,2.3,Pune,Sana,Noodles,Rider unavailable,0.0,2025-08-18,23,Monday,True
+19673,9727,Spice Villa,North Indian,2025-10-21 01:20:04,60.0,958.0,0.0,Wallet,1.9,Pune,Rohan,Sushi Set,No cancellation,0.0,2025-10-21,1,Tuesday,True
+92427,3087,Biryani Express,Italian,2024-11-29 12:57:04,52.0,958.0,0.0,Cash,5.0,Mumbai,Fatima,"Burger, Fries",Customer Cancelled,0.0,2024-11-29,12,Friday,True
+89068,5365,Café Bliss,Fast Food,2025-04-25 06:38:04,67.0,958.0,0.0,Cash,5.0,Mumbai,Deepak,South Thali,Rider unavailable,0.0,2025-04-25,6,Friday,True
+20707,2861,Burger Hub,South Indian,2025-02-05 22:44:04,60.0,958.0,0.0,Net Banking,0.0,Hyderabad,Sana,"Pizza, Coke",No cancellation,0.0,2025-02-05,22,Wednesday,False
+52782,9005,Spice Villa,North Indian,2024-12-11 13:18:04,101.0,890.96,35.83,Cash,0.0,Hyderabad,Fatima,"Burger, Fries",Rider unavailable,0.0,2024-12-11,13,Wednesday,False
+24812,4166,Veggie Point,Fast Food,2025-03-21 15:38:04,80.0,958.0,22.96,Net Banking,0.0,Kolkata,Rohan,Sushi Set,No cancellation,0.0,2025-03-21,15,Friday,False
+62066,3397,Spice Villa,Fast Food,2025-10-25 00:21:04,60.0,958.0,11.72,Cash,2.9,Pune,Rohan,Noodles,No cancellation,0.0,2025-10-25,0,Saturday,True
+36024,5195,Pizza Craft,Italian,2025-11-16 02:55:04,60.0,958.0,0.0,Net Banking,0.0,Bangalore,Fatima,Noodles,Rider unavailable,689.93,2025-11-16,2,Sunday,False
+57339,5081,Noodle House,Italian,2025-06-10 09:11:04,86.0,958.0,6.32,Cash,0.0,Delhi,Harsh,"Burger, Fries",No cancellation,0.0,2025-06-10,9,Tuesday,False
+98412,8126,Veggie Point,Italian,2025-06-24 21:20:04,60.0,958.0,39.81,Net Banking,0.0,Hyderabad,Harsh,Biryani,Customer Cancelled,311.29,2025-06-24,21,Tuesday,False
+34794,6497,Pizza Craft,Chinese,2025-07-15 08:24:04,60.0,958.0,0.0,Upi,0.0,Kolkata,Harsh,"Pizza, Coke",Restaurant busy,0.0,2025-07-15,8,Tuesday,False
+83070,8742,Tandoori Nights,North Indian,2025-10-27 16:12:04,60.0,958.0,0.0,Upi,4.6,Delhi,Amit,Biryani,Customer Cancelled,0.0,2025-10-27,16,Monday,True
+13793,4344,Burger Hub,Fast Food,2025-02-14 22:02:04,60.0,1348.86,31.93,Net Banking,0.0,Bangalore,Deepak,"Burger, Fries",Customer Cancelled,0.0,2025-02-14,22,Friday,False
+59514,4729,Spice Villa,Italian,2025-08-10 04:02:04,60.0,958.0,0.0,Card,4.1,Hyderabad,Harsh,"Pizza, Coke",Rider unavailable,425.82,2025-08-10,4,Sunday,True
+67266,5013,Noodle House,Mexican,2025-02-16 06:09:04,60.0,1641.09,5.33,Upi,0.0,Delhi,Kiran,Noodles,No cancellation,0.0,2025-02-16,6,Sunday,False
+78982,6405,Kebab Street,Fast Food,2024-12-16 16:03:04,60.0,958.0,26.14,Upi,3.6,Bangalore,Fatima,"Pizza, Coke",Rider unavailable,115.41,2024-12-16,16,Monday,True
+63668,2965,Pizza Craft,North Indian,2025-04-10 22:18:04,60.0,958.0,0.0,Card,0.0,Mumbai,Rohan,"Pizza, Coke",No cancellation,0.0,2025-04-10,22,Thursday,False
+89855,2702,Noodle House,North Indian,2025-07-24 01:15:04,60.0,958.0,39.9,Upi,5.0,Delhi,Kiran,Sushi Set,Customer Cancelled,0.0,2025-07-24,1,Thursday,True
+52640,9077,Burger Hub,Japanese,2025-03-13 09:58:04,28.0,304.95,0.0,Net Banking,5.0,Pune,Kiran,"Burger, Fries",Customer Cancelled,0.0,2025-03-13,9,Thursday,True
+40697,2863,Café Bliss,North Indian,2025-06-25 11:55:04,60.0,958.0,36.01,Upi,5.0,Pune,Deepak,Noodles,No cancellation,0.0,2025-06-25,11,Wednesday,True
+62552,4212,Café Bliss,North Indian,2024-11-29 11:09:04,60.0,958.0,0.0,Cash,0.0,Pune,Fatima,Sushi Set,No cancellation,0.0,2024-11-29,11,Friday,False
+29595,4565,Tandoori Nights,Italian,2025-04-22 06:32:04,60.0,958.0,0.0,Wallet,5.0,Mumbai,Amit,Biryani,Restaurant busy,0.0,2025-04-22,6,Tuesday,True
+67622,6830,Sushi World,North Indian,2025-03-03 07:43:04,39.0,710.48,13.29,Card,5.0,Mumbai,Sana,South Thali,Restaurant busy,0.0,2025-03-03,7,Monday,True
+24625,4500,Kebab Street,Fast Food,2025-11-19 00:06:04,60.0,958.0,0.0,Wallet,5.0,Hyderabad,Amit,Sushi Set,No cancellation,0.0,2025-11-19,0,Wednesday,True
+83328,1407,Veggie Point,Japanese,2024-12-03 10:19:04,60.0,958.0,0.0,Upi,0.0,Delhi,Sana,Biryani,Rider unavailable,263.59,2024-12-03,10,Tuesday,False
+53059,2983,Spice Villa,Chinese,2025-10-03 09:55:04,60.0,958.0,36.7,Upi,0.0,Bangalore,Rohan,"Burger, Fries",Restaurant busy,0.0,2025-10-03,9,Friday,False
+82541,2573,Pizza Craft,Fast Food,2025-04-02 14:42:04,107.0,958.0,39.08,Card,3.1,Pune,Kiran,Biryani,Customer Cancelled,0.0,2025-04-02,14,Wednesday,True
+83069,7466,Tandoori Nights,Fast Food,2025-06-07 08:50:04,24.0,958.0,33.16,Card,1.9,Kolkata,Rohan,Sushi Set,Restaurant busy,0.0,2025-06-07,8,Saturday,True
+44392,4865,Kebab Street,Fast Food,2025-03-03 06:08:04,60.0,1634.54,0.0,Wallet,0.0,Hyderabad,Rohan,"Burger, Fries",Customer Cancelled,0.0,2025-03-03,6,Monday,False
+41066,6312,Burger Hub,North Indian,2024-12-16 20:53:04,19.0,958.0,0.0,Cash,2.4,Pune,Rohan,"Burger, Fries",No cancellation,0.0,2024-12-16,20,Monday,True
+17962,3323,Veggie Point,Fast Food,2025-06-04 16:58:04,60.0,407.73,13.36,Net Banking,4.9,Bangalore,Kiran,"Burger, Fries",No cancellation,0.0,2025-06-04,16,Wednesday,True
+54608,2826,Pizza Craft,North Indian,2025-09-26 14:39:04,60.0,958.0,0.0,Wallet,5.0,Delhi,Deepak,"Burger, Fries",Customer Cancelled,560.73,2025-09-26,14,Friday,True
+39485,1836,Burger Hub,Italian,2025-01-20 22:07:04,30.0,958.0,0.0,Cash,0.0,Mumbai,Deepak,"Pizza, Coke",Restaurant busy,399.08,2025-01-20,22,Monday,False
+95558,3773,Tandoori Nights,Fast Food,2025-02-03 23:06:04,60.0,958.0,0.0,Net Banking,0.0,Hyderabad,Fatima,Sushi Set,Rider unavailable,0.0,2025-02-03,23,Monday,False
+25761,5098,Kebab Street,North Indian,2025-01-26 01:59:04,115.0,958.0,0.0,Cash,4.1,Hyderabad,Kiran,Biryani,Customer Cancelled,642.03,2025-01-26,1,Sunday,True
+79029,2562,Spice Villa,Japanese,2025-01-01 02:26:04,60.0,958.0,31.69,Upi,0.0,Bangalore,Deepak,Noodles,Rider unavailable,308.79,2025-01-01,2,Wednesday,False
+74642,3816,Spice Villa,South Indian,2025-03-07 16:23:04,60.0,958.0,0.0,Wallet,5.0,Delhi,Deepak,Noodles,Restaurant busy,184.03,2025-03-07,16,Friday,True
+89976,3124,Spice Villa,North Indian,2025-08-04 19:33:04,60.0,594.17,0.0,Cash,0.0,Pune,Rohan,"Pizza, Coke",Rider unavailable,0.0,2025-08-04,19,Monday,False
+20644,9719,Pizza Craft,Italian,2025-01-29 08:09:04,60.0,958.0,7.02,Wallet,5.0,Bangalore,Sana,"Burger, Fries",No cancellation,0.0,2025-01-29,8,Wednesday,True
+84053,4825,Burger Hub,Fast Food,2025-11-10 16:00:04,60.0,1586.69,0.0,Cash,0.0,Mumbai,Fatima,South Thali,No cancellation,0.0,2025-11-10,16,Monday,False
+33442,9064,Spice Villa,Italian,2024-12-24 16:32:04,60.0,757.65,23.91,Upi,0.0,Pune,Harsh,Biryani,Restaurant busy,354.74,2024-12-24,16,Tuesday,False
+99159,7774,Burger Hub,South Indian,2025-11-25 20:26:04,60.0,958.0,0.0,Upi,5.0,Kolkata,Harsh,South Thali,Restaurant busy,0.0,2025-11-25,20,Tuesday,True
+75926,1089,Pizza Craft,South Indian,2025-01-07 01:18:04,60.0,958.0,0.0,Wallet,1.2,Kolkata,Deepak,Sushi Set,Rider unavailable,0.0,2025-01-07,1,Tuesday,True
+10563,4537,Noodle House,South Indian,2025-06-27 03:47:04,22.0,958.0,0.0,Cash,1.6,Mumbai,Sana,"Pizza, Coke",Restaurant busy,86.36,2025-06-27,3,Friday,True
+21943,2961,Burger Hub,North Indian,2025-02-12 06:55:04,58.0,958.0,0.0,Card,0.0,Hyderabad,Harsh,"Burger, Fries",Restaurant busy,0.0,2025-02-12,6,Wednesday,False
+36973,4161,Burger Hub,South Indian,2025-11-21 19:59:04,60.0,1462.68,0.0,Upi,5.0,Delhi,Kiran,Sushi Set,No cancellation,0.0,2025-11-21,19,Friday,True
+34588,3608,Sushi World,Italian,2024-12-14 15:50:04,60.0,958.0,0.0,Cash,5.0,Kolkata,Sana,South Thali,Restaurant busy,0.0,2024-12-14,15,Saturday,True
+47175,4245,Tandoori Nights,South Indian,2025-11-20 16:32:04,52.0,1111.26,0.0,Card,0.0,Mumbai,Rohan,"Pizza, Coke",Restaurant busy,0.0,2025-11-20,16,Thursday,False
+66299,5882,Biryani Express,Chinese,2025-06-28 14:36:04,102.0,958.0,0.0,Cash,0.0,Delhi,Deepak,South Thali,No cancellation,0.0,2025-06-28,14,Saturday,False
+90862,2880,Burger Hub,Japanese,2024-12-14 19:00:04,60.0,958.0,0.0,Cash,5.0,Bangalore,Kiran,South Thali,Customer Cancelled,0.0,2024-12-14,19,Saturday,True
+92768,3116,Burger Hub,Mexican,2025-09-08 18:10:04,60.0,958.0,0.0,Upi,5.0,Pune,Kiran,Biryani,Rider unavailable,0.0,2025-09-08,18,Monday,True
+43842,7044,Spice Villa,Italian,2025-10-27 19:11:04,91.0,958.0,15.27,Upi,4.2,Mumbai,Harsh,Sushi Set,Restaurant busy,0.0,2025-10-27,19,Monday,True
+40117,7640,Pizza Craft,Italian,2025-02-19 14:52:04,60.0,958.0,0.0,Wallet,1.5,Hyderabad,Kiran,"Pizza, Coke",Rider unavailable,519.0,2025-02-19,14,Wednesday,True
+57456,9192,Tandoori Nights,North Indian,2025-05-01 16:51:04,60.0,958.0,27.79,Net Banking,3.0,Bangalore,Fatima,Sushi Set,Restaurant busy,0.0,2025-05-01,16,Thursday,True
+29215,1437,Burger Hub,Chinese,2025-05-25 06:51:04,60.0,958.0,0.0,Upi,5.0,Kolkata,Amit,Sushi Set,Restaurant busy,0.0,2025-05-25,6,Sunday,True
+91696,6437,Kebab Street,Italian,2024-12-22 07:07:04,44.0,958.0,0.0,Upi,5.0,Hyderabad,Harsh,Sushi Set,Rider unavailable,84.97,2024-12-22,7,Sunday,True
+13357,5508,Biryani Express,Chinese,2025-06-03 08:11:04,60.0,958.0,0.0,Upi,0.0,Delhi,Kiran,"Pizza, Coke",Restaurant busy,187.93,2025-06-03,8,Tuesday,False
+91233,6304,Sushi World,Chinese,2025-06-26 18:22:04,60.0,958.0,0.0,Upi,5.0,Pune,Fatima,Sushi Set,No cancellation,0.0,2025-06-26,18,Thursday,True
+94177,7863,Veggie Point,Italian,2025-09-08 01:31:04,60.0,663.83,32.59,Cash,0.0,Bangalore,Fatima,"Burger, Fries",Rider unavailable,84.59,2025-09-08,1,Monday,False
+67993,1570,Sushi World,Fast Food,2025-08-07 01:00:04,60.0,958.0,0.0,Upi,0.0,Delhi,Fatima,Biryani,Customer Cancelled,0.0,2025-08-07,1,Thursday,False
+64590,6699,Veggie Point,Mexican,2025-10-31 20:32:04,101.0,958.0,0.0,Upi,5.0,Delhi,Deepak,Sushi Set,Customer Cancelled,0.0,2025-10-31,20,Friday,True
+99082,6110,Kebab Street,Fast Food,2025-04-11 16:13:04,60.0,958.0,0.0,Wallet,0.0,Kolkata,Amit,Biryani,Customer Cancelled,553.8,2025-04-11,16,Friday,False
+88587,1186,Pizza Craft,Mexican,2025-10-30 08:15:04,88.0,958.0,12.59,Cash,5.0,Pune,Kiran,"Pizza, Coke",Restaurant busy,486.83,2025-10-30,8,Thursday,True
+78582,7213,Spice Villa,North Indian,2025-07-14 07:14:04,60.0,958.0,0.0,Upi,3.3,Delhi,Fatima,Noodles,Customer Cancelled,0.0,2025-07-14,7,Monday,True
+45443,6320,Veggie Point,Fast Food,2025-06-27 01:42:04,60.0,1186.17,0.0,Net Banking,0.0,Bangalore,Harsh,Noodles,Restaurant busy,100.84,2025-06-27,1,Friday,False
+84644,8052,Pizza Craft,Italian,2025-09-29 04:24:04,60.0,958.0,0.0,Card,4.4,Kolkata,Harsh,Biryani,Restaurant busy,0.0,2025-09-29,4,Monday,True
+43000,6978,Biryani Express,Italian,2024-12-15 19:53:04,60.0,958.0,21.05,Card,1.4,Kolkata,Fatima,South Thali,No cancellation,0.0,2024-12-15,19,Sunday,True
+11134,7236,Tandoori Nights,North Indian,2025-09-26 20:14:04,88.0,958.0,0.0,Card,0.0,Mumbai,Fatima,"Pizza, Coke",Restaurant busy,0.0,2025-09-26,20,Friday,False
+20354,5807,Burger Hub,South Indian,2025-07-14 00:22:04,55.0,877.48,36.09,Upi,4.0,Hyderabad,Amit,Sushi Set,Rider unavailable,0.0,2025-07-14,0,Monday,True
+62768,3577,Burger Hub,North Indian,2025-09-04 00:30:04,60.0,958.0,0.0,Upi,5.0,Bangalore,Harsh,"Pizza, Coke",Customer Cancelled,0.0,2025-09-04,0,Thursday,True
+46208,1922,Burger Hub,North Indian,2025-06-11 14:02:04,60.0,958.0,0.0,Cash,4.9,Mumbai,Amit,"Pizza, Coke",Rider unavailable,0.0,2025-06-11,14,Wednesday,True
+17760,2041,Sushi World,Chinese,2025-07-21 00:06:04,60.0,958.0,0.0,Net Banking,5.0,Pune,Amit,"Burger, Fries",Restaurant busy,0.0,2025-07-21,0,Monday,True
+97883,2975,Burger Hub,Fast Food,2025-07-12 07:11:04,60.0,221.52,17.9,Cash,1.8,Pune,Fatima,Sushi Set,Restaurant busy,0.0,2025-07-12,7,Saturday,True
+56942,9222,Noodle House,South Indian,2025-10-31 04:05:04,60.0,958.0,0.0,Upi,0.0,Pune,Rohan,"Pizza, Coke",Rider unavailable,497.82,2025-10-31,4,Friday,False
+10710,4859,Tandoori Nights,North Indian,2025-11-19 06:22:04,60.0,958.0,0.0,Card,5.0,Pune,Deepak,Biryani,No cancellation,0.0,2025-11-19,6,Wednesday,True
+20425,2681,Burger Hub,Japanese,2025-03-24 04:48:04,60.0,958.0,0.0,Cash,2.1,Pune,Harsh,Noodles,No cancellation,0.0,2025-03-24,4,Monday,True
+91410,8020,Tandoori Nights,North Indian,2025-09-30 13:17:04,60.0,958.0,20.98,Net Banking,0.0,Delhi,Rohan,South Thali,No cancellation,0.0,2025-09-30,13,Tuesday,False
+85003,5277,Spice Villa,Italian,2025-10-30 19:14:04,60.0,958.0,0.0,Card,5.0,Hyderabad,Harsh,South Thali,Rider unavailable,0.0,2025-10-30,19,Thursday,True
+26499,7650,Sushi World,Japanese,2025-05-28 06:32:04,60.0,958.0,0.0,Card,1.1,Kolkata,Rohan,Biryani,Customer Cancelled,0.0,2025-05-28,6,Wednesday,True
+29384,1947,Café Bliss,Italian,2024-12-29 21:05:04,45.0,958.0,0.0,Wallet,5.0,Mumbai,Deepak,South Thali,Rider unavailable,0.0,2024-12-29,21,Sunday,True
+12872,1468,Veggie Point,Mexican,2025-02-18 04:54:04,60.0,1124.47,0.0,Upi,0.0,Hyderabad,Fatima,South Thali,Restaurant busy,458.25,2025-02-18,4,Tuesday,False
+79013,7862,Spice Villa,Japanese,2025-08-08 09:02:04,60.0,858.31,0.0,Upi,5.0,Mumbai,Sana,Sushi Set,Customer Cancelled,148.99,2025-08-08,9,Friday,True
+64097,1870,Veggie Point,Fast Food,2025-03-03 16:20:04,31.0,958.0,0.0,Upi,5.0,Bangalore,Harsh,South Thali,Rider unavailable,0.0,2025-03-03,16,Monday,True
+22514,2916,Veggie Point,North Indian,2025-08-25 04:03:04,60.0,958.0,0.0,Upi,1.1,Mumbai,Amit,"Pizza, Coke",Rider unavailable,0.0,2025-08-25,4,Monday,True
+82127,1313,Sushi World,Italian,2025-07-16 01:52:04,60.0,958.0,0.0,Net Banking,0.0,Bangalore,Rohan,"Pizza, Coke",Rider unavailable,112.4,2025-07-16,1,Wednesday,False
+67067,4047,Café Bliss,South Indian,2025-08-23 09:30:04,60.0,285.75,0.0,Upi,4.0,Bangalore,Deepak,Noodles,No cancellation,0.0,2025-08-23,9,Saturday,True
+32987,6110,Tandoori Nights,Mexican,2025-03-29 11:59:04,60.0,958.0,0.0,Cash,5.0,Hyderabad,Fatima,South Thali,No cancellation,0.0,2025-03-29,11,Saturday,True
+49407,7629,Burger Hub,South Indian,2024-12-12 04:01:04,73.0,1211.39,0.0,Net Banking,1.5,Bangalore,Deepak,Sushi Set,No cancellation,0.0,2024-12-12,4,Thursday,True
+40259,1857,Burger Hub,North Indian,2025-01-17 20:06:04,60.0,319.21,0.67,Upi,5.0,Pune,Fatima,South Thali,Restaurant busy,0.0,2025-01-17,20,Friday,True
+58227,8239,Noodle House,Japanese,2025-02-12 03:45:04,60.0,779.22,10.13,Upi,0.0,Pune,Deepak,South Thali,No cancellation,0.0,2025-02-12,3,Wednesday,False
+73863,1485,Pizza Craft,North Indian,2025-05-05 20:54:04,60.0,958.0,15.19,Card,1.8,Delhi,Amit,Sushi Set,Rider unavailable,0.0,2025-05-05,20,Monday,True
+68834,4113,Kebab Street,Chinese,2025-03-01 13:53:04,60.0,958.0,0.0,Net Banking,2.4,Kolkata,Harsh,Biryani,Rider unavailable,586.54,2025-03-01,13,Saturday,True
+54104,1398,Pizza Craft,Italian,2025-07-21 17:41:04,16.0,958.0,0.0,Upi,3.4,Bangalore,Fatima,South Thali,No cancellation,0.0,2025-07-21,17,Monday,True
+54688,8518,Noodle House,North Indian,2025-06-02 16:25:04,60.0,958.0,19.04,Cash,1.6,Kolkata,Rohan,Biryani,Rider unavailable,282.98,2025-06-02,16,Monday,True
+54853,3313,Burger Hub,North Indian,2025-03-06 19:01:04,60.0,958.0,21.19,Upi,4.5,Hyderabad,Fatima,South Thali,No cancellation,0.0,2025-03-06,19,Thursday,True
+15840,4553,Spice Villa,Italian,2025-01-20 13:20:04,60.0,958.0,0.0,Cash,4.4,Hyderabad,Deepak,Sushi Set,Restaurant busy,0.0,2025-01-20,13,Monday,True
+23724,4041,Kebab Street,Chinese,2025-11-14 17:07:04,60.0,1578.08,0.0,Cash,0.0,Kolkata,Sana,Noodles,Restaurant busy,88.99,2025-11-14,17,Friday,False
+99992,4355,Kebab Street,Mexican,2024-12-30 22:43:04,60.0,958.0,0.0,Upi,1.9,Hyderabad,Kiran,Biryani,Customer Cancelled,288.27,2024-12-30,22,Monday,True
+82947,1463,Biryani Express,South Indian,2025-06-19 21:10:04,60.0,958.0,0.0,Card,5.0,Mumbai,Sana,"Burger, Fries",Rider unavailable,631.88,2025-06-19,21,Thursday,True
+67180,3324,Spice Villa,Mexican,2025-05-15 16:32:04,60.0,1345.38,0.0,Card,0.0,Hyderabad,Harsh,Noodles,Rider unavailable,0.0,2025-05-15,16,Thursday,False
+70352,7306,Pizza Craft,Italian,2025-01-27 18:16:04,60.0,958.0,36.07,Wallet,5.0,Bangalore,Sana,Noodles,Customer Cancelled,423.14,2025-01-27,18,Monday,True
+97968,9643,Kebab Street,Mexican,2024-12-31 18:17:04,52.0,476.85,0.0,Upi,1.1,Delhi,Fatima,"Burger, Fries",No cancellation,0.0,2024-12-31,18,Tuesday,True
+30831,1192,Burger Hub,Chinese,2025-07-06 11:28:04,60.0,958.0,31.81,Upi,1.9,Delhi,Deepak,Biryani,Rider unavailable,0.0,2025-07-06,11,Sunday,True
+58838,3200,Spice Villa,Mexican,2025-09-24 11:42:04,60.0,958.0,0.0,Upi,0.0,Kolkata,Fatima,Noodles,Restaurant busy,110.48,2025-09-24,11,Wednesday,False
+56268,5944,Tandoori Nights,Mexican,2025-06-01 18:16:04,60.0,276.87,0.0,Upi,5.0,Bangalore,Fatima,South Thali,No cancellation,0.0,2025-06-01,18,Sunday,True
+93342,6366,Sushi World,Chinese,2024-12-01 12:39:04,15.0,1421.46,0.0,Net Banking,0.0,Mumbai,Amit,Noodles,No cancellation,0.0,2024-12-01,12,Sunday,False
+97080,9954,Burger Hub,Fast Food,2025-06-12 09:24:04,60.0,1093.37,0.0,Cash,5.0,Bangalore,Harsh,"Burger, Fries",Customer Cancelled,682.79,2025-06-12,9,Thursday,True
+21842,9916,Café Bliss,North Indian,2024-11-29 22:59:04,60.0,958.0,24.86,Net Banking,5.0,Hyderabad,Amit,Noodles,Rider unavailable,0.0,2024-11-29,22,Friday,True
+60644,7245,Tandoori Nights,North Indian,2025-01-20 23:12:04,60.0,958.0,0.0,Upi,5.0,Delhi,Kiran,"Burger, Fries",Customer Cancelled,0.0,2025-01-20,23,Monday,True
+69454,7284,Burger Hub,South Indian,2025-05-07 07:47:04,60.0,1573.86,0.0,Cash,0.0,Mumbai,Fatima,Biryani,Customer Cancelled,0.0,2025-05-07,7,Wednesday,False
+21331,8093,Spice Villa,Mexican,2025-10-11 13:54:04,60.0,958.0,0.0,Cash,0.0,Delhi,Amit,Biryani,No cancellation,0.0,2025-10-11,13,Saturday,False
+41032,6046,Sushi World,Mexican,2025-09-28 13:42:04,60.0,628.21,0.0,Cash,0.0,Kolkata,Harsh,Biryani,Rider unavailable,234.83,2025-09-28,13,Sunday,False
+61244,6894,Biryani Express,South Indian,2025-10-05 04:31:04,60.0,659.3,0.0,Net Banking,0.0,Delhi,Harsh,Biryani,Rider unavailable,0.0,2025-10-05,4,Sunday,False
+89104,1925,Noodle House,Italian,2025-01-31 14:19:04,60.0,958.0,0.0,Wallet,4.0,Delhi,Deepak,"Pizza, Coke",No cancellation,0.0,2025-01-31,14,Friday,True
+93760,1728,Noodle House,North Indian,2025-07-10 12:16:04,60.0,142.63,11.04,Cash,1.3,Delhi,Fatima,"Burger, Fries",No cancellation,0.0,2025-07-10,12,Thursday,True
+36307,5978,Noodle House,North Indian,2025-10-02 21:17:04,60.0,958.0,7.62,Wallet,2.0,Mumbai,Deepak,Sushi Set,Rider unavailable,0.0,2025-10-02,21,Thursday,True
+40732,4227,Burger Hub,North Indian,2025-11-15 04:54:04,60.0,958.0,27.63,Card,0.0,Bangalore,Harsh,"Pizza, Coke",Customer Cancelled,205.79,2025-11-15,4,Saturday,False
+15312,8820,Kebab Street,Fast Food,2025-10-07 07:40:04,85.0,435.09,0.0,Cash,5.0,Hyderabad,Rohan,Sushi Set,No cancellation,0.0,2025-10-07,7,Tuesday,True
+97579,3593,Biryani Express,North Indian,2025-05-17 09:00:04,49.0,1495.17,0.0,Upi,5.0,Delhi,Kiran,South Thali,Rider unavailable,0.0,2025-05-17,9,Saturday,True
+73626,4226,Noodle House,North Indian,2024-11-27 06:45:04,60.0,924.06,0.0,Wallet,1.6,Kolkata,Rohan,Noodles,No cancellation,0.0,2024-11-27,6,Wednesday,True
+33954,3342,Biryani Express,Mexican,2025-01-18 10:21:04,60.0,958.0,34.99,Upi,5.0,Pune,Fatima,Sushi Set,Rider unavailable,0.0,2025-01-18,10,Saturday,True
+78411,9957,Pizza Craft,Fast Food,2025-02-04 20:20:04,60.0,958.0,20.22,Cash,0.0,Bangalore,Rohan,Sushi Set,Rider unavailable,154.66,2025-02-04,20,Tuesday,False
+75182,9217,Veggie Point,Chinese,2025-08-31 03:35:04,28.0,958.0,0.0,Card,3.4,Hyderabad,Kiran,Sushi Set,Rider unavailable,0.0,2025-08-31,3,Sunday,True
+53551,9389,Spice Villa,Italian,2025-02-24 11:01:04,60.0,958.0,0.0,Wallet,0.0,Mumbai,Amit,Noodles,Customer Cancelled,0.0,2025-02-24,11,Monday,False
+26014,2007,Tandoori Nights,North Indian,2025-07-20 16:54:04,60.0,958.0,0.0,Card,3.9,Bangalore,Fatima,Sushi Set,Rider unavailable,0.0,2025-07-20,16,Sunday,True
+28718,9431,Pizza Craft,Fast Food,2025-09-02 15:38:04,118.0,754.92,0.0,Card,5.0,Pune,Amit,"Pizza, Coke",Customer Cancelled,0.0,2025-09-02,15,Tuesday,True
+46532,4584,Café Bliss,North Indian,2025-06-14 07:50:04,60.0,1456.25,13.76,Upi,3.7,Kolkata,Rohan,Noodles,Rider unavailable,0.0,2025-06-14,7,Saturday,True
+68512,9043,Burger Hub,North Indian,2024-12-22 09:00:04,41.0,1753.01,0.0,Upi,3.9,Bangalore,Harsh,"Burger, Fries",Restaurant busy,310.36,2024-12-22,9,Sunday,True
+13806,9742,Noodle House,South Indian,2025-06-07 16:32:04,37.0,1794.0,0.0,Upi,5.0,Delhi,Amit,"Burger, Fries",Restaurant busy,0.0,2025-06-07,16,Saturday,True
+84330,7371,Sushi World,Japanese,2025-11-01 02:08:04,60.0,958.0,0.0,Cash,0.0,Hyderabad,Deepak,South Thali,No cancellation,0.0,2025-11-01,2,Saturday,False
+36168,5948,Veggie Point,Chinese,2025-08-30 14:37:04,60.0,958.0,0.0,Upi,0.0,Hyderabad,Fatima,Sushi Set,Restaurant busy,0.0,2025-08-30,14,Saturday,False
+80058,3134,Veggie Point,North Indian,2024-12-05 15:51:04,60.0,958.0,0.0,Upi,0.0,Mumbai,Deepak,Biryani,No cancellation,0.0,2024-12-05,15,Thursday,False
+51258,3422,Biryani Express,Fast Food,2025-05-05 06:11:04,60.0,1301.11,8.27,Card,0.0,Bangalore,Rohan,"Pizza, Coke",Restaurant busy,0.0,2025-05-05,6,Monday,False
+92879,4997,Sushi World,Chinese,2025-11-05 16:51:04,60.0,958.0,23.97,Wallet,4.0,Bangalore,Amit,South Thali,Restaurant busy,0.0,2025-11-05,16,Wednesday,True
+30405,5225,Pizza Craft,South Indian,2025-10-15 15:51:04,60.0,958.0,0.0,Cash,0.0,Delhi,Fatima,"Pizza, Coke",Customer Cancelled,0.0,2025-10-15,15,Wednesday,False
+37821,2093,Pizza Craft,Fast Food,2025-06-23 13:39:04,60.0,958.0,36.95,Wallet,1.0,Hyderabad,Fatima,Sushi Set,Customer Cancelled,0.0,2025-06-23,13,Monday,True
+61894,7863,Kebab Street,Chinese,2025-07-29 15:18:04,60.0,958.0,0.0,Upi,3.0,Pune,Sana,Sushi Set,Customer Cancelled,313.61,2025-07-29,15,Tuesday,True
+90594,6969,Spice Villa,Italian,2025-02-08 16:25:04,60.0,1439.09,8.31,Card,2.6,Mumbai,Fatima,Sushi Set,Restaurant busy,0.0,2025-02-08,16,Saturday,True
+22664,4261,Burger Hub,Italian,2025-08-17 13:33:04,54.0,1665.97,0.0,Card,5.0,Pune,Deepak,South Thali,Customer Cancelled,0.0,2025-08-17,13,Sunday,True
+32362,6038,Veggie Point,Mexican,2025-10-11 19:56:04,60.0,765.94,30.45,Net Banking,5.0,Kolkata,Harsh,"Burger, Fries",Restaurant busy,0.0,2025-10-11,19,Saturday,True
+87730,3162,Noodle House,Italian,2025-02-16 15:04:04,60.0,958.0,0.0,Card,0.0,Kolkata,Amit,"Burger, Fries",Rider unavailable,521.81,2025-02-16,15,Sunday,False
+63747,5147,Sushi World,Japanese,2025-02-20 23:29:04,60.0,958.0,30.97,Wallet,3.1,Bangalore,Harsh,"Burger, Fries",Restaurant busy,0.0,2025-02-20,23,Thursday,True
+27348,1459,Biryani Express,Italian,2025-02-08 20:02:04,49.0,958.0,0.0,Upi,5.0,Delhi,Harsh,"Pizza, Coke",No cancellation,0.0,2025-02-08,20,Saturday,True
+47796,6250,Pizza Craft,South Indian,2025-05-02 00:25:04,60.0,958.0,0.0,Net Banking,0.0,Bangalore,Deepak,"Burger, Fries",Restaurant busy,0.0,2025-05-02,0,Friday,False
+97481,8831,Spice Villa,Italian,2025-10-30 15:13:04,60.0,958.0,0.0,Upi,0.0,Bangalore,Fatima,Biryani,No cancellation,0.0,2025-10-30,15,Thursday,False
+99772,1098,Burger Hub,Fast Food,2025-03-26 15:03:04,26.0,1121.86,0.0,Cash,3.6,Hyderabad,Kiran,South Thali,No cancellation,0.0,2025-03-26,15,Wednesday,True
+46603,2091,Noodle House,Mexican,2025-07-22 04:25:04,65.0,958.0,0.0,Upi,0.0,Bangalore,Harsh,Biryani,Customer Cancelled,406.32,2025-07-22,4,Tuesday,False
+23116,8864,Tandoori Nights,Fast Food,2025-08-30 10:02:04,60.0,958.0,9.63,Cash,2.4,Pune,Deepak,South Thali,Restaurant busy,0.0,2025-08-30,10,Saturday,True
+12965,5251,Tandoori Nights,Italian,2025-06-26 16:20:04,60.0,314.86,14.47,Wallet,5.0,Hyderabad,Kiran,South Thali,Restaurant busy,89.82,2025-06-26,16,Thursday,True
+78532,6128,Kebab Street,Chinese,2025-07-23 13:58:04,60.0,1763.71,0.0,Upi,3.7,Kolkata,Harsh,Noodles,Rider unavailable,160.87,2025-07-23,13,Wednesday,True
+11163,5415,Veggie Point,North Indian,2025-09-15 14:14:04,60.0,958.0,0.0,Cash,0.0,Kolkata,Amit,"Pizza, Coke",Rider unavailable,0.0,2025-09-15,14,Monday,False
+77352,8951,Pizza Craft,North Indian,2025-09-29 12:15:04,96.0,958.0,0.0,Upi,5.0,Mumbai,Fatima,Biryani,No cancellation,0.0,2025-09-29,12,Monday,True
+85455,7672,Tandoori Nights,North Indian,2025-05-30 06:35:04,60.0,958.0,0.0,Upi,0.0,Bangalore,Harsh,South Thali,Restaurant busy,0.0,2025-05-30,6,Friday,False
+26825,4070,Spice Villa,Fast Food,2025-01-31 09:33:04,60.0,608.38,21.28,Cash,0.0,Pune,Sana,"Pizza, Coke",Rider unavailable,359.52,2025-01-31,9,Friday,False
+35748,3399,Tandoori Nights,North Indian,2025-01-29 05:57:04,60.0,1632.94,20.53,Wallet,3.2,Kolkata,Amit,Noodles,Rider unavailable,126.28,2025-01-29,5,Wednesday,True
+81191,4921,Noodle House,North Indian,2024-12-05 03:28:04,60.0,958.0,0.0,Card,0.0,Mumbai,Fatima,"Burger, Fries",Restaurant busy,499.13,2024-12-05,3,Thursday,False
+12560,8343,Sushi World,Italian,2025-09-28 16:50:04,64.0,1419.1,0.0,Cash,0.0,Pune,Rohan,Biryani,No cancellation,0.0,2025-09-28,16,Sunday,False
+95718,7469,Café Bliss,Italian,2024-12-05 21:28:04,60.0,1775.75,0.0,Cash,2.6,Bangalore,Fatima,Sushi Set,Rider unavailable,0.0,2024-12-05,21,Thursday,True
+96477,6221,Café Bliss,South Indian,2025-10-11 06:37:04,60.0,958.0,26.8,Cash,5.0,Kolkata,Sana,"Pizza, Coke",No cancellation,0.0,2025-10-11,6,Saturday,True
+46700,4367,Sushi World,Fast Food,2025-06-07 15:30:04,54.0,517.79,0.0,Cash,5.0,Mumbai,Rohan,Sushi Set,Customer Cancelled,0.0,2025-06-07,15,Saturday,True
+22697,4808,Café Bliss,Fast Food,2025-05-24 18:49:04,60.0,958.0,9.95,Net Banking,0.0,Kolkata,Rohan,Sushi Set,Restaurant busy,0.0,2025-05-24,18,Saturday,False
+83096,9624,Pizza Craft,North Indian,2025-09-28 09:20:04,60.0,958.0,0.0,Card,2.2,Hyderabad,Rohan,"Pizza, Coke",Customer Cancelled,0.0,2025-09-28,9,Sunday,True
+41628,6479,Kebab Street,Italian,2025-08-20 02:48:04,48.0,1500.75,0.0,Net Banking,5.0,Pune,Amit,Noodles,No cancellation,0.0,2025-08-20,2,Wednesday,True
+71102,4112,Sushi World,Fast Food,2025-10-04 00:23:04,60.0,412.89,32.01,Upi,5.0,Mumbai,Kiran,South Thali,No cancellation,0.0,2025-10-04,0,Saturday,True
+13039,1680,Burger Hub,Chinese,2025-07-21 12:33:04,60.0,958.0,0.0,Cash,5.0,Bangalore,Rohan,Biryani,No cancellation,0.0,2025-07-21,12,Monday,True
+63392,9993,Spice Villa,Italian,2025-04-29 02:20:04,83.0,958.0,0.0,Cash,5.0,Kolkata,Rohan,Sushi Set,Restaurant busy,0.0,2025-04-29,2,Tuesday,True
+10491,1274,Sushi World,Chinese,2025-09-21 07:27:04,60.0,958.0,6.9,Upi,0.0,Bangalore,Deepak,"Pizza, Coke",Rider unavailable,514.62,2025-09-21,7,Sunday,False
+94480,4330,Burger Hub,Fast Food,2025-05-03 17:10:04,60.0,958.0,0.0,Card,5.0,Hyderabad,Kiran,"Burger, Fries",Rider unavailable,0.0,2025-05-03,17,Saturday,True
+10010,5896,Veggie Point,South Indian,2025-10-17 13:27:04,60.0,958.0,10.03,Wallet,5.0,Delhi,Fatima,Noodles,Rider unavailable,50.24,2025-10-17,13,Friday,True
+62394,3250,Burger Hub,South Indian,2025-11-08 17:28:04,111.0,958.0,8.09,Upi,0.0,Delhi,Amit,Biryani,No cancellation,0.0,2025-11-08,17,Saturday,False
+65605,1125,Burger Hub,Japanese,2025-01-31 20:07:04,60.0,958.0,0.0,Wallet,4.6,Mumbai,Amit,South Thali,No cancellation,0.0,2025-01-31,20,Friday,True
+76004,1782,Sushi World,South Indian,2025-05-01 17:29:04,60.0,958.0,12.35,Net Banking,0.0,Pune,Fatima,"Burger, Fries",Rider unavailable,0.0,2025-05-01,17,Thursday,False
+67053,9187,Spice Villa,Chinese,2025-06-13 04:27:04,60.0,958.0,0.0,Card,0.0,Bangalore,Harsh,"Burger, Fries",Customer Cancelled,0.0,2025-06-13,4,Friday,False
+97052,2788,Veggie Point,Chinese,2024-12-06 06:34:04,60.0,958.0,26.73,Net Banking,0.0,Pune,Kiran,Biryani,Rider unavailable,0.0,2024-12-06,6,Friday,False
+54583,6235,Pizza Craft,Italian,2025-06-10 03:52:04,76.0,132.27,0.0,Cash,5.0,Hyderabad,Sana,South Thali,Rider unavailable,87.78,2025-06-10,3,Tuesday,True
+36513,9960,Veggie Point,Italian,2025-05-18 16:03:04,47.0,958.0,0.0,Net Banking,0.0,Bangalore,Fatima,Noodles,No cancellation,0.0,2025-05-18,16,Sunday,False
+61528,2773,Pizza Craft,South Indian,2025-04-14 11:00:04,60.0,958.0,5.58,Card,3.4,Pune,Fatima,Noodles,Restaurant busy,0.0,2025-04-14,11,Monday,True
+66145,8074,Café Bliss,Mexican,2025-02-21 02:45:04,60.0,958.0,0.0,Upi,2.1,Bangalore,Sana,Noodles,Customer Cancelled,0.0,2025-02-21,2,Friday,True
+76841,2679,Kebab Street,Japanese,2025-08-25 21:00:04,76.0,958.0,11.52,Upi,0.0,Bangalore,Fatima,Sushi Set,Rider unavailable,0.0,2025-08-25,21,Monday,False
+27867,6712,Café Bliss,North Indian,2024-12-02 02:32:04,60.0,783.45,12.35,Upi,1.9,Hyderabad,Sana,South Thali,Rider unavailable,0.0,2024-12-02,2,Monday,True
+74608,2450,Noodle House,South Indian,2025-08-03 07:57:04,60.0,192.18,0.0,Upi,0.0,Kolkata,Amit,Biryani,Rider unavailable,0.0,2025-08-03,7,Sunday,False
+64396,7735,Pizza Craft,Italian,2025-08-24 14:33:04,107.0,958.0,0.0,Wallet,5.0,Bangalore,Kiran,Noodles,Restaurant busy,0.0,2025-08-24,14,Sunday,True
+82412,7644,Biryani Express,North Indian,2025-05-25 11:03:04,60.0,958.0,6.25,Card,5.0,Delhi,Amit,South Thali,Rider unavailable,456.93,2025-05-25,11,Sunday,True
+11990,6131,Noodle House,Fast Food,2025-10-04 04:47:04,53.0,958.0,0.0,Cash,4.0,Mumbai,Amit,"Burger, Fries",No cancellation,0.0,2025-10-04,4,Saturday,True
+79390,7894,Biryani Express,Japanese,2025-07-03 02:02:04,60.0,958.0,0.0,Cash,2.8,Delhi,Harsh,South Thali,Customer Cancelled,0.0,2025-07-03,2,Thursday,True
+65270,1853,Spice Villa,Fast Food,2025-03-31 20:39:04,60.0,1621.8,0.0,Cash,3.2,Pune,Amit,"Pizza, Coke",No cancellation,0.0,2025-03-31,20,Monday,True
+18902,5196,Burger Hub,North Indian,2025-09-27 22:57:04,60.0,1239.23,0.0,Cash,2.4,Kolkata,Fatima,"Pizza, Coke",Rider unavailable,0.0,2025-09-27,22,Saturday,True
+27414,9772,Spice Villa,Fast Food,2025-07-01 00:21:04,83.0,958.0,0.0,Card,1.8,Hyderabad,Rohan,Noodles,Restaurant busy,0.0,2025-07-01,0,Tuesday,True
+76355,2687,Café Bliss,South Indian,2025-06-22 08:16:04,60.0,958.0,0.0,Upi,0.0,Hyderabad,Kiran,Sushi Set,Rider unavailable,120.69,2025-06-22,8,Sunday,False
+71092,6836,Biryani Express,Japanese,2025-03-18 02:34:04,60.0,958.0,0.0,Card,0.0,Hyderabad,Rohan,Biryani,Rider unavailable,319.26,2025-03-18,2,Tuesday,False
+79044,5039,Kebab Street,Italian,2024-12-04 16:09:04,60.0,958.0,0.0,Net Banking,0.0,Delhi,Fatima,"Pizza, Coke",No cancellation,0.0,2024-12-04,16,Wednesday,False
+94269,6066,Café Bliss,Mexican,2025-09-09 01:45:04,60.0,958.0,0.0,Cash,4.1,Mumbai,Fatima,Biryani,Restaurant busy,0.0,2025-09-09,1,Tuesday,True
+48410,5045,Tandoori Nights,North Indian,2025-09-03 22:22:04,60.0,1185.56,0.0,Net Banking,0.0,Hyderabad,Amit,"Burger, Fries",Restaurant busy,0.0,2025-09-03,22,Wednesday,False
+14134,2483,Kebab Street,North Indian,2025-04-15 08:41:04,60.0,958.0,34.95,Card,3.6,Kolkata,Fatima,Biryani,Restaurant busy,0.0,2025-04-15,8,Tuesday,True
+23128,9182,Noodle House,Chinese,2024-12-13 17:35:04,60.0,652.94,0.0,Net Banking,1.3,Delhi,Sana,"Burger, Fries",Customer Cancelled,0.0,2024-12-13,17,Friday,True
+55105,5149,Noodle House,North Indian,2025-09-11 16:35:04,60.0,1270.6,0.0,Cash,5.0,Mumbai,Harsh,"Burger, Fries",Rider unavailable,0.0,2025-09-11,16,Thursday,True
+96808,9369,Veggie Point,Italian,2025-01-17 10:18:04,60.0,958.0,20.65,Cash,5.0,Bangalore,Fatima,"Pizza, Coke",Restaurant busy,0.0,2025-01-17,10,Friday,True
+73518,7187,Noodle House,Chinese,2025-08-16 20:15:04,77.0,958.0,0.0,Wallet,5.0,Hyderabad,Sana,South Thali,No cancellation,0.0,2025-08-16,20,Saturday,True
+31314,6547,Veggie Point,North Indian,2025-03-23 14:23:04,60.0,1026.88,1.23,Net Banking,0.0,Mumbai,Rohan,Biryani,Customer Cancelled,73.5,2025-03-23,14,Sunday,False
+82428,4954,Burger Hub,Fast Food,2025-04-26 22:55:04,60.0,958.0,20.66,Cash,0.0,Pune,Fatima,South Thali,Restaurant busy,0.0,2025-04-26,22,Saturday,False
+27187,6864,Pizza Craft,Italian,2025-02-04 14:37:04,60.0,958.0,37.21,Upi,3.1,Delhi,Harsh,Sushi Set,Restaurant busy,0.0,2025-02-04,14,Tuesday,True
+17779,9195,Sushi World,Italian,2025-07-17 18:08:04,60.0,912.02,19.58,Cash,5.0,Kolkata,Rohan,South Thali,No cancellation,0.0,2025-07-17,18,Thursday,True
+24599,2988,Burger Hub,Italian,2025-09-07 02:26:04,101.0,958.0,0.0,Card,2.1,Pune,Sana,Noodles,Customer Cancelled,98.87,2025-09-07,2,Sunday,True
+72994,4657,Burger Hub,South Indian,2025-07-31 15:43:04,60.0,958.0,15.63,Cash,2.6,Pune,Amit,Noodles,Customer Cancelled,0.0,2025-07-31,15,Thursday,True
+80195,9952,Café Bliss,North Indian,2025-06-15 05:02:04,60.0,308.46,24.78,Card,3.2,Pune,Sana,"Pizza, Coke",No cancellation,0.0,2025-06-15,5,Sunday,True
+72377,9823,Pizza Craft,South Indian,2025-08-08 06:53:04,60.0,958.0,0.0,Cash,5.0,Mumbai,Harsh,Noodles,No cancellation,0.0,2025-08-08,6,Friday,True
+48359,2878,Tandoori Nights,Chinese,2025-04-19 22:24:04,45.0,958.0,36.37,Cash,5.0,Hyderabad,Deepak,Noodles,Customer Cancelled,549.0,2025-04-19,22,Saturday,True
+30071,7509,Tandoori Nights,Fast Food,2025-03-02 14:33:04,84.0,958.0,0.0,Wallet,3.5,Hyderabad,Kiran,"Pizza, Coke",Restaurant busy,0.0,2025-03-02,14,Sunday,True
+52080,2508,Café Bliss,Italian,2025-03-23 07:02:04,60.0,1201.47,20.14,Cash,0.0,Mumbai,Rohan,"Pizza, Coke",Rider unavailable,0.0,2025-03-23,7,Sunday,False
+95787,5298,Pizza Craft,Mexican,2025-10-10 02:56:04,60.0,958.0,0.0,Wallet,0.0,Delhi,Harsh,Noodles,Restaurant busy,0.0,2025-10-10,2,Friday,False
+62045,7740,Burger Hub,South Indian,2025-05-16 15:49:04,75.0,958.0,0.0,Cash,0.0,Hyderabad,Kiran,Noodles,No cancellation,0.0,2025-05-16,15,Friday,False
+11988,6157,Burger Hub,Chinese,2025-05-15 19:13:04,17.0,958.0,19.43,Wallet,0.0,Delhi,Rohan,South Thali,No cancellation,0.0,2025-05-15,19,Thursday,False
+70379,7737,Kebab Street,Japanese,2025-10-11 11:36:04,60.0,958.0,8.89,Cash,2.1,Mumbai,Amit,Noodles,Rider unavailable,108.7,2025-10-11,11,Saturday,True
+73228,6253,Biryani Express,Italian,2025-08-11 07:08:04,60.0,1371.16,27.84,Net Banking,5.0,Delhi,Rohan,Biryani,Customer Cancelled,0.0,2025-08-11,7,Monday,True
+79039,4153,Tandoori Nights,Mexican,2025-10-29 22:58:04,60.0,1676.39,0.0,Cash,5.0,Bangalore,Fatima,"Burger, Fries",No cancellation,0.0,2025-10-29,22,Wednesday,True
+25475,4608,Veggie Point,Fast Food,2025-06-27 06:42:04,60.0,958.0,31.59,Card,5.0,Mumbai,Deepak,South Thali,Rider unavailable,0.0,2025-06-27,6,Friday,True
+82740,9018,Burger Hub,Italian,2025-01-26 03:32:04,60.0,958.0,0.0,Net Banking,2.4,Kolkata,Sana,South Thali,Rider unavailable,0.0,2025-01-26,3,Sunday,True
+32891,5444,Café Bliss,Fast Food,2025-04-14 13:16:04,60.0,958.0,0.0,Card,1.9,Kolkata,Deepak,Biryani,Restaurant busy,0.0,2025-04-14,13,Monday,True
+14660,4416,Tandoori Nights,Japanese,2025-01-15 21:11:04,60.0,958.0,14.05,Card,5.0,Kolkata,Sana,Biryani,Customer Cancelled,529.26,2025-01-15,21,Wednesday,True
+58541,5796,Burger Hub,Italian,2025-05-24 16:56:04,60.0,958.0,0.0,Upi,5.0,Pune,Sana,"Burger, Fries",Rider unavailable,0.0,2025-05-24,16,Saturday,True
+66644,9988,Veggie Point,Mexican,2025-10-17 13:34:04,60.0,319.64,0.0,Cash,0.0,Hyderabad,Harsh,Noodles,Restaurant busy,0.0,2025-10-17,13,Friday,False
+74932,5120,Pizza Craft,Japanese,2025-10-11 18:49:04,60.0,958.0,0.0,Card,1.6,Delhi,Amit,Noodles,Customer Cancelled,0.0,2025-10-11,18,Saturday,True
+53116,9655,Noodle House,Italian,2025-03-21 19:24:04,60.0,958.0,0.0,Upi,2.6,Mumbai,Rohan,Biryani,Restaurant busy,134.31,2025-03-21,19,Friday,True
+57502,4163,Café Bliss,North Indian,2025-11-15 20:18:04,83.0,958.0,0.0,Cash,5.0,Pune,Sana,South Thali,Customer Cancelled,0.0,2025-11-15,20,Saturday,True
+50784,3511,Spice Villa,North Indian,2025-11-06 00:33:04,60.0,958.0,0.0,Cash,5.0,Delhi,Fatima,Sushi Set,Customer Cancelled,0.0,2025-11-06,0,Thursday,True
+37824,7358,Café Bliss,Japanese,2025-08-05 23:08:04,60.0,958.0,31.67,Card,5.0,Hyderabad,Amit,Noodles,Customer Cancelled,0.0,2025-08-05,23,Tuesday,True
+47229,1734,Noodle House,Italian,2025-01-10 15:32:04,60.0,958.0,0.0,Cash,3.4,Delhi,Rohan,Biryani,Rider unavailable,0.0,2025-01-10,15,Friday,True
+69200,2334,Noodle House,Italian,2025-01-22 19:23:04,65.0,958.0,0.0,Cash,2.6,Bangalore,Deepak,Sushi Set,Rider unavailable,0.0,2025-01-22,19,Wednesday,True
+45661,4520,Café Bliss,Chinese,2025-11-16 22:46:04,60.0,958.0,0.0,Upi,5.0,Hyderabad,Amit,"Pizza, Coke",Customer Cancelled,655.17,2025-11-16,22,Sunday,True
+62629,8442,Café Bliss,Japanese,2025-01-01 17:14:04,60.0,958.0,34.86,Wallet,0.0,Pune,Harsh,Sushi Set,Restaurant busy,0.0,2025-01-01,17,Wednesday,False
+24322,3465,Veggie Point,Fast Food,2025-06-02 12:53:04,60.0,958.0,0.0,Upi,1.2,Pune,Harsh,"Burger, Fries",Restaurant busy,0.0,2025-06-02,12,Monday,True
+31515,7335,Café Bliss,Japanese,2025-06-11 00:24:04,60.0,958.0,0.0,Cash,0.0,Pune,Deepak,"Burger, Fries",No cancellation,0.0,2025-06-11,0,Wednesday,False
+78146,8090,Burger Hub,Italian,2025-02-13 04:39:04,60.0,958.0,26.26,Upi,0.0,Kolkata,Sana,Noodles,Customer Cancelled,0.0,2025-02-13,4,Thursday,False
+81748,5979,Veggie Point,North Indian,2025-02-24 18:19:04,60.0,958.0,0.0,Card,5.0,Mumbai,Deepak,"Burger, Fries",Customer Cancelled,0.0,2025-02-24,18,Monday,True
+25912,3785,Burger Hub,North Indian,2025-08-13 15:11:04,28.0,958.0,0.0,Upi,4.3,Kolkata,Sana,Biryani,Restaurant busy,0.0,2025-08-13,15,Wednesday,True
+14002,2700,Sushi World,North Indian,2025-08-13 16:07:04,60.0,958.0,0.0,Cash,0.0,Delhi,Deepak,Noodles,Rider unavailable,0.0,2025-08-13,16,Wednesday,False
+38003,9940,Tandoori Nights,South Indian,2025-05-19 02:14:04,60.0,863.06,0.0,Upi,3.1,Pune,Rohan,"Pizza, Coke",Customer Cancelled,0.0,2025-05-19,2,Monday,True
+33692,7193,Pizza Craft,North Indian,2025-11-20 14:04:04,90.0,1798.0,0.0,Net Banking,0.0,Delhi,Fatima,"Pizza, Coke",Customer Cancelled,0.0,2025-11-20,14,Thursday,False
+84554,8783,Biryani Express,Italian,2025-02-25 21:24:04,60.0,1662.69,0.0,Upi,0.0,Hyderabad,Kiran,"Pizza, Coke",Restaurant busy,0.0,2025-02-25,21,Tuesday,False
+60372,3523,Spice Villa,Fast Food,2025-11-18 03:14:04,60.0,474.02,0.94,Wallet,4.3,Hyderabad,Kiran,"Pizza, Coke",Customer Cancelled,65.61,2025-11-18,3,Tuesday,True
+50278,1846,Veggie Point,Mexican,2025-03-18 06:26:04,102.0,958.0,22.46,Cash,0.0,Pune,Sana,Sushi Set,No cancellation,0.0,2025-03-18,6,Tuesday,False
+29733,9803,Burger Hub,Japanese,2025-11-05 22:47:04,60.0,958.0,17.12,Wallet,0.0,Mumbai,Deepak,Sushi Set,Customer Cancelled,691.72,2025-11-05,22,Wednesday,False
+25238,9208,Burger Hub,Japanese,2025-06-16 01:59:04,23.0,958.0,0.0,Upi,0.0,Delhi,Rohan,Noodles,Rider unavailable,0.0,2025-06-16,1,Monday,False
+57959,2028,Sushi World,Mexican,2025-06-09 14:26:04,60.0,958.0,0.89,Upi,5.0,Hyderabad,Rohan,"Burger, Fries",Customer Cancelled,0.0,2025-06-09,14,Monday,True
+83029,1152,Veggie Point,Chinese,2024-12-02 16:22:04,60.0,588.13,3.72,Card,3.5,Delhi,Fatima,South Thali,Customer Cancelled,465.37,2024-12-02,16,Monday,True
+84257,5541,Burger Hub,Fast Food,2025-01-31 08:40:04,83.0,958.0,16.32,Wallet,0.0,Kolkata,Rohan,"Pizza, Coke",Restaurant busy,0.0,2025-01-31,8,Friday,False
+65338,7023,Burger Hub,North Indian,2025-08-27 05:27:04,58.0,868.4,3.51,Upi,4.1,Bangalore,Rohan,"Burger, Fries",Customer Cancelled,0.0,2025-08-27,5,Wednesday,True
+68265,8944,Spice Villa,Chinese,2025-01-24 04:18:04,60.0,958.0,0.0,Cash,5.0,Hyderabad,Fatima,Sushi Set,Rider unavailable,0.0,2025-01-24,4,Friday,True
+44265,2230,Spice Villa,North Indian,2025-03-07 11:23:04,60.0,958.0,0.0,Upi,0.0,Mumbai,Amit,Biryani,Rider unavailable,0.0,2025-03-07,11,Friday,False
+92055,4074,Veggie Point,Chinese,2025-10-29 19:32:04,60.0,1720.0,5.17,Upi,3.8,Hyderabad,Rohan,Biryani,No cancellation,0.0,2025-10-29,19,Wednesday,True
+91341,5910,Biryani Express,Italian,2025-11-17 12:42:04,60.0,442.46,0.0,Cash,0.0,Kolkata,Deepak,Biryani,Rider unavailable,377.7,2025-11-17,12,Monday,False
+94008,1586,Spice Villa,Fast Food,2025-11-18 14:00:04,61.0,600.41,0.0,Upi,5.0,Delhi,Fatima,South Thali,Customer Cancelled,0.0,2025-11-18,14,Tuesday,True
+48052,4870,Noodle House,North Indian,2025-08-13 05:47:04,60.0,958.0,0.0,Upi,0.0,Bangalore,Amit,Noodles,Rider unavailable,0.0,2025-08-13,5,Wednesday,False
+43176,5764,Burger Hub,Italian,2025-08-17 12:54:04,60.0,1333.95,12.12,Cash,0.0,Pune,Deepak,Sushi Set,Restaurant busy,0.0,2025-08-17,12,Sunday,False
+53449,7173,Noodle House,Fast Food,2025-02-26 13:56:04,83.0,958.0,0.0,Upi,0.0,Bangalore,Deepak,Biryani,Rider unavailable,0.0,2025-02-26,13,Wednesday,False
+77523,2255,Burger Hub,Italian,2025-07-10 04:47:04,60.0,1355.25,0.0,Wallet,5.0,Hyderabad,Amit,South Thali,Customer Cancelled,463.48,2025-07-10,4,Thursday,True
+49482,6856,Noodle House,North Indian,2025-05-28 21:53:04,60.0,912.16,0.0,Card,1.8,Kolkata,Rohan,Sushi Set,Restaurant busy,0.0,2025-05-28,21,Wednesday,True
+72370,7751,Tandoori Nights,Mexican,2025-10-18 13:27:04,60.0,153.23,0.0,Cash,0.0,Pune,Sana,"Burger, Fries",Customer Cancelled,0.0,2025-10-18,13,Saturday,False
+50439,8876,Noodle House,North Indian,2024-12-11 22:13:04,60.0,958.0,0.0,Card,5.0,Delhi,Deepak,South Thali,No cancellation,0.0,2024-12-11,22,Wednesday,True
+36142,3088,Spice Villa,South Indian,2025-06-07 19:30:04,60.0,958.0,0.0,Card,0.0,Mumbai,Harsh,Biryani,Customer Cancelled,409.68,2025-06-07,19,Saturday,False
+20991,4636,Spice Villa,Italian,2024-11-30 01:10:04,60.0,958.0,9.14,Upi,5.0,Delhi,Sana,Noodles,No cancellation,0.0,2024-11-30,1,Saturday,True
+77943,3434,Burger Hub,North Indian,2025-10-02 16:15:04,60.0,1571.49,27.41,Upi,5.0,Delhi,Rohan,"Pizza, Coke",No cancellation,0.0,2025-10-02,16,Thursday,True
+66877,8735,Café Bliss,Japanese,2025-01-07 14:40:04,60.0,166.99,0.0,Cash,3.2,Kolkata,Sana,South Thali,No cancellation,0.0,2025-01-07,14,Tuesday,True
+12117,4626,Burger Hub,Mexican,2025-07-12 21:58:04,60.0,958.0,0.0,Upi,2.5,Pune,Deepak,"Pizza, Coke",Rider unavailable,624.14,2025-07-12,21,Saturday,True
+87811,4628,Café Bliss,North Indian,2025-05-16 14:07:04,60.0,958.0,5.44,Net Banking,4.1,Mumbai,Amit,Biryani,Restaurant busy,0.0,2025-05-16,14,Friday,True
+17840,2529,Café Bliss,Italian,2024-12-19 02:45:04,21.0,831.3,0.0,Upi,1.9,Bangalore,Amit,"Pizza, Coke",Rider unavailable,0.0,2024-12-19,2,Thursday,True
+23971,5818,Noodle House,Italian,2025-11-01 02:36:04,60.0,958.0,0.0,Net Banking,2.2,Bangalore,Amit,"Burger, Fries",Restaurant busy,100.22,2025-11-01,2,Saturday,True
+36503,3479,Biryani Express,North Indian,2025-02-14 08:37:04,60.0,1656.84,0.0,Net Banking,3.1,Delhi,Harsh,"Burger, Fries",Restaurant busy,0.0,2025-02-14,8,Friday,True
+15702,1996,Burger Hub,North Indian,2025-01-15 05:22:04,60.0,958.0,0.0,Net Banking,2.5,Hyderabad,Sana,Biryani,Rider unavailable,0.0,2025-01-15,5,Wednesday,True
+66762,4743,Tandoori Nights,Italian,2025-01-21 08:53:04,103.0,484.96,0.0,Upi,4.6,Delhi,Rohan,"Pizza, Coke",Customer Cancelled,0.0,2025-01-21,8,Tuesday,True
+50779,7787,Veggie Point,Fast Food,2025-09-07 19:02:04,85.0,1011.4,22.87,Net Banking,4.1,Bangalore,Deepak,South Thali,No cancellation,0.0,2025-09-07,19,Sunday,True
+69449,8083,Spice Villa,Fast Food,2025-10-02 07:43:04,60.0,958.0,0.0,Card,5.0,Bangalore,Kiran,Sushi Set,No cancellation,0.0,2025-10-02,7,Thursday,True
+95633,1575,Spice Villa,Italian,2025-07-12 08:36:04,83.0,269.86,0.0,Cash,0.0,Delhi,Fatima,Biryani,No cancellation,0.0,2025-07-12,8,Saturday,False
+86068,2778,Tandoori Nights,Italian,2025-03-29 22:42:04,60.0,958.0,0.0,Upi,3.6,Hyderabad,Rohan,"Burger, Fries",No cancellation,0.0,2025-03-29,22,Saturday,True
+96846,3365,Kebab Street,Chinese,2025-08-23 00:29:04,27.0,958.0,0.0,Upi,5.0,Delhi,Rohan,Noodles,Rider unavailable,120.37,2025-08-23,0,Saturday,True
+94171,3568,Tandoori Nights,Mexican,2025-09-14 05:55:04,60.0,958.0,9.59,Card,0.0,Hyderabad,Deepak,Noodles,Restaurant busy,0.0,2025-09-14,5,Sunday,False
+83128,9185,Spice Villa,South Indian,2024-12-10 09:36:04,60.0,1603.25,0.0,Card,1.3,Hyderabad,Fatima,"Pizza, Coke",No cancellation,0.0,2024-12-10,9,Tuesday,True
+78153,1082,Biryani Express,Italian,2025-08-03 13:09:04,15.0,1058.16,8.04,Card,0.0,Mumbai,Rohan,"Burger, Fries",No cancellation,0.0,2025-08-03,13,Sunday,False
+56484,4596,Tandoori Nights,Fast Food,2025-06-13 11:07:04,110.0,958.0,0.0,Upi,2.4,Pune,Amit,South Thali,Rider unavailable,626.22,2025-06-13,11,Friday,True
+71586,5100,Spice Villa,Italian,2025-04-10 09:21:04,98.0,958.0,0.0,Wallet,0.0,Delhi,Fatima,Sushi Set,Restaurant busy,0.0,2025-04-10,9,Thursday,False
+24332,3323,Café Bliss,Mexican,2024-12-15 13:37:04,60.0,639.97,32.15,Cash,0.0,Mumbai,Deepak,"Burger, Fries",Rider unavailable,0.0,2024-12-15,13,Sunday,False
+40464,4233,Spice Villa,South Indian,2024-12-30 14:44:04,60.0,1518.7,0.0,Upi,5.0,Hyderabad,Fatima,"Pizza, Coke",Rider unavailable,310.17,2024-12-30,14,Monday,True
+30093,4440,Spice Villa,Chinese,2025-05-07 02:42:04,85.0,675.27,0.0,Wallet,5.0,Delhi,Sana,Biryani,Restaurant busy,632.69,2025-05-07,2,Wednesday,True
+32364,1470,Kebab Street,North Indian,2025-05-25 19:26:04,60.0,958.0,0.0,Cash,0.0,Bangalore,Rohan,Sushi Set,Customer Cancelled,0.0,2025-05-25,19,Sunday,False
+98584,2918,Veggie Point,Italian,2025-07-13 00:47:04,60.0,914.86,38.04,Cash,5.0,Pune,Deepak,Sushi Set,Restaurant busy,0.0,2025-07-13,0,Sunday,True
+88527,5912,Café Bliss,Japanese,2024-12-09 10:34:04,60.0,1217.12,31.28,Wallet,5.0,Hyderabad,Deepak,Sushi Set,Customer Cancelled,52.17,2024-12-09,10,Monday,True
+45752,4118,Sushi World,Mexican,2025-06-21 19:32:04,60.0,1309.73,1.75,Upi,1.2,Delhi,Amit,Biryani,Rider unavailable,0.0,2025-06-21,19,Saturday,True
+56933,1633,Burger Hub,Italian,2025-03-06 22:36:04,60.0,958.0,33.3,Cash,1.3,Pune,Rohan,Biryani,Rider unavailable,223.8,2025-03-06,22,Thursday,True
+59007,8752,Spice Villa,North Indian,2025-03-14 21:37:04,60.0,500.64,0.0,Cash,2.5,Kolkata,Rohan,"Pizza, Coke",Customer Cancelled,126.46,2025-03-14,21,Friday,True
+74601,4442,Spice Villa,North Indian,2025-03-22 21:48:04,60.0,958.0,0.0,Cash,0.0,Bangalore,Deepak,South Thali,Customer Cancelled,0.0,2025-03-22,21,Saturday,False
+45717,1100,Tandoori Nights,Japanese,2025-11-12 08:47:04,60.0,1576.26,3.04,Upi,0.0,Pune,Sana,Biryani,Rider unavailable,0.0,2025-11-12,8,Wednesday,False
+78489,4584,Burger Hub,Italian,2025-01-09 12:42:04,112.0,721.43,0.0,Upi,0.0,Delhi,Kiran,Sushi Set,No cancellation,0.0,2025-01-09,12,Thursday,False
+69298,6075,Kebab Street,Chinese,2025-04-23 08:17:04,60.0,958.0,22.65,Cash,0.0,Kolkata,Harsh,"Pizza, Coke",Restaurant busy,630.98,2025-04-23,8,Wednesday,False
+32412,9795,Café Bliss,Chinese,2025-01-10 05:15:04,90.0,958.0,0.0,Card,2.1,Kolkata,Deepak,South Thali,Restaurant busy,0.0,2025-01-10,5,Friday,True
+88725,3960,Spice Villa,Chinese,2025-05-01 07:22:04,86.0,958.0,0.0,Card,4.3,Pune,Kiran,Sushi Set,Restaurant busy,0.0,2025-05-01,7,Thursday,True
+80727,7475,Burger Hub,South Indian,2025-01-24 02:30:04,60.0,600.97,36.05,Net Banking,0.0,Mumbai,Sana,"Burger, Fries",Restaurant busy,574.5,2025-01-24,2,Friday,False
+71492,7864,Pizza Craft,Italian,2024-12-17 05:44:04,60.0,958.0,0.0,Upi,5.0,Hyderabad,Fatima,"Pizza, Coke",No cancellation,0.0,2024-12-17,5,Tuesday,True
+56207,7551,Sushi World,North Indian,2025-01-11 12:08:04,62.0,1628.73,0.0,Card,1.2,Hyderabad,Rohan,South Thali,Restaurant busy,0.0,2025-01-11,12,Saturday,True
+29193,3049,Pizza Craft,North Indian,2025-09-23 20:15:04,60.0,958.0,25.03,Upi,0.0,Pune,Kiran,South Thali,Restaurant busy,262.35,2025-09-23,20,Tuesday,False
+56393,7511,Sushi World,Mexican,2025-06-04 05:03:04,60.0,958.0,0.0,Cash,1.4,Mumbai,Deepak,"Burger, Fries",Customer Cancelled,0.0,2025-06-04,5,Wednesday,True
+14943,1561,Spice Villa,Japanese,2025-11-03 21:23:04,60.0,1198.26,28.37,Upi,0.0,Mumbai,Harsh,South Thali,Customer Cancelled,0.0,2025-11-03,21,Monday,False
+65530,9578,Sushi World,Chinese,2025-04-28 02:53:04,60.0,958.0,1.09,Card,5.0,Bangalore,Amit,Noodles,Customer Cancelled,181.72,2025-04-28,2,Monday,True
