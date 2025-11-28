@@ -1,6 +1,7 @@
 # Zomato_data_analysis
 
-**Data analytics project** showcasing focusing on restaurant and food-delivery insights using Python, SQL, and Power BI.
+**The Zomato Data Analysis Project** Is a complete end-to-end data analytics case study designed to understand how restaurants perform on Zomato and what factors influence customer choices.
+By analysing a real-world dataset, this project demonstrates how data-driven insights can help restaurants improve visibility, customer satisfaction, and business performance.
 This project covers the complete analytics workflow:  
 - Loading a dataset in Python  
 - Performing EDA  
