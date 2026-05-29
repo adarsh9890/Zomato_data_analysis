@@ -1,4 +1,4 @@
-# Zomato Delivery & Operations Analytics Pipeline
+# Zomato Delivery & Operations Analytics 
 
 An end-to-end data analytics project leveraging Python for data cleaning, MySQL for advanced relational query optimization, and Power BI to build an interactive business intelligence canvas mapping food delivery operations, customer behavior, and financial performance.
 
